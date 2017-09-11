@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Brilliant execution')], 'Nucleus', 'span')
+((2, 2), [(2, 'in displaying once and for all, this time in the venue of politics, of how "good intentions do actually pave the road')], 'Nucleus', 'span')
+((3, 3), [(3, 'to hell". Excellent!')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'in displaying once and for all, this time in the venue of politics, of how "good intentions do actually pave the road'), (3, 'to hell". Excellent!')], 'Satellite', 'elaboration')

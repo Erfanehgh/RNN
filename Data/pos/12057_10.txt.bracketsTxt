@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I saw this film on television years ago, but here')], 'Nucleus', 'span')
+((2, 2), [(2, 'several years')], 'Nucleus', 'span')
+((3, 3), [(3, 'after, I wake up')], 'Nucleus', 'span')
+((4, 4), [(4, 'in the morning, and still remember her face.<br /><br />This film is the most profoundly terrifying film')], 'Nucleus', 'span')
+((5, 5), [(5, 'I have seen.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'in the morning, and still remember her face.<br /><br />This film is the most profoundly terrifying film'), (5, 'I have seen.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'after, I wake up'), (4, 'in the morning, and still remember her face.<br /><br />This film is the most profoundly terrifying film'), (5, 'I have seen.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'several years'), (3, 'after, I wake up'), (4, 'in the morning, and still remember her face.<br /><br />This film is the most profoundly terrifying film'), (5, 'I have seen.')], 'Satellite', 'elaboration')

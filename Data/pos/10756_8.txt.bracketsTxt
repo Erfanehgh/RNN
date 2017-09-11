@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Very interesting and moving documentary about the World Trade Center tragedy on 11th September 2001.The main theme of it is the heroism of American fire-fighters')], 'Nucleus', 'span')
+((2, 2), [(2, 'who tried to rescue as many people')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Very interesting and moving documentary about the World Trade Center tragedy on 11th September 2001.The main theme of it is the heroism of American fire-fighters'), (2, 'who tried to rescue as many people')], 'Nucleus', 'span')
+((3, 3), [(3, 'as they could.The film is deeply emotional and rather disturbing-many people seen on screen have lost their lives!Recommended.')], 'Satellite', 'circumstance')

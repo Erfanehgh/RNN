@@ -1,0 +1,4 @@
+((1, 1), [(1, 'A ridiculous, badly acted Mini Cooper infomercial. Includes cameos from Pepsi, Dell, etc. <br /><br />Absolutely nothing')], 'Nucleus', 'span')
+((2, 2), [(2, 'worth rescuing here. Particularly bad are Donald Sutherland, the music score, scene transitions, etc. An embarrassing production.<br /><br />Hey, THEY should pay YOU')], 'Nucleus', 'span')
+((3, 3), [(3, 'for watching this one.')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'worth rescuing here. Particularly bad are Donald Sutherland, the music score, scene transitions, etc. An embarrassing production.<br /><br />Hey, THEY should pay YOU'), (3, 'for watching this one.')], 'Satellite', 'elaboration')

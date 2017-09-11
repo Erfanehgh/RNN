@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I became more emotionally attached to this movie than any other I have ever watched. That may be')], 'Nucleus', 'span')
+((2, 2), [(2, 'because I can see the characters')], 'Nucleus', 'span')
+((3, 3), [(3, 'as my own grandparents, attempting to make sense of a world at war.')], 'Nucleus', 'span')
+((4, 4), [(4, "The ending and use of Pachabel's Cannon are both amazing.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'as my own grandparents, attempting to make sense of a world at war.'), (4, "The ending and use of Pachabel's Cannon are both amazing.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'because I can see the characters'), (3, 'as my own grandparents, attempting to make sense of a world at war.'), (4, "The ending and use of Pachabel's Cannon are both amazing.")], 'Satellite', 'reason')

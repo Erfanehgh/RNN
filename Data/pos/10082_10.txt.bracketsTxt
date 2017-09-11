@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The movie is truly poignant, unique and uplifting. The story is universal')], 'Nucleus', 'span')
+((2, 2), [(2, "in that it's a battle between good, evil and the world between. THE MOST IMPORTANT thing is that its rating is wrong, misleading, and a travesty. Blockbuster has it rated")], 'Satellite', 'circumstance')
+((3, 3), [(3, 'as though it were an X rated movie.')], 'Nucleus', 'span')
+((4, 4), [(4, 'The truth is is that it is closer to G than PG and should be seen by children')], 'Nucleus', 'span')
+((5, 5), [(5, 'who can read the clear and simple sub-titles.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'The truth is is that it is closer to G than PG and should be seen by children'), (5, 'who can read the clear and simple sub-titles.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'as though it were an X rated movie.'), (4, 'The truth is is that it is closer to G than PG and should be seen by children'), (5, 'who can read the clear and simple sub-titles.')], 'Nucleus', 'span')
+((2, 5), [(2, "in that it's a battle between good, evil and the world between. THE MOST IMPORTANT thing is that its rating is wrong, misleading, and a travesty. Blockbuster has it rated"), (3, 'as though it were an X rated movie.'), (4, 'The truth is is that it is closer to G than PG and should be seen by children'), (5, 'who can read the clear and simple sub-titles.')], 'Satellite', 'circumstance')

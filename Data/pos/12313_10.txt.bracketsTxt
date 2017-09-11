@@ -1,0 +1,6 @@
+((1, 1), [(1, "For long time I haven't")], 'Nucleus', 'span')
+((2, 2), [(2, 'seen such a good fantasy movie, magic fights here are even better')], 'Nucleus', 'span')
+((3, 3), [(3, "than in LOTR, even considering that it's a 1987 movie and haven't computer special effects. This movie have good plot, good acting and interesting ideas. Recommend everybody")], 'Nucleus', 'span')
+((4, 4), [(4, 'to see it.')], 'Satellite', 'purpose')
+((3, 4), [(3, "than in LOTR, even considering that it's a 1987 movie and haven't computer special effects. This movie have good plot, good acting and interesting ideas. Recommend everybody"), (4, 'to see it.')], 'Satellite', 'comparison')
+((2, 4), [(2, 'seen such a good fantasy movie, magic fights here are even better'), (3, "than in LOTR, even considering that it's a 1987 movie and haven't computer special effects. This movie have good plot, good acting and interesting ideas. Recommend everybody"), (4, 'to see it.')], 'Satellite', 'elaboration')

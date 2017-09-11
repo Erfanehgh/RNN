@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This movie has a lot of comedy, not dark and Gordon Liu shines in this one. He displays his comical side and it was really weird seeing him get beat up.')], 'Nucleus', 'span')
+((2, 2), [(2, 'His training is "unorthodox" and who would\'ve thought knot')], 'Nucleus', 'span')
+((3, 3), [(3, "tying could be so deadly?? Lots of great stunts and choreography. Very creative!<br /><br />Add Johnny Wang in the mix and you've got an awesome final showdown! Don't mess with Manchu thugs; they're ruthless!")], 'Satellite', 'elaboration')
+((2, 3), [(2, 'His training is "unorthodox" and who would\'ve thought knot'), (3, "tying could be so deadly?? Lots of great stunts and choreography. Very creative!<br /><br />Add Johnny Wang in the mix and you've got an awesome final showdown! Don't mess with Manchu thugs; they're ruthless!")], 'Satellite', 'elaboration')

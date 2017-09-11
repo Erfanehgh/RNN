@@ -1,0 +1,8 @@
+((1, 1), [(1, 'As I was watching this film on video last night, I kept getting these tingles')], 'Nucleus', 'span')
+((2, 2), [(2, "that told me this one will endure. I've a feeling I'll be watching this again and again for years")], 'Nucleus', 'span')
+((3, 3), [(3, "to come.<br /><br />It's got all the timeless qualities")], 'Nucleus', 'list')
+((4, 4), [(4, 'you could ask for in a story/film. And')], 'Nucleus', 'list')
+((3, 4), [(3, "to come.<br /><br />It's got all the timeless qualities"), (4, 'you could ask for in a story/film. And')], 'Nucleus', 'span')
+((5, 5), [(5, 'even though some cultural references are obscure for me, a Western viewer, at the core this is a universal tale.')], 'Satellite', 'concession')
+((3, 5), [(3, "to come.<br /><br />It's got all the timeless qualities"), (4, 'you could ask for in a story/film. And'), (5, 'even though some cultural references are obscure for me, a Western viewer, at the core this is a universal tale.')], 'Satellite', 'purpose')
+((2, 5), [(2, "that told me this one will endure. I've a feeling I'll be watching this again and again for years"), (3, "to come.<br /><br />It's got all the timeless qualities"), (4, 'you could ask for in a story/film. And'), (5, 'even though some cultural references are obscure for me, a Western viewer, at the core this is a universal tale.')], 'Satellite', 'elaboration')

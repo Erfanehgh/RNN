@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I rented this movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'because the cover was cool looking, the first 15 minutes of the movie are okay and somehow interesting,')], 'Satellite', 'antithesis')
+((3, 3), [(3, 'but once the young woman and her little sister')], 'Nucleus', 'span')
+((4, 4), [(4, 'go on their trip everything goes to hell and the movie becomes boring.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'but once the young woman and her little sister'), (4, 'go on their trip everything goes to hell and the movie becomes boring.')], 'Nucleus', 'span')
+((2, 4), [(2, 'because the cover was cool looking, the first 15 minutes of the movie are okay and somehow interesting,'), (3, 'but once the young woman and her little sister'), (4, 'go on their trip everything goes to hell and the movie becomes boring.')], 'Satellite', 'reason')

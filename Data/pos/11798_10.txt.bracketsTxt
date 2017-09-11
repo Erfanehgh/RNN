@@ -1,0 +1,4 @@
+((1, 1), [(1, "I've seen this film literally over 100 times...it's absolutely jam-packed with entertainment!!! Powers Boothe gives a stellar performance.")], 'Nucleus', 'span')
+((2, 2), [(2, 'As a fan of actors such as William Shatner (Impulse, 1974) and Ron Liebmann (Up The Academy, 1981)I never thought an actor could capture the "intensity" like Shatner and Liebmann in those roles,')], 'Nucleus', 'span')
+((3, 3), [(3, "until I saw Boothe as Jim Jones! As far as I'm concerned, Powers Boothe IS Jim Jones...this film captures his best performance!!!")], 'Satellite', 'condition')
+((2, 3), [(2, 'As a fan of actors such as William Shatner (Impulse, 1974) and Ron Liebmann (Up The Academy, 1981)I never thought an actor could capture the "intensity" like Shatner and Liebmann in those roles,'), (3, "until I saw Boothe as Jim Jones! As far as I'm concerned, Powers Boothe IS Jim Jones...this film captures his best performance!!!")], 'Satellite', 'elaboration')

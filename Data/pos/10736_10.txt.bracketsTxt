@@ -1,0 +1,6 @@
+((1, 1), [(1, 'These two men went thru hell and beyond and have produced the movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'that conveys the terror')], 'Nucleus', 'span')
+((3, 3), [(3, 'that many did not survive.')], 'Nucleus', 'textualorganization')
+((4, 4), [(4, "This is definitely a movie about survival, but not without it's touching moments.<br /><br />The finest piece of work I have seen documenting the 9/11/01 tragedy of New York City.")], 'Nucleus', 'textualorganization')
+((3, 4), [(3, 'that many did not survive.'), (4, "This is definitely a movie about survival, but not without it's touching moments.<br /><br />The finest piece of work I have seen documenting the 9/11/01 tragedy of New York City.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'that conveys the terror'), (3, 'that many did not survive.'), (4, "This is definitely a movie about survival, but not without it's touching moments.<br /><br />The finest piece of work I have seen documenting the 9/11/01 tragedy of New York City.")], 'Satellite', 'elaboration')

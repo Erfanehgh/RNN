@@ -1,0 +1,8 @@
+((1, 1), [(1, "it's hard to tell the actors from the non-actors. Bad American movies can be spotted")], 'Nucleus', 'span')
+((2, 2), [(2, 'by all the youngsters prefacing every single line of dialog with "You know what?" Bad Canadian movies can be spotted')], 'Nucleus', 'span')
+((3, 3), [(3, 'by all the youngsters')], 'Nucleus', 'span')
+((4, 4), [(4, 'ending every single line of dialog with "Eh?" Have')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'by all the youngsters'), (4, 'ending every single line of dialog with "Eh?" Have')], 'Nucleus', 'same_unit')
+((5, 5), [(5, 'we learned nothing in a century of filmmaking? Cannot the entire weight of millions of wannabes descending on Hollywood with scripts and reels in hand rescue us from these horrible TV-movies-made-to-order?')], 'Nucleus', 'same_unit')
+((3, 5), [(3, 'by all the youngsters'), (4, 'ending every single line of dialog with "Eh?" Have'), (5, 'we learned nothing in a century of filmmaking? Cannot the entire weight of millions of wannabes descending on Hollywood with scripts and reels in hand rescue us from these horrible TV-movies-made-to-order?')], 'Satellite', 'means')
+((2, 5), [(2, 'by all the youngsters prefacing every single line of dialog with "You know what?" Bad Canadian movies can be spotted'), (3, 'by all the youngsters'), (4, 'ending every single line of dialog with "Eh?" Have'), (5, 'we learned nothing in a century of filmmaking? Cannot the entire weight of millions of wannabes descending on Hollywood with scripts and reels in hand rescue us from these horrible TV-movies-made-to-order?')], 'Satellite', 'means')

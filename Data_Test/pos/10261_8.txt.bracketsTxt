@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Now, I am not prone to much emotion,')], 'Nucleus', 'span')
+((2, 2), [(2, 'but I cried seeing this movie. It certainly has more appeal among blacks than other ethnic groups, but there is something here')], 'Nucleus', 'span')
+((3, 3), [(3, 'for everyone. The classic song "It\'s so Hard to Say Goodbye"')], 'Nucleus', 'span')
+((4, 4), [(4, 'really makes this one worth watching at least once.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'for everyone. The classic song "It\'s so Hard to Say Goodbye"'), (4, 'really makes this one worth watching at least once.')], 'Satellite', 'example')
+((2, 4), [(2, 'but I cried seeing this movie. It certainly has more appeal among blacks than other ethnic groups, but there is something here'), (3, 'for everyone. The classic song "It\'s so Hard to Say Goodbye"'), (4, 'really makes this one worth watching at least once.')], 'Satellite', 'elaboration')

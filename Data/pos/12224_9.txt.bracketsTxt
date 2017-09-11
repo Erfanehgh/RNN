@@ -1,0 +1,8 @@
+((1, 1), [(1, 'i got to see the whole movie last night and i found it very exciting.it was at least,not')], 'Nucleus', 'span')
+((2, 2), [(2, 'like the teen-slasher movies')], 'Nucleus', 'span')
+((3, 3), [(3, "that pop out every now and then.the search for the killer and the 'partner' relationship between the hero&the so-called bad guy was parts")], 'Nucleus', 'span')
+((4, 4), [(4, 'i liked about the movie.also,i remember')], 'Satellite', 'attribution')
+((5, 5), [(5, "once being on the edge of my seat during a specific scene in the movie.i mean it's exciting.maybe some time later,i might watch the movie again...")], 'Nucleus', 'span')
+((4, 5), [(4, 'i liked about the movie.also,i remember'), (5, "once being on the edge of my seat during a specific scene in the movie.i mean it's exciting.maybe some time later,i might watch the movie again...")], 'Satellite', 'elaboration')
+((3, 5), [(3, "that pop out every now and then.the search for the killer and the 'partner' relationship between the hero&the so-called bad guy was parts"), (4, 'i liked about the movie.also,i remember'), (5, "once being on the edge of my seat during a specific scene in the movie.i mean it's exciting.maybe some time later,i might watch the movie again...")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'like the teen-slasher movies'), (3, "that pop out every now and then.the search for the killer and the 'partner' relationship between the hero&the so-called bad guy was parts"), (4, 'i liked about the movie.also,i remember'), (5, "once being on the edge of my seat during a specific scene in the movie.i mean it's exciting.maybe some time later,i might watch the movie again...")], 'Satellite', 'elaboration')

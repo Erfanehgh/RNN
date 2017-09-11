@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This was an attempt toward a romantic comedy, and one')], 'Nucleus', 'span')
+((2, 2), [(2, 'which did not work.')], 'Satellite', 'attribution')
+((3, 3), [(3, "Although the film was cast in an interesting manner, the dismal script betrayed the best efforts of all. The director's fey mannerisms may have succeeded")], 'Nucleus', 'span')
+((4, 4), [(4, 'if he had adopted a point of view. It was embarrassing to watch William Baldwin and, in particular, Armin Muller-Stahl.')], 'Satellite', 'condition')
+((3, 4), [(3, "Although the film was cast in an interesting manner, the dismal script betrayed the best efforts of all. The director's fey mannerisms may have succeeded"), (4, 'if he had adopted a point of view. It was embarrassing to watch William Baldwin and, in particular, Armin Muller-Stahl.')], 'Nucleus', 'span')
+((2, 4), [(2, 'which did not work.'), (3, "Although the film was cast in an interesting manner, the dismal script betrayed the best efforts of all. The director's fey mannerisms may have succeeded"), (4, 'if he had adopted a point of view. It was embarrassing to watch William Baldwin and, in particular, Armin Muller-Stahl.')], 'Satellite', 'elaboration')

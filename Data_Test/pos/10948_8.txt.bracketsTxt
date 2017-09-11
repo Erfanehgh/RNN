@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Like a very expensive Buffy episode peppered with plenty of humor. Lots of wire and stunt kung fu. The Twins Effect goes on the list of classic must see HK films.')], 'Satellite', 'attribution')
+((2, 2), [(2, 'The vampires have a cool blend of hopping ghost type and the pretty boy European style.')], 'Nucleus', 'span')
+((3, 3), [(3, 'If you get the opportunity')], 'Satellite', 'condition')
+((4, 4), [(4, 'to see this one in the theatre it is worth a 30 minute drive, otherwise buy the import DVD before someone screws it up')], 'Nucleus', 'span')
+((5, 5), [(5, 'by giving it a bad dub.')], 'Satellite', 'means')
+((4, 5), [(4, 'to see this one in the theatre it is worth a 30 minute drive, otherwise buy the import DVD before someone screws it up'), (5, 'by giving it a bad dub.')], 'Nucleus', 'span')
+((3, 5), [(3, 'If you get the opportunity'), (4, 'to see this one in the theatre it is worth a 30 minute drive, otherwise buy the import DVD before someone screws it up'), (5, 'by giving it a bad dub.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'The vampires have a cool blend of hopping ghost type and the pretty boy European style.'), (3, 'If you get the opportunity'), (4, 'to see this one in the theatre it is worth a 30 minute drive, otherwise buy the import DVD before someone screws it up'), (5, 'by giving it a bad dub.')], 'Nucleus', 'span')

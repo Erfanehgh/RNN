@@ -1,0 +1,4 @@
+((1, 1), [(1, 'I absolutely loved this movie.')], 'Satellite', 'attribution')
+((2, 2), [(2, 'It met all expectations and went')], 'Satellite', 'attribution')
+((3, 3), [(3, "beyond that. I loved the humor and the way the movie wasn't just randomly silly. It also had a message. Jim Carrey makes me happy. :)")], 'Nucleus', 'span')
+((2, 3), [(2, 'It met all expectations and went'), (3, "beyond that. I loved the humor and the way the movie wasn't just randomly silly. It also had a message. Jim Carrey makes me happy. :)")], 'Nucleus', 'span')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I have fond memories')], 'Nucleus', 'span')
+((2, 2), [(2, 'of watching this visually dazzling film')], 'Nucleus', 'span')
+((3, 3), [(3, 'as a child in the late 70s/early 80s on wor-tv (now upn-9) in NY. Though a product of the swinging 60s, this film has hardly aged. The effects are just as wonderous as 2001, and in some ways')], 'Nucleus', 'span')
+((4, 4), [(4, 'superior (the model work is flawless).')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'as a child in the late 70s/early 80s on wor-tv (now upn-9) in NY. Though a product of the swinging 60s, this film has hardly aged. The effects are just as wonderous as 2001, and in some ways'), (4, 'superior (the model work is flawless).')], 'Nucleus', 'span')
+((5, 5), [(5, 'With an attractive cast, great color photography and set design, and an evocative score, JTTFSOTS is a winner!')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'as a child in the late 70s/early 80s on wor-tv (now upn-9) in NY. Though a product of the swinging 60s, this film has hardly aged. The effects are just as wonderous as 2001, and in some ways'), (4, 'superior (the model work is flawless).'), (5, 'With an attractive cast, great color photography and set design, and an evocative score, JTTFSOTS is a winner!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'of watching this visually dazzling film'), (3, 'as a child in the late 70s/early 80s on wor-tv (now upn-9) in NY. Though a product of the swinging 60s, this film has hardly aged. The effects are just as wonderous as 2001, and in some ways'), (4, 'superior (the model work is flawless).'), (5, 'With an attractive cast, great color photography and set design, and an evocative score, JTTFSOTS is a winner!')], 'Satellite', 'elaboration')

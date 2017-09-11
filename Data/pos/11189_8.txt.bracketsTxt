@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Pet Sematary is a very good horror film')], 'Nucleus', 'list')
+((2, 2), [(2, 'and believe it or not somebody can make a good horror film out of a Stephen King novel. Mary Lambert does a great job')], 'Nucleus', 'span')
+((3, 3), [(3, 'with this film')], 'Nucleus', 'list')
+((4, 4), [(4, "and manages to bring across King's creepy story pretty well. Most people may avoid this,")], 'Nucleus', 'contrast')
+((5, 5), [(5, 'but they should check it out.')], 'Nucleus', 'contrast')
+((4, 5), [(4, "and manages to bring across King's creepy story pretty well. Most people may avoid this,"), (5, 'but they should check it out.')], 'Nucleus', 'list')
+((3, 5), [(3, 'with this film'), (4, "and manages to bring across King's creepy story pretty well. Most people may avoid this,"), (5, 'but they should check it out.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'and believe it or not somebody can make a good horror film out of a Stephen King novel. Mary Lambert does a great job'), (3, 'with this film'), (4, "and manages to bring across King's creepy story pretty well. Most people may avoid this,"), (5, 'but they should check it out.')], 'Nucleus', 'list')

@@ -1,0 +1,8 @@
+((1, 1), [(1, "If you're a a fan of either or both Chuck Norris & Judson Mills then this is the movie to see.It has a lot of adventure in it.It is a great follow up to President's Man.The chemistry between the main three stars(Chuck Norris,Judson Mills,Jennifer Tung)is incredible.My personal opinion.This movie along with the original,has turned out")], 'Nucleus', 'span')
+((2, 2), [(2, "so well,that the networks should consider turning it into a regular series.If you've seen President's Man,i recommend this movie for you.If you've seen President's Man:A Line In The Sand")], 'Nucleus', 'span')
+((3, 3), [(3, "but you haven't seen President's Man,then let me suggest")], 'Satellite', 'attribution')
+((4, 4), [(4, 'that you do.You will not be disappointed')], 'Nucleus', 'span')
+((5, 5), [(5, 'with either one.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'that you do.You will not be disappointed'), (5, 'with either one.')], 'Nucleus', 'span')
+((3, 5), [(3, "but you haven't seen President's Man,then let me suggest"), (4, 'that you do.You will not be disappointed'), (5, 'with either one.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "so well,that the networks should consider turning it into a regular series.If you've seen President's Man,i recommend this movie for you.If you've seen President's Man:A Line In The Sand"), (3, "but you haven't seen President's Man,then let me suggest"), (4, 'that you do.You will not be disappointed'), (5, 'with either one.')], 'Satellite', 'elaboration')

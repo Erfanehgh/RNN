@@ -1,0 +1,8 @@
+((1, 1), [(1, 'In the spirit of the classic "The Sting", this movie hits')], 'Nucleus', 'span')
+((2, 2), [(2, 'where it truly hurts... in the heart! A prim, proper female psychiatrist, hungry for adventure, meets up with the dirtiest and rottenest of scoundrals. The vulnerable doctor falls for the career badman, and begs')], 'Nucleus', 'span')
+((3, 3), [(3, 'to be involved in his operation.')], 'Nucleus', 'list')
+((4, 4), [(4, 'While the movie moves kind of "slow", it\'s climax and ending are stunning! You\'ll especially enjoy')], 'Satellite', 'attribution')
+((5, 5), [(5, 'how the doctor "forgives herself"!')], 'Nucleus', 'span')
+((4, 5), [(4, 'While the movie moves kind of "slow", it\'s climax and ending are stunning! You\'ll especially enjoy'), (5, 'how the doctor "forgives herself"!')], 'Nucleus', 'list')
+((3, 5), [(3, 'to be involved in his operation.'), (4, 'While the movie moves kind of "slow", it\'s climax and ending are stunning! You\'ll especially enjoy'), (5, 'how the doctor "forgives herself"!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'where it truly hurts... in the heart! A prim, proper female psychiatrist, hungry for adventure, meets up with the dirtiest and rottenest of scoundrals. The vulnerable doctor falls for the career badman, and begs'), (3, 'to be involved in his operation.'), (4, 'While the movie moves kind of "slow", it\'s climax and ending are stunning! You\'ll especially enjoy'), (5, 'how the doctor "forgives herself"!')], 'Satellite', 'elaboration')

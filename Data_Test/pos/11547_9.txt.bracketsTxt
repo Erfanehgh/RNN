@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This film is an excellent teaching tool')], 'Nucleus', 'span')
+((2, 2), [(2, 'as a pre-study of "To Kill a Mockingbird."')], 'Nucleus', 'span')
+((3, 3), [(3, 'In conjunction with a study of the novel itself, "...Caged Bird..." can be used')], 'Nucleus', 'span')
+((4, 4), [(4, 'as an independent literary study or as an introduction to TKM.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'In conjunction with a study of the novel itself, "...Caged Bird..." can be used'), (4, 'as an independent literary study or as an introduction to TKM.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'as a pre-study of "To Kill a Mockingbird."'), (3, 'In conjunction with a study of the novel itself, "...Caged Bird..." can be used'), (4, 'as an independent literary study or as an introduction to TKM.')], 'Satellite', 'circumstance')

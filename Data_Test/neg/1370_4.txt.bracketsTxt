@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This film is worth seeing')], 'Nucleus', 'span')
+((2, 2), [(2, 'since it is a classic in the sense')], 'Nucleus', 'span')
+((3, 3), [(3, 'of being the very first full length film')], 'Nucleus', 'span')
+((4, 4), [(4, 'released in the process of three demention. It was not very good in its acting or story plot,')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'of being the very first full length film'), (4, 'released in the process of three demention. It was not very good in its acting or story plot,')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'since it is a classic in the sense'), (3, 'of being the very first full length film'), (4, 'released in the process of three demention. It was not very good in its acting or story plot,')], 'Satellite', 'antithesis')
+((5, 5), [(5, 'but can be a great movie quiz question from an historical standpoint. It should be seen in the 3 D process with polarized lenses.')], 'Nucleus', 'span')
+((2, 5), [(2, 'since it is a classic in the sense'), (3, 'of being the very first full length film'), (4, 'released in the process of three demention. It was not very good in its acting or story plot,'), (5, 'but can be a great movie quiz question from an historical standpoint. It should be seen in the 3 D process with polarized lenses.')], 'Satellite', 'elaboration')

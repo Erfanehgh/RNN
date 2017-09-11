@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Although the story is fictional, it draws from the reality of not only the history of latin american countries but all the third world. This is the true, pure and raw recent history of these countries summarized concisely in this novel / film. The offbeat supranatural stuff, lightens up the intensity of historical events')], 'Nucleus', 'span')
+((2, 2), [(2, 'presented in this movie.')], 'Nucleus', 'span')
+((3, 3), [(3, 'After all the supranatural stuff is a part of the culture in the third world.')], 'Nucleus', 'span')
+((4, 4), [(4, 'Although is not critically acclaimed (probably')], 'Nucleus', 'span')
+((5, 5), [(5, 'because of the supranatural stuff), This is an excellent movie, with a great story and great acting.')], 'Satellite', 'reason')
+((4, 5), [(4, 'Although is not critically acclaimed (probably'), (5, 'because of the supranatural stuff), This is an excellent movie, with a great story and great acting.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'After all the supranatural stuff is a part of the culture in the third world.'), (4, 'Although is not critically acclaimed (probably'), (5, 'because of the supranatural stuff), This is an excellent movie, with a great story and great acting.')], 'Satellite', 'temporal')
+((2, 5), [(2, 'presented in this movie.'), (3, 'After all the supranatural stuff is a part of the culture in the third world.'), (4, 'Although is not critically acclaimed (probably'), (5, 'because of the supranatural stuff), This is an excellent movie, with a great story and great acting.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, '<br /><br />I would highly recommend seeing this movie.')], 'Nucleus', 'span')
+((2, 2), [(2, 'After viewing it, you will be able to walk out of every other bad movie EVER saying')], 'Nucleus', 'span')
+((3, 3), [(3, '"at least it wasn\'t The Omega Code."<br /><br />Forget my money,')], 'Nucleus', 'span')
+((4, 4), [(4, 'I want my TIME')], 'Nucleus', 'span')
+((5, 5), [(5, 'back!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'I want my TIME'), (5, 'back!')], 'Satellite', 'elaboration')
+((3, 5), [(3, '"at least it wasn\'t The Omega Code."<br /><br />Forget my money,'), (4, 'I want my TIME'), (5, 'back!')], 'Satellite', 'concession')
+((2, 5), [(2, 'After viewing it, you will be able to walk out of every other bad movie EVER saying'), (3, '"at least it wasn\'t The Omega Code."<br /><br />Forget my money,'), (4, 'I want my TIME'), (5, 'back!')], 'Satellite', 'circumstance')

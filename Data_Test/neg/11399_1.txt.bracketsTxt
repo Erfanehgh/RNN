@@ -1,0 +1,8 @@
+((1, 1), [(1, 'If this was the best dutch cinema')], 'Satellite', 'condition')
+((2, 2), [(2, 'had to offer these years, my worst fears have come true.')], 'Nucleus', 'span')
+((3, 3), [(3, "I have NEVER, even in dutch movies, seen worse acting. I couldn't get myself")], 'Nucleus', 'span')
+((4, 4), [(4, 'to watch it for more than 40 minutes,')], 'Nucleus', 'span')
+((5, 5), [(5, "so if that's the cause of me missing the genius, so be it.<br /><br />")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'to watch it for more than 40 minutes,'), (5, "so if that's the cause of me missing the genius, so be it.<br /><br />")], 'Satellite', 'purpose')
+((3, 5), [(3, "I have NEVER, even in dutch movies, seen worse acting. I couldn't get myself"), (4, 'to watch it for more than 40 minutes,'), (5, "so if that's the cause of me missing the genius, so be it.<br /><br />")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'had to offer these years, my worst fears have come true.'), (3, "I have NEVER, even in dutch movies, seen worse acting. I couldn't get myself"), (4, 'to watch it for more than 40 minutes,'), (5, "so if that's the cause of me missing the genius, so be it.<br /><br />")], 'Nucleus', 'span')

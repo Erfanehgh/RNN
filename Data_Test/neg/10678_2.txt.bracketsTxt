@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I will not even make any more comments about this movie.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Instead I will make a recommendation for all you Euro-horror fans:')], 'Nucleus', 'span')
+((3, 3), [(3, 'If you want to see an enjoyable low-budget Vampire flick, check out Nattens engel (1998).')], 'Satellite', 'condition')
+((4, 4), [(4, 'It has everything Razor Blade Smile lacks: acting, nice locations, terrific score, and less hissing vampires...')], 'Nucleus', 'span')
+((3, 4), [(3, 'If you want to see an enjoyable low-budget Vampire flick, check out Nattens engel (1998).'), (4, 'It has everything Razor Blade Smile lacks: acting, nice locations, terrific score, and less hissing vampires...')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'Instead I will make a recommendation for all you Euro-horror fans:'), (3, 'If you want to see an enjoyable low-budget Vampire flick, check out Nattens engel (1998).'), (4, 'It has everything Razor Blade Smile lacks: acting, nice locations, terrific score, and less hissing vampires...')], 'Satellite', 'elaboration')

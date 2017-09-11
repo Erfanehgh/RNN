@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I loved this movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'since I was 7 and I saw it on the opening day. It was so touching and beautiful.')], 'Nucleus', 'span')
+((3, 3), [(3, "I strongly recommend seeing for all. It's a movie")], 'Nucleus', 'span')
+((4, 4), [(4, 'to watch')], 'Nucleus', 'span')
+((5, 5), [(5, 'with your family by far.<br /><br />My MPAA rating: PG-13 for thematic elements, prolonged scenes of disastor, nudity/sexuality and some language.')], 'Satellite', 'circumstance')
+((4, 5), [(4, 'to watch'), (5, 'with your family by far.<br /><br />My MPAA rating: PG-13 for thematic elements, prolonged scenes of disastor, nudity/sexuality and some language.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "I strongly recommend seeing for all. It's a movie"), (4, 'to watch'), (5, 'with your family by far.<br /><br />My MPAA rating: PG-13 for thematic elements, prolonged scenes of disastor, nudity/sexuality and some language.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'since I was 7 and I saw it on the opening day. It was so touching and beautiful.'), (3, "I strongly recommend seeing for all. It's a movie"), (4, 'to watch'), (5, 'with your family by far.<br /><br />My MPAA rating: PG-13 for thematic elements, prolonged scenes of disastor, nudity/sexuality and some language.')], 'Satellite', 'elaboration')

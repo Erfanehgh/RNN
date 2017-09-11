@@ -1,0 +1,6 @@
+((1, 1), [(1, "Most of Wayne's B westerns are kind of fun in a naive way, but this one really stinks. The editing is terrible, and the direction and pacing is completely lethargic. Most of the cast stands")], 'Nucleus', 'span')
+((2, 2), [(2, 'around waiting for the mute guy')], 'Nucleus', 'span')
+((3, 3), [(3, 'to write down his thoughts on a pad of paper, and I was bored. Sorry, Duke,')], 'Nucleus', 'span')
+((4, 4), [(4, 'but this gets a 1.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'to write down his thoughts on a pad of paper, and I was bored. Sorry, Duke,'), (4, 'but this gets a 1.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'around waiting for the mute guy'), (3, 'to write down his thoughts on a pad of paper, and I was bored. Sorry, Duke,'), (4, 'but this gets a 1.')], 'Satellite', 'elaboration')

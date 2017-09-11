@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This was a new alltime low among westerns. The writing is excruciatingly bad, characters are impossible')], 'Nucleus', 'span')
+((2, 2), [(2, "to emphasize with and are either disgusting or bland, the violence is appalling and technically not very convincingly executed. And Tobey Maguire shows us the flip side of his talent, sleepwalking through his part with those expressionless eyes and that raspy voice of his that here betrays only mannerism. 'Ride")], 'Nucleus', 'span')
+((3, 3), [(3, "With the Devil' is among my five worst movie experiences ever, a western")], 'Satellite', 'circumstance')
+((4, 4), [(4, 'never to be surpassed in the negative respect.')], 'Nucleus', 'span')
+((3, 4), [(3, "With the Devil' is among my five worst movie experiences ever, a western"), (4, 'never to be surpassed in the negative respect.')], 'Satellite', 'elaboration')
+((2, 4), [(2, "to emphasize with and are either disgusting or bland, the violence is appalling and technically not very convincingly executed. And Tobey Maguire shows us the flip side of his talent, sleepwalking through his part with those expressionless eyes and that raspy voice of his that here betrays only mannerism. 'Ride"), (3, "With the Devil' is among my five worst movie experiences ever, a western"), (4, 'never to be surpassed in the negative respect.')], 'Satellite', 'elaboration')

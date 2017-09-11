@@ -1,0 +1,6 @@
+((1, 1), [(1, "this movie was one of the best disney movies i've ever seen. great for the entire family")], 'Nucleus', 'span')
+((2, 2), [(2, 'to watch.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'the ideas may be a little far-fetched,')], 'Satellite', 'antithesis')
+((4, 4), [(4, "but it's a feel-good comedy and the acting is great. love the little boy, j.p. and academy award winner adrien brody's part may have been very short, but very memorable. highly recommended.")], 'Nucleus', 'span')
+((3, 4), [(3, 'the ideas may be a little far-fetched,'), (4, "but it's a feel-good comedy and the acting is great. love the little boy, j.p. and academy award winner adrien brody's part may have been very short, but very memorable. highly recommended.")], 'Nucleus', 'span')
+((2, 4), [(2, 'to watch.'), (3, 'the ideas may be a little far-fetched,'), (4, "but it's a feel-good comedy and the acting is great. love the little boy, j.p. and academy award winner adrien brody's part may have been very short, but very memorable. highly recommended.")], 'Satellite', 'elaboration')

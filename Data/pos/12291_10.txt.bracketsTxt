@@ -1,0 +1,8 @@
+((1, 1), [(1, 'A true classic. Beautifully filmed and acted. Reveals an area of Paris')], 'Nucleus', 'span')
+((2, 2), [(2, 'which is alive and filled with comedy and tragedy.')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'A true classic. Beautifully filmed and acted. Reveals an area of Paris'), (2, 'which is alive and filled with comedy and tragedy.')], 'Nucleus', 'span')
+((3, 3), [(3, "Although the area of 'Hotel du Nord' and the Hotel itself still exists, it is not as gay (in the original sense of the word) and joyful")], 'Satellite', 'concession')
+((4, 4), [(4, 'as it once must have been. The film makes one yearn for the past,')], 'Nucleus', 'span')
+((5, 5), [(5, 'which has been lost, with a sigh and bittersweetness.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'as it once must have been. The film makes one yearn for the past,'), (5, 'which has been lost, with a sigh and bittersweetness.')], 'Nucleus', 'span')
+((3, 5), [(3, "Although the area of 'Hotel du Nord' and the Hotel itself still exists, it is not as gay (in the original sense of the word) and joyful"), (4, 'as it once must have been. The film makes one yearn for the past,'), (5, 'which has been lost, with a sigh and bittersweetness.')], 'Satellite', 'elaboration')

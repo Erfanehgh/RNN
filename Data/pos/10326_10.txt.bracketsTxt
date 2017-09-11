@@ -1,0 +1,8 @@
+((1, 1), [(1, 'We so often talk of cinema landmarks - Kane, The Godfather, A Bout de Souffle. One film however is too often overlooked by "serious" film critics. I am talking of course about the classic Doc Savage (M.o.B.)<br /><br />This film is not only exciting but also seriously explores the issue of exploitation of the developing nations by US imperialism. Not to mention kung-fu.<br /><br />It also possessed the greatest soundtrack in film history')], 'Nucleus', 'span')
+((2, 2), [(2, "(until of course Queen's breathtaking work on Flash Gordon).")], 'Nucleus', 'span')
+((3, 3), [(3, 'Although a bit of a rarity, this film is well worth seeking out')], 'Nucleus', 'span')
+((4, 4), [(4, '- it will repay the effort')], 'Nucleus', 'span')
+((5, 5), [(5, 'of your search ten-fold.')], 'Satellite', 'elaboration')
+((4, 5), [(4, '- it will repay the effort'), (5, 'of your search ten-fold.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'Although a bit of a rarity, this film is well worth seeking out'), (4, '- it will repay the effort'), (5, 'of your search ten-fold.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "(until of course Queen's breathtaking work on Flash Gordon)."), (3, 'Although a bit of a rarity, this film is well worth seeking out'), (4, '- it will repay the effort'), (5, 'of your search ten-fold.')], 'Satellite', 'elaboration')

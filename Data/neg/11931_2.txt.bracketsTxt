@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Olivier Gruner stars as Jacques a foreign exchange college student')], 'Nucleus', 'span')
+((2, 2), [(2, 'who takes on and single handedly wipes out a Mexican street gang in this obnoxious and racist')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Olivier Gruner stars as Jacques a foreign exchange college student'), (2, 'who takes on and single handedly wipes out a Mexican street gang in this obnoxious and racist')], 'Nucleus', 'same_unit')
+((3, 3), [(3, 'film')], 'Nucleus', 'span')
+((4, 4), [(4, 'which is so horrible')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'film'), (4, 'which is so horrible')], 'Nucleus', 'same_unit')
+((5, 5), [(5, "that it's laughable. Bad acting, bad plot and bad fight choreography make Angel Town a Turkey.")], 'Nucleus', 'same_unit')
+((3, 5), [(3, 'film'), (4, 'which is so horrible'), (5, "that it's laughable. Bad acting, bad plot and bad fight choreography make Angel Town a Turkey.")], 'Nucleus', 'same_unit')

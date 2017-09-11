@@ -1,0 +1,4 @@
+((1, 1), [(1, 'All that talent.....but when ya have poor direction, and a WEAK screenplay, it doesnt matter WHO is in a movie. Very tired attempt')], 'Nucleus', 'span')
+((2, 2), [(2, 'at telling a tale..which was actually interesting in the beginning,')], 'Satellite', 'antithesis')
+((3, 3), [(3, 'but then QUICKLY fell apart toward the end....to bad.')], 'Nucleus', 'span')
+((2, 3), [(2, 'at telling a tale..which was actually interesting in the beginning,'), (3, 'but then QUICKLY fell apart toward the end....to bad.')], 'Satellite', 'elaboration')

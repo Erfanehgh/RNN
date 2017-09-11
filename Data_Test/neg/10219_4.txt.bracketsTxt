@@ -1,0 +1,8 @@
+((1, 1), [(1, 'By Randolph Scott standards of the 1950s, this is a disappointing and heavy-handed star western. Two or three of the characters could be dispensed with,')], 'Nucleus', 'span')
+((2, 2), [(2, 'while two or three other characters')], 'Nucleus', 'span')
+((3, 3), [(3, 'could be given more prominence. (The humour')], 'Nucleus', 'span')
+((4, 4), [(4, 'needs to be completely rewritten.) De Toth handles the action well')], 'Nucleus', 'span')
+((5, 5), [(5, '- as always - but his grasp of the overall narrative is weak.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'needs to be completely rewritten.) De Toth handles the action well'), (5, '- as always - but his grasp of the overall narrative is weak.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'could be given more prominence. (The humour'), (4, 'needs to be completely rewritten.) De Toth handles the action well'), (5, '- as always - but his grasp of the overall narrative is weak.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'while two or three other characters'), (3, 'could be given more prominence. (The humour'), (4, 'needs to be completely rewritten.) De Toth handles the action well'), (5, '- as always - but his grasp of the overall narrative is weak.')], 'Satellite', 'elaboration')

@@ -1,0 +1,4 @@
+((1, 1), [(1, "This has to be one of the best movies we have seen and we highly recommend it for it's exposure of the injustices of bigotry. Billy Wirth is an incomparable actor and truly awesome as Corby/White Wolf. However, felt the story would have been enhanced")], 'Nucleus', 'span')
+((2, 2), [(2, 'if his character had more scenes. This is a movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'that can be watched over and over without tiring.')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'if his character had more scenes. This is a movie'), (3, 'that can be watched over and over without tiring.')], 'Satellite', 'condition')

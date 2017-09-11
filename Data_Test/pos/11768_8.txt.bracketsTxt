@@ -1,0 +1,8 @@
+((1, 1), [(1, "A fun romp...a lot of good twists and turns! (and we were not even baked!)<br /><br />Didn't know this movie even existed")], 'Satellite', 'attribution')
+((2, 2), [(2, 'until watching the extra trailers on a Monty Python DVD...(oddly it was there along with The City of Lost Children, and The Adventures of Baron Munchauhsen)<br /><br />The plot keeps')], 'Nucleus', 'span')
+((3, 3), [(3, 'you wondering throughout.<br /><br />The')], 'Nucleus', 'span')
+((4, 4), [(4, 'acting was awesome...Hank Azaria shows his talent')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'you wondering throughout.<br /><br />The'), (4, 'acting was awesome...Hank Azaria shows his talent')], 'Nucleus', 'same_unit')
+((5, 5), [(5, 'again, Bill Bob is Billy Bob...(wecis?)<br /><br />Definitely worth watching.')], 'Nucleus', 'same_unit')
+((3, 5), [(3, 'you wondering throughout.<br /><br />The'), (4, 'acting was awesome...Hank Azaria shows his talent'), (5, 'again, Bill Bob is Billy Bob...(wecis?)<br /><br />Definitely worth watching.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'until watching the extra trailers on a Monty Python DVD...(oddly it was there along with The City of Lost Children, and The Adventures of Baron Munchauhsen)<br /><br />The plot keeps'), (3, 'you wondering throughout.<br /><br />The'), (4, 'acting was awesome...Hank Azaria shows his talent'), (5, 'again, Bill Bob is Billy Bob...(wecis?)<br /><br />Definitely worth watching.')], 'Nucleus', 'span')

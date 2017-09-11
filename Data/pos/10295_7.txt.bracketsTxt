@@ -1,0 +1,8 @@
+((1, 1), [(1, "Ok, so it's not a masterpiece like the Godfather,")], 'Nucleus', 'contrast')
+((2, 2), [(2, "but it doesn't have to be. The only purpose this movie has is to make the viewer laugh several times. If it can make the viewer laugh a bunch of times, it has accomplished its purpose.")], 'Nucleus', 'span')
+((3, 3), [(3, 'I laughed out loud and left with a smile.')], 'Nucleus', 'span')
+((4, 4), [(4, 'I feel')], 'Satellite', 'attribution')
+((5, 5), [(5, "like I got my money's worth.")], 'Nucleus', 'span')
+((4, 5), [(4, 'I feel'), (5, "like I got my money's worth.")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'I laughed out loud and left with a smile.'), (4, 'I feel'), (5, "like I got my money's worth.")], 'Satellite', 'elaboration')
+((2, 5), [(2, "but it doesn't have to be. The only purpose this movie has is to make the viewer laugh several times. If it can make the viewer laugh a bunch of times, it has accomplished its purpose."), (3, 'I laughed out loud and left with a smile.'), (4, 'I feel'), (5, "like I got my money's worth.")], 'Nucleus', 'contrast')

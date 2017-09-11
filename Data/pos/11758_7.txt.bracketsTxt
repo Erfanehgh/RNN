@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Spoiler This movie is about such a concept. Williams will go to any low in order to replay the football game')], 'Nucleus', 'span')
+((2, 2), [(2, 'that haunts his life. Russel plays the ex jock')], 'Nucleus', 'span')
+((3, 3), [(3, 'who peaked in high school. Finally the under dog get its shot,')], 'Nucleus', 'list')
+((4, 4), [(4, 'and Williams can save face,')], 'Nucleus', 'list')
+((3, 4), [(3, 'who peaked in high school. Finally the under dog get its shot,'), (4, 'and Williams can save face,')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'that haunts his life. Russel plays the ex jock'), (3, 'who peaked in high school. Finally the under dog get its shot,'), (4, 'and Williams can save face,')], 'Satellite', 'elaboration')
+((1, 4), [(1, 'Spoiler This movie is about such a concept. Williams will go to any low in order to replay the football game'), (2, 'that haunts his life. Russel plays the ex jock'), (3, 'who peaked in high school. Finally the under dog get its shot,'), (4, 'and Williams can save face,')], 'Nucleus', 'span')
+((5, 5), [(5, 'instead of being the clown. A great reverse tragedy. 7/10')], 'Satellite', 'elaboration')

@@ -1,0 +1,4 @@
+((1, 1), [(1, 'I think')], 'Satellite', 'attribution')
+((2, 2), [(2, 'that this was one of the most trite films ever made. No redeeming features at all. Even my 12-year-old son said')], 'Satellite', 'attribution')
+((3, 3), [(3, 'it was laughable. May be a good candidate for the next generation of "Mystery Science Theatre."')], 'Nucleus', 'span')
+((2, 3), [(2, 'that this was one of the most trite films ever made. No redeeming features at all. Even my 12-year-old son said'), (3, 'it was laughable. May be a good candidate for the next generation of "Mystery Science Theatre."')], 'Nucleus', 'span')

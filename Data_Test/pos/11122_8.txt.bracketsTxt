@@ -1,0 +1,6 @@
+((1, 1), [(1, "Fame is one of the best movies I've seen about The Performing Arts. The music and the acting are excellent. The screenplay")], 'Nucleus', 'list')
+((2, 2), [(2, 'and Set Design are also excellent. My favorite part is when all the students')], 'Nucleus', 'span')
+((3, 3), [(3, 'start Dancing')], 'Nucleus', 'list')
+((4, 4), [(4, 'and making music in the Canteen. I can see this movie any number of times, and never get bored. I give it 8 1/2 on 10.')], 'Nucleus', 'list')
+((3, 4), [(3, 'start Dancing'), (4, 'and making music in the Canteen. I can see this movie any number of times, and never get bored. I give it 8 1/2 on 10.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'and Set Design are also excellent. My favorite part is when all the students'), (3, 'start Dancing'), (4, 'and making music in the Canteen. I can see this movie any number of times, and never get bored. I give it 8 1/2 on 10.')], 'Nucleus', 'list')

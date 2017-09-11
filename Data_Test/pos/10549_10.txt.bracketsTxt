@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is one of the best romantic movies')], 'Nucleus', 'span')
+((2, 2), [(2, 'I have ever seen. Especially girls')], 'Nucleus', 'span')
+((3, 3), [(3, 'who can identify with Nicole will love it(not only')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'I have ever seen. Especially girls'), (3, 'who can identify with Nicole will love it(not only')], 'Nucleus', 'span')
+((4, 4), [(4, 'because of the handsome Dalton James) I also liked the music very much. A highlight was land of the sea and sun from baha-man. So watch the movie')], 'Nucleus', 'list')
+((5, 5), [(5, 'and enjoy it')], 'Nucleus', 'list')
+((4, 5), [(4, 'because of the handsome Dalton James) I also liked the music very much. A highlight was land of the sea and sun from baha-man. So watch the movie'), (5, 'and enjoy it')], 'Satellite', 'reason')
+((2, 5), [(2, 'I have ever seen. Especially girls'), (3, 'who can identify with Nicole will love it(not only'), (4, 'because of the handsome Dalton James) I also liked the music very much. A highlight was land of the sea and sun from baha-man. So watch the movie'), (5, 'and enjoy it')], 'Satellite', 'elaboration')

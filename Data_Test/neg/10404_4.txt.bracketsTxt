@@ -1,0 +1,8 @@
+((1, 1), [(1, "This sickly sweet and laboriously paced 5-reeler is definitely not among Harold Lloyd's better films. Gags are sparse")], 'Nucleus', 'list')
+((2, 2), [(2, 'and mostly uninspired. Saccharine melodrama is abundant.')], 'Nucleus', 'span')
+((3, 3), [(3, 'The setup takes forever, as Lloyd, the unconventional,')], 'Nucleus', 'span')
+((4, 4), [(4, 'but impossibly kindly, country doctor makes his rounds,')], 'Nucleus', 'span')
+((5, 5), [(5, "bringing a little sunshine into the lives of children, the elderly, and puppies. It's like a 1922 version of Patch Adams. Ugh. 4/10.")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'but impossibly kindly, country doctor makes his rounds,'), (5, "bringing a little sunshine into the lives of children, the elderly, and puppies. It's like a 1922 version of Patch Adams. Ugh. 4/10.")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'The setup takes forever, as Lloyd, the unconventional,'), (4, 'but impossibly kindly, country doctor makes his rounds,'), (5, "bringing a little sunshine into the lives of children, the elderly, and puppies. It's like a 1922 version of Patch Adams. Ugh. 4/10.")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'and mostly uninspired. Saccharine melodrama is abundant.'), (3, 'The setup takes forever, as Lloyd, the unconventional,'), (4, 'but impossibly kindly, country doctor makes his rounds,'), (5, "bringing a little sunshine into the lives of children, the elderly, and puppies. It's like a 1922 version of Patch Adams. Ugh. 4/10.")], 'Nucleus', 'list')

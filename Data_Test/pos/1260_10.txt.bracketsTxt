@@ -1,0 +1,8 @@
+((1, 1), [(1, "What a film. Quite possibly the best I've ever seen, the Direction, the Production,the score and the cinematography,absoloutley wonderful.")], 'Nucleus', 'span')
+((2, 2), [(2, 'The acting is also excellent, and the Man/Robot scenes have to be seen')], 'Nucleus', 'span')
+((3, 3), [(3, 'to be belieived.')], 'Satellite', 'attribution')
+((4, 4), [(4, 'I can not recommend this film enough. Get it out on video now, turn the lights down')], 'Nucleus', 'list')
+((5, 5), [(5, 'and enjoy.')], 'Nucleus', 'list')
+((4, 5), [(4, 'I can not recommend this film enough. Get it out on video now, turn the lights down'), (5, 'and enjoy.')], 'Nucleus', 'span')
+((3, 5), [(3, 'to be belieived.'), (4, 'I can not recommend this film enough. Get it out on video now, turn the lights down'), (5, 'and enjoy.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'The acting is also excellent, and the Man/Robot scenes have to be seen'), (3, 'to be belieived.'), (4, 'I can not recommend this film enough. Get it out on video now, turn the lights down'), (5, 'and enjoy.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, "A lush fantasy world with quirky characters and annoying 80's music. This epitomizes the 80's desire")], 'Nucleus', 'span')
+((2, 2), [(2, 'to rewrite fairy tales')], 'Nucleus', 'list')
+((3, 3), [(3, 'and make fun')], 'Nucleus', 'span')
+((4, 4), [(4, 'of how they work. Personally I liked Greensleeves')], 'Nucleus', 'list')
+((5, 5), [(5, 'and the other harsher characters. They had some of the more amusing lines.')], 'Nucleus', 'list')
+((4, 5), [(4, 'of how they work. Personally I liked Greensleeves'), (5, 'and the other harsher characters. They had some of the more amusing lines.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'and make fun'), (4, 'of how they work. Personally I liked Greensleeves'), (5, 'and the other harsher characters. They had some of the more amusing lines.')], 'Nucleus', 'list')
+((2, 5), [(2, 'to rewrite fairy tales'), (3, 'and make fun'), (4, 'of how they work. Personally I liked Greensleeves'), (5, 'and the other harsher characters. They had some of the more amusing lines.')], 'Satellite', 'elaboration')

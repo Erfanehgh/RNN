@@ -1,0 +1,6 @@
+((1, 1), [(1, 'What a good film! Made Men is a great action movie with lots of twists and turns. James Belushi is very good as an ex hood')], 'Nucleus', 'span')
+((2, 2), [(2, 'who has stolen 12 million from the boss')], 'Nucleus', 'span')
+((3, 3), [(3, 'who has to fend of the gangsters , hillbillies')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'who has stolen 12 million from the boss'), (3, 'who has to fend of the gangsters , hillbillies')], 'Nucleus', 'span')
+((4, 4), [(4, 'his wife and the local sheriff( Timothy Dalton).you wont be disappointed, jump on board and enjoy the ride. 8 out of 10')], 'Satellite', 'example')
+((2, 4), [(2, 'who has stolen 12 million from the boss'), (3, 'who has to fend of the gangsters , hillbillies'), (4, 'his wife and the local sheriff( Timothy Dalton).you wont be disappointed, jump on board and enjoy the ride. 8 out of 10')], 'Satellite', 'elaboration')

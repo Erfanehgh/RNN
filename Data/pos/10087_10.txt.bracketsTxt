@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Fabulous costumes by Edith Head')], 'Nucleus', 'span')
+((2, 2), [(2, 'who painted them on Liz Taylor at her finest!<br /><br />The SFX are very good')], 'Satellite', 'attribution')
+((3, 3), [(3, 'for a movie of its age, and the stunt doubles actually looked like the actors, even down to body type, a rarity in movies of this vintage.<br /><br />A cozy movie, with splendid panoramas')], 'Nucleus', 'span')
+((4, 4), [(4, '-- even when chopped down to pan and scan.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'for a movie of its age, and the stunt doubles actually looked like the actors, even down to body type, a rarity in movies of this vintage.<br /><br />A cozy movie, with splendid panoramas'), (4, '-- even when chopped down to pan and scan.')], 'Nucleus', 'span')
+((2, 4), [(2, 'who painted them on Liz Taylor at her finest!<br /><br />The SFX are very good'), (3, 'for a movie of its age, and the stunt doubles actually looked like the actors, even down to body type, a rarity in movies of this vintage.<br /><br />A cozy movie, with splendid panoramas'), (4, '-- even when chopped down to pan and scan.')], 'Satellite', 'elaboration')

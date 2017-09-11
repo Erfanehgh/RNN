@@ -1,0 +1,4 @@
+((1, 1), [(1, 'While the romance in this film is an important aspect,')], 'Nucleus', 'span')
+((2, 2), [(2, 'it is largely about the role of responsibility and duty in modern Indian. All of the major characters were well fleshed out, and had their own "inner life".')], 'Nucleus', 'span')
+((3, 3), [(3, 'I recommend this strongly')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'it is largely about the role of responsibility and duty in modern Indian. All of the major characters were well fleshed out, and had their own "inner life".'), (3, 'I recommend this strongly')], 'Satellite', 'elaboration')

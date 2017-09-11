@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This film has renewed my interest in French cinema. The story is enchanting, the acting is flawless and Audrey Tautou is absolutely beautiful. I imagine')], 'Satellite', 'attribution')
+((2, 2), [(2, 'that we will be seeing a lot more of her in the States')], 'Nucleus', 'span')
+((3, 3), [(3, 'after her upcoming role in Amelie.')], 'Satellite', 'circumstance')
+((2, 3), [(2, 'that we will be seeing a lot more of her in the States'), (3, 'after her upcoming role in Amelie.')], 'Nucleus', 'span')

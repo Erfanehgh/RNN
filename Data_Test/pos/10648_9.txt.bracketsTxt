@@ -1,0 +1,6 @@
+((1, 1), [(1, "This film is a benchmark in non-mainstream cinema history. The use of montage represents a quantum leap from the relatively simple juxtapositions of Strike (Eisenstein's 1st film). Take the scene on the steps")], 'Nucleus', 'list')
+((2, 2), [(2, 'and note the repeated shot of the soldiers descending,')], 'Nucleus', 'span')
+((3, 3), [(3, 'to reiterate the point of the horrors')], 'Nucleus', 'span')
+((4, 4), [(4, 'that actually did happen! A highly intelligent monumental film, a must see for all Film students!')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'to reiterate the point of the horrors'), (4, 'that actually did happen! A highly intelligent monumental film, a must see for all Film students!')], 'Satellite', 'purpose')
+((2, 4), [(2, 'and note the repeated shot of the soldiers descending,'), (3, 'to reiterate the point of the horrors'), (4, 'that actually did happen! A highly intelligent monumental film, a must see for all Film students!')], 'Nucleus', 'list')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'We enjoy a film like "Fame"')], 'Nucleus', 'span')
+((2, 2), [(2, 'because we imagine we are there')], 'Nucleus', 'span')
+((3, 3), [(3, 'ourselves - music, dance and drama students,')], 'Nucleus', 'span')
+((4, 4), [(4, 'enjoying our self expression. This film had humour, entertainment and must be an inspiration to young people')], 'Nucleus', 'span')
+((5, 5), [(5, 'to have a go at the performing arts. Bravo "Fame". Certainly worth 8 out of 10!<br /><br />Chris')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'enjoying our self expression. This film had humour, entertainment and must be an inspiration to young people'), (5, 'to have a go at the performing arts. Bravo "Fame". Certainly worth 8 out of 10!<br /><br />Chris')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'ourselves - music, dance and drama students,'), (4, 'enjoying our self expression. This film had humour, entertainment and must be an inspiration to young people'), (5, 'to have a go at the performing arts. Bravo "Fame". Certainly worth 8 out of 10!<br /><br />Chris')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'because we imagine we are there'), (3, 'ourselves - music, dance and drama students,'), (4, 'enjoying our self expression. This film had humour, entertainment and must be an inspiration to young people'), (5, 'to have a go at the performing arts. Bravo "Fame". Certainly worth 8 out of 10!<br /><br />Chris')], 'Satellite', 'reason')

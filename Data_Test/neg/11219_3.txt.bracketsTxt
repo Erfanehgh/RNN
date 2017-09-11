@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Although the movie was only so so the closed captioning was by far the best')], 'Nucleus', 'span')
+((2, 2), [(2, 'I have ever seen! Most of the time the spelling is terrible and the captioning out of sync.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I use the closed captioning')], 'Nucleus', 'span')
+((4, 4), [(4, 'even though I can hear well')], 'Satellite', 'concession')
+((3, 4), [(3, 'I use the closed captioning'), (4, 'even though I can hear well')], 'Satellite', 'antithesis')
+((5, 5), [(5, 'but find a lot of actors mumble. Also many times the sound track overrides the dialogue. Thanks!')], 'Nucleus', 'span')
+((3, 5), [(3, 'I use the closed captioning'), (4, 'even though I can hear well'), (5, 'but find a lot of actors mumble. Also many times the sound track overrides the dialogue. Thanks!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'I have ever seen! Most of the time the spelling is terrible and the captioning out of sync.'), (3, 'I use the closed captioning'), (4, 'even though I can hear well'), (5, 'but find a lot of actors mumble. Also many times the sound track overrides the dialogue. Thanks!')], 'Satellite', 'elaboration')

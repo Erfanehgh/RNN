@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Each guy Liv Tyler meets loses their head over her, not, of course,')], 'Nucleus', 'span')
+((2, 2), [(2, 'without some small encouragement from Liv. Liv is at her beautiful best, with Matt Dillon tops among the paramours. Interesting initial premise,')], 'Nucleus', 'span')
+((3, 3), [(3, 'to tell story from perspective of each dupe, degenerates into sitcom-style finale (not unlike Blame It On Rio,')], 'Nucleus', 'span')
+((4, 4), [(4, 'with which it has more than a few similarities). Worth')], 'Nucleus', 'span')
+((5, 5), [(5, 'watching nonetheless.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'with which it has more than a few similarities). Worth'), (5, 'watching nonetheless.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'to tell story from perspective of each dupe, degenerates into sitcom-style finale (not unlike Blame It On Rio,'), (4, 'with which it has more than a few similarities). Worth'), (5, 'watching nonetheless.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'without some small encouragement from Liv. Liv is at her beautiful best, with Matt Dillon tops among the paramours. Interesting initial premise,'), (3, 'to tell story from perspective of each dupe, degenerates into sitcom-style finale (not unlike Blame It On Rio,'), (4, 'with which it has more than a few similarities). Worth'), (5, 'watching nonetheless.')], 'Satellite', 'manner')

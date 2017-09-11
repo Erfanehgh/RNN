@@ -1,0 +1,6 @@
+((1, 1), [(1, 'this could have been good,but sadly,its too inplausible,anthony sabato jr has a grudge...PLEASE!I')], 'Nucleus', 'span')
+((2, 2), [(2, 'wanted to like it,love shark movies ,someone should have asked my opinion')], 'Nucleus', 'span')
+((3, 3), [(3, 'before they wrote')], 'Satellite', 'attribution')
+((4, 4), [(4, 'this.ha!ha! the shark is cool but the story lacks...alot!')], 'Nucleus', 'span')
+((3, 4), [(3, 'before they wrote'), (4, 'this.ha!ha! the shark is cool but the story lacks...alot!')], 'Satellite', 'temporal')
+((2, 4), [(2, 'wanted to like it,love shark movies ,someone should have asked my opinion'), (3, 'before they wrote'), (4, 'this.ha!ha! the shark is cool but the story lacks...alot!')], 'Satellite', 'elaboration')

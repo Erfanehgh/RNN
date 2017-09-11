@@ -1,0 +1,8 @@
+((1, 1), [(1, 'this was a very good movie i wished i could find it in vhs')], 'Nucleus', 'span')
+((2, 2), [(2, 'to buy,i really enjoyed this movie i would definaetly recommend this movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'to watch i would like to see it again')], 'Satellite', 'concession')
+((4, 4), [(4, 'but can never find it in tv, it would be well worth the time')], 'Nucleus', 'span')
+((5, 5), [(5, 'to watch it again')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'but can never find it in tv, it would be well worth the time'), (5, 'to watch it again')], 'Nucleus', 'span')
+((3, 5), [(3, 'to watch i would like to see it again'), (4, 'but can never find it in tv, it would be well worth the time'), (5, 'to watch it again')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to buy,i really enjoyed this movie i would definaetly recommend this movie'), (3, 'to watch i would like to see it again'), (4, 'but can never find it in tv, it would be well worth the time'), (5, 'to watch it again')], 'Satellite', 'purpose')

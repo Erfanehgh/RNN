@@ -1,0 +1,6 @@
+((1, 1), [(1, 'A great storyline with a message. Joan Plowright is superb as "Phoebe", Mike Kopsa is hilarious')], 'Nucleus', 'span')
+((2, 2), [(2, 'as "coach" and Richard de Klerk plays the role of "Carmine" superbly. Mischa Barton')], 'Nucleus', 'span')
+((3, 3), [(3, 'as "Frankie" puts in a good performance and Ingrid')], 'Nucleus', 'span')
+((4, 4), [(4, 'as "Hazel" plays her first lead extremely well. This film is superbly directed by Jo-Beth Williams. The editing is first rate.')], 'Satellite', 'circumstance')
+((3, 4), [(3, 'as "Frankie" puts in a good performance and Ingrid'), (4, 'as "Hazel" plays her first lead extremely well. This film is superbly directed by Jo-Beth Williams. The editing is first rate.')], 'Satellite', 'circumstance')
+((2, 4), [(2, 'as "coach" and Richard de Klerk plays the role of "Carmine" superbly. Mischa Barton'), (3, 'as "Frankie" puts in a good performance and Ingrid'), (4, 'as "Hazel" plays her first lead extremely well. This film is superbly directed by Jo-Beth Williams. The editing is first rate.')], 'Satellite', 'circumstance')

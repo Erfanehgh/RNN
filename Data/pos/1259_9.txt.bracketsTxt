@@ -1,0 +1,4 @@
+((1, 1), [(1, 'I just saw the movie on tv.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I really enjoyed it. I like a good mystery. and this one had me guessing up to the end. Sean Connery did a good job.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I would recomend it to a friend.')], 'Satellite', 'attribution')
+((2, 3), [(2, 'I really enjoyed it. I like a good mystery. and this one had me guessing up to the end. Sean Connery did a good job.'), (3, 'I would recomend it to a friend.')], 'Satellite', 'elaboration')

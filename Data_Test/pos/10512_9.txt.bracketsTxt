@@ -1,0 +1,6 @@
+((1, 1), [(1, "This one gets better with each new look. Certainly one of Paul Sorvino's best roles. Outstanding music")], 'Nucleus', 'span')
+((2, 2), [(2, 'score')], 'Nucleus', 'span')
+((3, 3), [(3, 'which was also outstanding on sound track LP (so why no CD?). One the very early dolby stereo sound film releases.')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'score'), (3, 'which was also outstanding on sound track LP (so why no CD?). One the very early dolby stereo sound film releases.')], 'Nucleus', 'span')
+((4, 4), [(4, 'By the way, the original 35mm theatrical trailer for this is really GREAT!')], 'Satellite', 'means')
+((2, 4), [(2, 'score'), (3, 'which was also outstanding on sound track LP (so why no CD?). One the very early dolby stereo sound film releases.'), (4, 'By the way, the original 35mm theatrical trailer for this is really GREAT!')], 'Satellite', 'elaboration')

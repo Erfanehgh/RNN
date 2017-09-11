@@ -1,0 +1,6 @@
+((1, 1), [(1, "This is the first Woody Allen film I've")], 'Nucleus', 'span')
+((2, 2), [(2, 'found not worth watching.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'I think')], 'Satellite', 'attribution')
+((4, 4), [(4, "Woody has tried many different genres to interest results but this movie just left me irritated and bored. The music is lovely but don't bother watching this hopeless mock-umentary.")], 'Nucleus', 'span')
+((3, 4), [(3, 'I think'), (4, "Woody has tried many different genres to interest results but this movie just left me irritated and bored. The music is lovely but don't bother watching this hopeless mock-umentary.")], 'Nucleus', 'span')
+((2, 4), [(2, 'found not worth watching.'), (3, 'I think'), (4, "Woody has tried many different genres to interest results but this movie just left me irritated and bored. The music is lovely but don't bother watching this hopeless mock-umentary.")], 'Satellite', 'elaboration')

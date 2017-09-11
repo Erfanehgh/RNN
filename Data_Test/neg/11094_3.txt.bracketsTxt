@@ -1,0 +1,4 @@
+((1, 1), [(1, "Even Sophie Marceau's presence and the few (very few) good French gags are unable")], 'Nucleus', 'span')
+((2, 2), [(2, 'to save this otherwise slow and boring movie! A disappointment.')], 'Nucleus', 'span')
+((3, 3), [(3, 'The story is weak and so is acting. This movie was advertised as the French version of The Mummy, but the Mummy has at least spectacular and enjoyable effects...')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'to save this otherwise slow and boring movie! A disappointment.'), (3, 'The story is weak and so is acting. This movie was advertised as the French version of The Mummy, but the Mummy has at least spectacular and enjoyable effects...')], 'Satellite', 'purpose')

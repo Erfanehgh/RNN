@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Of course this came out right at the beginning of the 1980s. Of course it did. Those drama students')], 'Nucleus', 'span')
+((2, 2), [(2, "dancing in the street to Irene Cara's famous theme song, it's an indelible eighties leg-warmer style image. But there's more to the film than that. There's deprivation, and one man's struggle")], 'Nucleus', 'span')
+((3, 3), [(3, 'to learn')], 'Nucleus', 'list')
+((4, 4), [(4, 'to read, and a struggle with sexuality, and an attack on a child, and one girl tricked into taking topless photographs, and contemplation of suicide. In the end, though, it is also about that song.')], 'Nucleus', 'list')
+((3, 4), [(3, 'to learn'), (4, 'to read, and a struggle with sexuality, and an attack on a child, and one girl tricked into taking topless photographs, and contemplation of suicide. In the end, though, it is also about that song.')], 'Satellite', 'elaboration')
+((2, 4), [(2, "dancing in the street to Irene Cara's famous theme song, it's an indelible eighties leg-warmer style image. But there's more to the film than that. There's deprivation, and one man's struggle"), (3, 'to learn'), (4, 'to read, and a struggle with sexuality, and an attack on a child, and one girl tricked into taking topless photographs, and contemplation of suicide. In the end, though, it is also about that song.')], 'Satellite', 'elaboration')

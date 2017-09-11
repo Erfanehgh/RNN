@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Everything about this film was terrible. To start with this film had a pretty good cast')], 'Nucleus', 'list')
+((2, 2), [(2, 'and I find it impossible')], 'Nucleus', 'span')
+((3, 3), [(3, 'to make such a great cast into the biggest disaster to the gangster film genre ever. The sound track was like one of a very bad slap stick comedy. It had this music through the whole film')], 'Nucleus', 'list')
+((4, 4), [(4, 'and it started')], 'Nucleus', 'span')
+((5, 5), [(5, 'to get quite irritating.<br /><br />PLEASE PLEASE PLEASE PLEASE PLEASE DO NOT INFLICT YOURSELF WITH THIS DISASTER YOU WILL ONLY BE HURT')], 'Satellite', 'purpose')
+((4, 5), [(4, 'and it started'), (5, 'to get quite irritating.<br /><br />PLEASE PLEASE PLEASE PLEASE PLEASE DO NOT INFLICT YOURSELF WITH THIS DISASTER YOU WILL ONLY BE HURT')], 'Nucleus', 'list')
+((3, 5), [(3, 'to make such a great cast into the biggest disaster to the gangster film genre ever. The sound track was like one of a very bad slap stick comedy. It had this music through the whole film'), (4, 'and it started'), (5, 'to get quite irritating.<br /><br />PLEASE PLEASE PLEASE PLEASE PLEASE DO NOT INFLICT YOURSELF WITH THIS DISASTER YOU WILL ONLY BE HURT')], 'Satellite', 'purpose')
+((2, 5), [(2, 'and I find it impossible'), (3, 'to make such a great cast into the biggest disaster to the gangster film genre ever. The sound track was like one of a very bad slap stick comedy. It had this music through the whole film'), (4, 'and it started'), (5, 'to get quite irritating.<br /><br />PLEASE PLEASE PLEASE PLEASE PLEASE DO NOT INFLICT YOURSELF WITH THIS DISASTER YOU WILL ONLY BE HURT')], 'Nucleus', 'list')

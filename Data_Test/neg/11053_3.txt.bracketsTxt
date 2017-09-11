@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This digital horror film brings us into the Micro-budget film genre')], 'Nucleus', 'span')
+((2, 2), [(2, "where the more blood and chicks in distress the better. The story is weak, the acting is respectable and the special effects, well, they're special alright. A quality horror film for the fans")], 'Nucleus', 'span')
+((3, 3), [(3, 'that already know')], 'Satellite', 'elaboration')
+((2, 3), [(2, "where the more blood and chicks in distress the better. The story is weak, the acting is respectable and the special effects, well, they're special alright. A quality horror film for the fans"), (3, 'that already know')], 'Nucleus', 'span')
+((4, 4), [(4, 'what to expect.')], 'Satellite', 'consequence')
+((2, 4), [(2, "where the more blood and chicks in distress the better. The story is weak, the acting is respectable and the special effects, well, they're special alright. A quality horror film for the fans"), (3, 'that already know'), (4, 'what to expect.')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie really kicked some ass.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I watched it over and over and it never got boring. Angelina Jolie really kicked some ass in the movie,')], 'Nucleus', 'span')
+((3, 3), [(3, 'you should see the movie,')], 'Satellite', 'attribution')
+((4, 4), [(4, "you won't be disappointed. And another reason you should see the movie is because the guy from The X-Files is in it, David Duchovny.")], 'Nucleus', 'span')
+((3, 4), [(3, 'you should see the movie,'), (4, "you won't be disappointed. And another reason you should see the movie is because the guy from The X-Files is in it, David Duchovny.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'I watched it over and over and it never got boring. Angelina Jolie really kicked some ass in the movie,'), (3, 'you should see the movie,'), (4, "you won't be disappointed. And another reason you should see the movie is because the guy from The X-Files is in it, David Duchovny.")], 'Satellite', 'elaboration')

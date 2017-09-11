@@ -1,0 +1,8 @@
+((1, 1), [(1, 'As long as you can get past your puritanical instincts and realize')], 'Satellite', 'attribution')
+((2, 2), [(2, "that pornographers are people too, you'll realize the depth p.t. anderson gives to his characters. Also, an incredible soundtrack.")], 'Nucleus', 'span')
+((3, 3), [(3, 'The songs are so tightly tied to their scenes,')], 'Nucleus', 'span')
+((4, 4), [(4, "you won't be able to hear them")], 'Nucleus', 'span')
+((5, 5), [(5, 'without thinking about the movie again.<br /><br />Philip Seymour Hoffman is worth the price of admission alone.')], 'Satellite', 'circumstance')
+((4, 5), [(4, "you won't be able to hear them"), (5, 'without thinking about the movie again.<br /><br />Philip Seymour Hoffman is worth the price of admission alone.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'The songs are so tightly tied to their scenes,'), (4, "you won't be able to hear them"), (5, 'without thinking about the movie again.<br /><br />Philip Seymour Hoffman is worth the price of admission alone.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "that pornographers are people too, you'll realize the depth p.t. anderson gives to his characters. Also, an incredible soundtrack."), (3, 'The songs are so tightly tied to their scenes,'), (4, "you won't be able to hear them"), (5, 'without thinking about the movie again.<br /><br />Philip Seymour Hoffman is worth the price of admission alone.')], 'Nucleus', 'span')

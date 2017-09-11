@@ -1,0 +1,4 @@
+((1, 1), [(1, "Unfortunately, this movie is absolutely terrible. It's not even laughably bad, just plain bad.")], 'Nucleus', 'span')
+((2, 2), [(2, 'The actors do their best')], 'Satellite', 'elaboration')
+((1, 2), [(1, "Unfortunately, this movie is absolutely terrible. It's not even laughably bad, just plain bad."), (2, 'The actors do their best')], 'Nucleus', 'span')
+((3, 3), [(3, 'with what is the cheesiest script ever. How scary can a movie be when the climax actually involves a roomful of millions of styrofoam peanuts?')], 'Satellite', 'elaboration')

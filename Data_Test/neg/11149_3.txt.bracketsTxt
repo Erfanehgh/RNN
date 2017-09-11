@@ -1,0 +1,6 @@
+((1, 1), [(1, "One of the worst Arnold movies I've seen. Special effects were terrible. Script was horrible. Hopefully his next movie will be much better like T2, Total Recall, True Lies and Eraser(not as good")], 'Nucleus', 'span')
+((2, 2), [(2, 'as the rest). Watch Stigmata')], 'Nucleus', 'same_unit')
+((3, 3), [(3, "if you want to see an apocalyptic future movie. It's much")], 'Satellite', 'condition')
+((4, 4), [(4, 'better.')], 'Nucleus', 'span')
+((3, 4), [(3, "if you want to see an apocalyptic future movie. It's much"), (4, 'better.')], 'Nucleus', 'same_unit')
+((2, 4), [(2, 'as the rest). Watch Stigmata'), (3, "if you want to see an apocalyptic future movie. It's much"), (4, 'better.')], 'Satellite', 'explanation')

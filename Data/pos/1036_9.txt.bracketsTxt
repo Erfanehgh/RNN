@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Watch on the Rhine is one of the best anti-nazi propaganda films made during World War Two. Paul Lukas')], 'Satellite', 'attribution')
+((2, 2), [(2, 'was certainly deserving of his Oscar. Bette Davis shines brilliantly as the great actress and beauty')], 'Nucleus', 'list')
+((3, 3), [(3, 'she was. I would recommend this film')], 'Nucleus', 'span')
+((4, 4), [(4, 'to those interested in that era, and, of course, the fabulous films of the late, great, Ms. Bette Davis.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'she was. I would recommend this film'), (4, 'to those interested in that era, and, of course, the fabulous films of the late, great, Ms. Bette Davis.')], 'Nucleus', 'list')
+((2, 4), [(2, 'was certainly deserving of his Oscar. Bette Davis shines brilliantly as the great actress and beauty'), (3, 'she was. I would recommend this film'), (4, 'to those interested in that era, and, of course, the fabulous films of the late, great, Ms. Bette Davis.')], 'Nucleus', 'span')

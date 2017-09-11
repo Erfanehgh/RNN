@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie is very good in term')], 'Nucleus', 'span')
+((2, 2), [(2, 'of acting and plot. The events')], 'Nucleus', 'list')
+((3, 3), [(3, "and the setting (i.e. how Chris gets the job, Chris's work")], 'Nucleus', 'span')
+((4, 4), [(4, 'environment, the face-to-face between the two sides, etc) thereof, on the other hand, are found')], 'Nucleus', 'span')
+((5, 5), [(5, 'to be less than realistic.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'environment, the face-to-face between the two sides, etc) thereof, on the other hand, are found'), (5, 'to be less than realistic.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "and the setting (i.e. how Chris gets the job, Chris's work"), (4, 'environment, the face-to-face between the two sides, etc) thereof, on the other hand, are found'), (5, 'to be less than realistic.')], 'Nucleus', 'list')
+((2, 5), [(2, 'of acting and plot. The events'), (3, "and the setting (i.e. how Chris gets the job, Chris's work"), (4, 'environment, the face-to-face between the two sides, etc) thereof, on the other hand, are found'), (5, 'to be less than realistic.')], 'Satellite', 'elaboration')

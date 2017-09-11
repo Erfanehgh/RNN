@@ -1,0 +1,4 @@
+((1, 1), [(1, 'One of the worst movies I\'ve seen this year. Everything about the film screams "AMATEUR". For a movie set in the 1800\'s, everybody speaks like it\'s the 1990\'s. The acting, particularly the people')], 'Nucleus', 'span')
+((2, 2), [(2, 'playing the white slave masters, is horrible. After about an hour into this movie,')], 'Nucleus', 'span')
+((3, 3), [(3, 'I walked out. What a waste of time and effort. For a much better film on this subject, see Steven Spielberg\'s far superior "Amistad."')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'playing the white slave masters, is horrible. After about an hour into this movie,'), (3, 'I walked out. What a waste of time and effort. For a much better film on this subject, see Steven Spielberg\'s far superior "Amistad."')], 'Satellite', 'elaboration')

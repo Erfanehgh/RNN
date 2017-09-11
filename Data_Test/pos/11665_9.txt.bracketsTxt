@@ -1,0 +1,6 @@
+((1, 1), [(1, '"Dead Man Walking" is a piece of incredible filmmaking.')], 'Nucleus', 'span')
+((2, 2), [(2, 'All the acting is top-notch and realistic, and the script examines the issue of the death penalty from both sides, paying equal homage')], 'Nucleus', 'span')
+((3, 3), [(3, 'to both. Above all, this is a deeply moving story of redemption, of death with dignity and loss of ego. Any film')], 'Nucleus', 'span')
+((4, 4), [(4, 'that deals this courageously and maturely with such incredibly difficult subject matter deserves a rating of 10/10. Thank you, Tim Robbins!')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'to both. Above all, this is a deeply moving story of redemption, of death with dignity and loss of ego. Any film'), (4, 'that deals this courageously and maturely with such incredibly difficult subject matter deserves a rating of 10/10. Thank you, Tim Robbins!')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'All the acting is top-notch and realistic, and the script examines the issue of the death penalty from both sides, paying equal homage'), (3, 'to both. Above all, this is a deeply moving story of redemption, of death with dignity and loss of ego. Any film'), (4, 'that deals this courageously and maturely with such incredibly difficult subject matter deserves a rating of 10/10. Thank you, Tim Robbins!')], 'Satellite', 'elaboration')

@@ -1,0 +1,4 @@
+((1, 1), [(1, 'As usual, Sean Connery does a great job. Lawrence Fishburn is good,')], 'Satellite', 'concession')
+((2, 2), [(2, 'but I have a hard time')], 'Nucleus', 'span')
+((3, 3), [(3, 'not seeing him as Ike Turner.')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'but I have a hard time'), (3, 'not seeing him as Ike Turner.')], 'Nucleus', 'span')

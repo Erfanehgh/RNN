@@ -1,0 +1,6 @@
+((1, 1), [(1, 'The Clouded Yellow is a compact psychological thriller with interesting characterizations. Barry Jones and Kenneth More are both terrific')], 'Nucleus', 'span')
+((2, 2), [(2, 'in supporting roles in characters')], 'Nucleus', 'span')
+((3, 3), [(3, 'that both have more to them')], 'Nucleus', 'span')
+((4, 4), [(4, 'than what meets the eye. Jean Simmons is quite good, and Trevor Howard makes a fascinatingly offbeat suspense hero.')], 'Satellite', 'comparison')
+((3, 4), [(3, 'that both have more to them'), (4, 'than what meets the eye. Jean Simmons is quite good, and Trevor Howard makes a fascinatingly offbeat suspense hero.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'in supporting roles in characters'), (3, 'that both have more to them'), (4, 'than what meets the eye. Jean Simmons is quite good, and Trevor Howard makes a fascinatingly offbeat suspense hero.')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Gone is the wonderful campiness of the original.')], 'Nucleus', 'span')
+((2, 2), [(2, 'In place is a c-grade action no-brainer, wich is not all bad, but pales in comparison to the original.')], 'Nucleus', 'span')
+((3, 3), [(3, 'All the meaningless sex and violence is gone,')], 'Nucleus', 'list')
+((4, 4), [(4, "and replaced with crappy jokes and unexplained plot pointers. See it, but don't expect the thrills of the first.")], 'Nucleus', 'list')
+((3, 4), [(3, 'All the meaningless sex and violence is gone,'), (4, "and replaced with crappy jokes and unexplained plot pointers. See it, but don't expect the thrills of the first.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'In place is a c-grade action no-brainer, wich is not all bad, but pales in comparison to the original.'), (3, 'All the meaningless sex and violence is gone,'), (4, "and replaced with crappy jokes and unexplained plot pointers. See it, but don't expect the thrills of the first.")], 'Satellite', 'elaboration')

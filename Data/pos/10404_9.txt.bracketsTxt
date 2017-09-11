@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Despite having 6 different directors, this fantasy hangs together remarkably well.<br /><br />It was filmed in England (nowhere near Morocco) in studios and on a few beaches. At the outbreak of war, everything was moved to America and some scenes were filmed in the Grand Canyon.<br /><br />Notable')], 'Nucleus', 'span')
+((2, 2), [(2, 'for having one')], 'Nucleus', 'span')
+((3, 3), [(3, 'of the corniest lyrics in a song')], 'Nucleus', 'span')
+((4, 4), [(4, '- "I want to be a bandit, can\'t')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'of the corniest lyrics in a song'), (4, '- "I want to be a bandit, can\'t')], 'Nucleus', 'span')
+((5, 5), [(5, 'you understand it". It remains a favourite of many people.')], 'Satellite', 'attribution')
+((3, 5), [(3, 'of the corniest lyrics in a song'), (4, '- "I want to be a bandit, can\'t'), (5, 'you understand it". It remains a favourite of many people.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'for having one'), (3, 'of the corniest lyrics in a song'), (4, '- "I want to be a bandit, can\'t'), (5, 'you understand it". It remains a favourite of many people.')], 'Satellite', 'elaboration')

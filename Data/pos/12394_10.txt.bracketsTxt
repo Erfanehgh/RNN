@@ -1,0 +1,6 @@
+((1, 1), [(1, "along with it's partner, this is the greatest piece of animation ever created. the images and styles are amazing, and match perfectly with the story")], 'Nucleus', 'span')
+((2, 2), [(2, 'which is a brilliantly realistic reinterpretation of our own world, where is has been,')], 'Nucleus', 'list')
+((3, 3), [(3, 'and where it could go. quite affecting and sometimes painful')], 'Nucleus', 'span')
+((4, 4), [(4, 'to watch, it it a masterpiece of the visual art.')], 'Satellite', 'consequence')
+((3, 4), [(3, 'and where it could go. quite affecting and sometimes painful'), (4, 'to watch, it it a masterpiece of the visual art.')], 'Nucleus', 'list')
+((2, 4), [(2, 'which is a brilliantly realistic reinterpretation of our own world, where is has been,'), (3, 'and where it could go. quite affecting and sometimes painful'), (4, 'to watch, it it a masterpiece of the visual art.')], 'Satellite', 'elaboration')

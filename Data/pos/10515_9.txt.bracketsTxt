@@ -1,0 +1,8 @@
+((1, 1), [(1, 'A slight, charming little movie')], 'Nucleus', 'span')
+((2, 2), [(2, "to be sure, but a superbly-crafted one. Gwyneth Paltrow shines in this early showcase for her British accent, and the cast assembled around her all lap up the dialogue. This came out around the time of Sense and Sensibility, and I'm sure")], 'Nucleus', 'span')
+((3, 3), [(3, "I don't")], 'Satellite', 'attribution')
+((4, 4), [(4, 'know')], 'Satellite', 'attribution')
+((5, 5), [(5, "why that one garnered all the Oscar attention. Emma is Jane Austen's most accessible and least stuffy story, told well.")], 'Nucleus', 'span')
+((4, 5), [(4, 'know'), (5, "why that one garnered all the Oscar attention. Emma is Jane Austen's most accessible and least stuffy story, told well.")], 'Nucleus', 'span')
+((3, 5), [(3, "I don't"), (4, 'know'), (5, "why that one garnered all the Oscar attention. Emma is Jane Austen's most accessible and least stuffy story, told well.")], 'Satellite', 'elaboration')
+((2, 5), [(2, "to be sure, but a superbly-crafted one. Gwyneth Paltrow shines in this early showcase for her British accent, and the cast assembled around her all lap up the dialogue. This came out around the time of Sense and Sensibility, and I'm sure"), (3, "I don't"), (4, 'know'), (5, "why that one garnered all the Oscar attention. Emma is Jane Austen's most accessible and least stuffy story, told well.")], 'Satellite', 'elaboration')

@@ -1,0 +1,4 @@
+((1, 1), [(1, 'I hated it. I hate self-aware pretentious inanity')], 'Nucleus', 'span')
+((2, 2), [(2, 'that masquerades as art. This film is either stupidly inane or inanely stupid. After the first half hour, I fastfowarded through the DVD version, and saw the same juvenile shennanigans over and over and over. I became angered')], 'Satellite', 'concession')
+((3, 3), [(3, 'that I had spent hard-earned money for sophomoric clap-trap. Tinting drivel in sepia or blue does not make something a movie, let alone art.')], 'Nucleus', 'span')
+((2, 3), [(2, 'that masquerades as art. This film is either stupidly inane or inanely stupid. After the first half hour, I fastfowarded through the DVD version, and saw the same juvenile shennanigans over and over and over. I became angered'), (3, 'that I had spent hard-earned money for sophomoric clap-trap. Tinting drivel in sepia or blue does not make something a movie, let alone art.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'elvira mistress of the dark is one of my fav movies, it has every thing')], 'Nucleus', 'span')
+((2, 2), [(2, 'you would want in a film, like great one liners, sexy star and a Outrageous story!')], 'Nucleus', 'span')
+((3, 3), [(3, 'if you have not seen it,')], 'Satellite', 'condition')
+((4, 4), [(4, 'you')], 'Nucleus', 'span')
+((3, 4), [(3, 'if you have not seen it,'), (4, 'you')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'you would want in a film, like great one liners, sexy star and a Outrageous story!'), (3, 'if you have not seen it,'), (4, 'you')], 'Satellite', 'elaboration')
+((1, 4), [(1, 'elvira mistress of the dark is one of my fav movies, it has every thing'), (2, 'you would want in a film, like great one liners, sexy star and a Outrageous story!'), (3, 'if you have not seen it,'), (4, 'you')], 'Nucleus', 'span')
+((5, 5), [(5, "are missing out on one of the greatest films made. i can't wait till her new movie comes out!")], 'Satellite', 'circumstance')

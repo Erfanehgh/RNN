@@ -1,0 +1,8 @@
+((1, 1), [(1, "Just a few words.... This movie really sucks. It's like those")], 'Nucleus', 'span')
+((2, 2), [(2, "TV Movies with bad cast and plot. It's amazing")], 'Nucleus', 'span')
+((3, 3), [(3, "how they could make this sequel worse than the III. Don't waste your time")], 'Nucleus', 'span')
+((4, 4), [(4, 'watching this crap,')], 'Satellite', 'elaboration')
+((3, 4), [(3, "how they could make this sequel worse than the III. Don't waste your time"), (4, 'watching this crap,')], 'Nucleus', 'span')
+((5, 5), [(5, 'even if you like the tremors movies.')], 'Satellite', 'concession')
+((3, 5), [(3, "how they could make this sequel worse than the III. Don't waste your time"), (4, 'watching this crap,'), (5, 'even if you like the tremors movies.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "TV Movies with bad cast and plot. It's amazing"), (3, "how they could make this sequel worse than the III. Don't waste your time"), (4, 'watching this crap,'), (5, 'even if you like the tremors movies.')], 'Satellite', 'elaboration')

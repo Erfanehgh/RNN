@@ -1,0 +1,6 @@
+((1, 1), [(1, 'The daytime TV of films. Seldom have I felt so little attachment to characters. Seldom have I been made')], 'Nucleus', 'span')
+((2, 2), [(2, 'to cringe by such dire dialogue. Nauseous London thirty-somethings mincing round lurid BBC sets')], 'Nucleus', 'span')
+((3, 3), [(3, 'spouting platitudinous mulch. Avoid this film')], 'Nucleus', 'span')
+((4, 4), [(4, "as if it were your grandmother's clunge.")], 'Satellite', 'circumstance')
+((3, 4), [(3, 'spouting platitudinous mulch. Avoid this film'), (4, "as if it were your grandmother's clunge.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to cringe by such dire dialogue. Nauseous London thirty-somethings mincing round lurid BBC sets'), (3, 'spouting platitudinous mulch. Avoid this film'), (4, "as if it were your grandmother's clunge.")], 'Satellite', 'purpose')

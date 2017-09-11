@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This parody is cleverly done: from the songs (Express Yourself becomes Expose Yourself, Like a Prayer is now Party in my Pants and Vogue is now Vague) to the fake interviews of the cast of the show, this movie is hilarious. Remember Madonna saying')], 'Satellite', 'concession')
+((2, 2), [(2, "she didn't know about the rain season in Asia? In this one, she doesn't know")], 'Satellite', 'attribution')
+((3, 3), [(3, 'about the volcano season. It is a precious jewel.')], 'Nucleus', 'span')
+((4, 4), [(4, 'They got a lot of money on that spoof, and it pays off. Highly recommended!!!')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'about the volcano season. It is a precious jewel.'), (4, 'They got a lot of money on that spoof, and it pays off. Highly recommended!!!')], 'Nucleus', 'span')
+((2, 4), [(2, "she didn't know about the rain season in Asia? In this one, she doesn't know"), (3, 'about the volcano season. It is a precious jewel.'), (4, 'They got a lot of money on that spoof, and it pays off. Highly recommended!!!')], 'Nucleus', 'span')

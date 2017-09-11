@@ -1,0 +1,8 @@
+((1, 1), [(1, "Mario's first foray into the world of 3-dimensions is incredible. Miyamoto's masterpiece was reason enough")], 'Nucleus', 'span')
+((2, 2), [(2, 'to buy a Nintendo')], 'Nucleus', 'span')
+((3, 3), [(3, '64')], 'Nucleus', 'span')
+((4, 4), [(4, "when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic")], 'Nucleus', 'span')
+((5, 5), [(5, 'that set the standard for 3D adventure/platform games.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic"), (5, 'that set the standard for 3D adventure/platform games.')], 'Satellite', 'circumstance')
+((3, 5), [(3, '64'), (4, "when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic"), (5, 'that set the standard for 3D adventure/platform games.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to buy a Nintendo'), (3, '64'), (4, "when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic"), (5, 'that set the standard for 3D adventure/platform games.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, "A beautiful woman, a backwoods, inbred monster man, a super sweet monster truck, a road kill zombie brother and 2 friends...one anal retentive, overly sensitive nerd and the other a foul mouthed, adolescent slob. Throw them all together with a dash of Jeepers Creepers, Texas Chainsaw Massacre and Road Trip and you've got Monster Man. A hilarious horror/comedy outing")], 'Nucleus', 'span')
+((2, 2), [(2, 'that never sets out')], 'Nucleus', 'span')
+((3, 3), [(3, 'to "say something". It\'s a simple, straight forward laugh fest. Unpretentious and well made, this horror/comedy is at its heart, a buddy flick.')], 'Nucleus', 'span')
+((4, 4), [(4, 'This film offered some hilarious and sickening set pieces. I highly recommend this to fright fans')], 'Nucleus', 'span')
+((5, 5), [(5, 'looking to be entertained.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'This film offered some hilarious and sickening set pieces. I highly recommend this to fright fans'), (5, 'looking to be entertained.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'to "say something". It\'s a simple, straight forward laugh fest. Unpretentious and well made, this horror/comedy is at its heart, a buddy flick.'), (4, 'This film offered some hilarious and sickening set pieces. I highly recommend this to fright fans'), (5, 'looking to be entertained.')], 'Satellite', 'purpose')
+((2, 5), [(2, 'that never sets out'), (3, 'to "say something". It\'s a simple, straight forward laugh fest. Unpretentious and well made, this horror/comedy is at its heart, a buddy flick.'), (4, 'This film offered some hilarious and sickening set pieces. I highly recommend this to fright fans'), (5, 'looking to be entertained.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'A very funny movie. It was good')], 'Nucleus', 'span')
+((2, 2), [(2, 'to see Jim Carrey back in top form. It was definitely worth the price of admission. Morgan Freeman and Jennifer Aniston both played outstanding supporting roles in this film.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I think')], 'Satellite', 'attribution')
+((4, 4), [(4, 'they may have played the dog a bit too much however, still a good film')], 'Nucleus', 'span')
+((5, 5), [(5, 'to see.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'they may have played the dog a bit too much however, still a good film'), (5, 'to see.')], 'Nucleus', 'span')
+((3, 5), [(3, 'I think'), (4, 'they may have played the dog a bit too much however, still a good film'), (5, 'to see.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to see Jim Carrey back in top form. It was definitely worth the price of admission. Morgan Freeman and Jennifer Aniston both played outstanding supporting roles in this film.'), (3, 'I think'), (4, 'they may have played the dog a bit too much however, still a good film'), (5, 'to see.')], 'Satellite', 'elaboration')

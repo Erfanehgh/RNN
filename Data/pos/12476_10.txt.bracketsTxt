@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This is just a short comment')], 'Nucleus', 'contrast')
+((2, 2), [(2, 'but I stumbled onto this movie by chance')], 'Nucleus', 'list')
+((3, 3), [(3, 'and I loved it. The acting is great, the story is simple and touching, and the lines, especially from the 4-yr-old Desi, are so cute and sad. Seek it out.')], 'Nucleus', 'list')
+((2, 3), [(2, 'but I stumbled onto this movie by chance'), (3, 'and I loved it. The acting is great, the story is simple and touching, and the lines, especially from the 4-yr-old Desi, are so cute and sad. Seek it out.')], 'Nucleus', 'contrast')

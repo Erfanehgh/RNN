@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This is a very cool movie.')], 'Nucleus', 'span')
+((2, 2), [(2, "The ending of the movie is a bit more defined than the play's ending,")], 'Nucleus', 'contrast')
+((3, 3), [(3, 'but either way it is still a good movie.')], 'Nucleus', 'contrast')
+((2, 3), [(2, "The ending of the movie is a bit more defined than the play's ending,"), (3, 'but either way it is still a good movie.')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, "Bruce Almighty, one of Carrey's best pictures since... well... a long time. It contains one of the funniest scenes I have seen for a long time too... Morgan Freeman plays God well and even chips in a few jokes")], 'Nucleus', 'span')
+((2, 2), [(2, 'that are surprisingly funny.')], 'Nucleus', 'span')
+((3, 3), [(3, 'It contains one or two romantic moments')], 'Nucleus', 'span')
+((4, 4), [(4, "that are a bit boring but over all a great movie with some funny scenes. The best scene in, it is where Jim is messing up the anchor man's voice.<br /><br />My rating: 8/10")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'It contains one or two romantic moments'), (4, "that are a bit boring but over all a great movie with some funny scenes. The best scene in, it is where Jim is messing up the anchor man's voice.<br /><br />My rating: 8/10")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'that are surprisingly funny.'), (3, 'It contains one or two romantic moments'), (4, "that are a bit boring but over all a great movie with some funny scenes. The best scene in, it is where Jim is messing up the anchor man's voice.<br /><br />My rating: 8/10")], 'Satellite', 'elaboration')

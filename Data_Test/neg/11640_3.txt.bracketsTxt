@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Our story: Two U.S. Navy deep sea divers search for silver coins hidden beneath the ocean off the Filipino coast. Our proof: Extremely dull entertainment at its')], 'Nucleus', 'span')
+((2, 2), [(2, 'best, with no plot in sight. Jim Brown is completely wasted, provided his help in producing this 70s war turkey.')], 'Nucleus', 'span')
+((3, 3), [(3, 'Richard Jaeckel is in his usual form. Don Cornelius and Richard Pryor are among those')], 'Nucleus', 'span')
+((4, 4), [(4, 'who gave special thanks')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'Richard Jaeckel is in his usual form. Don Cornelius and Richard Pryor are among those'), (4, 'who gave special thanks')], 'Nucleus', 'span')
+((5, 5), [(5, 'in their contributions! BOMBS AWAY!!!')], 'Satellite', 'circumstance')
+((3, 5), [(3, 'Richard Jaeckel is in his usual form. Don Cornelius and Richard Pryor are among those'), (4, 'who gave special thanks'), (5, 'in their contributions! BOMBS AWAY!!!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'best, with no plot in sight. Jim Brown is completely wasted, provided his help in producing this 70s war turkey.'), (3, 'Richard Jaeckel is in his usual form. Don Cornelius and Richard Pryor are among those'), (4, 'who gave special thanks'), (5, 'in their contributions! BOMBS AWAY!!!')], 'Satellite', 'elaboration')

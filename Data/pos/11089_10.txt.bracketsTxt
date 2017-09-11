@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This film made John Glover a star.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Alan Raimy is one of the most compelling character')], 'Nucleus', 'span')
+((3, 3), [(3, 'that I have ever seen on film.')], 'Nucleus', 'list')
+((4, 4), [(4, 'And I mean that sport.')], 'Nucleus', 'list')
+((3, 4), [(3, 'that I have ever seen on film.'), (4, 'And I mean that sport.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'Alan Raimy is one of the most compelling character'), (3, 'that I have ever seen on film.'), (4, 'And I mean that sport.')], 'Satellite', 'elaboration')

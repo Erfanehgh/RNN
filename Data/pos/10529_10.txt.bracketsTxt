@@ -1,0 +1,8 @@
+((1, 1), [(1, 'By no means my favourite Austen novel, and Paltrow is by no means my favourite actress, but I found the film almost totally delightful. Paltrow does a good job, and Cummings, Stevenson and the one')], 'Nucleus', 'span')
+((2, 2), [(2, "who plays 'Miss Bates' are all absolutely terrific. The period detail is not alienating; the feel of the movie is just right, in fact. But the real 'find' is Jeremy Northam as Mr Knightley. There could not be more perfect casting, IMO.")], 'Nucleus', 'list')
+((3, 3), [(3, 'I hated Mr K in the novel,')], 'Satellite', 'concession')
+((4, 4), [(4, "but found him wonderfully human and humane in the film. Northam's good looks and smiling eyes are no hindrance")], 'Nucleus', 'span')
+((5, 5), [(5, 'to enjoyment, either! Highly recommended. AnaR')], 'Satellite', 'purpose')
+((4, 5), [(4, "but found him wonderfully human and humane in the film. Northam's good looks and smiling eyes are no hindrance"), (5, 'to enjoyment, either! Highly recommended. AnaR')], 'Nucleus', 'span')
+((3, 5), [(3, 'I hated Mr K in the novel,'), (4, "but found him wonderfully human and humane in the film. Northam's good looks and smiling eyes are no hindrance"), (5, 'to enjoyment, either! Highly recommended. AnaR')], 'Nucleus', 'list')
+((2, 5), [(2, "who plays 'Miss Bates' are all absolutely terrific. The period detail is not alienating; the feel of the movie is just right, in fact. But the real 'find' is Jeremy Northam as Mr Knightley. There could not be more perfect casting, IMO."), (3, 'I hated Mr K in the novel,'), (4, "but found him wonderfully human and humane in the film. Northam's good looks and smiling eyes are no hindrance"), (5, 'to enjoyment, either! Highly recommended. AnaR')], 'Satellite', 'elaboration')

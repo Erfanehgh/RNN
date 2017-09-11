@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Although Twenty Minutes of Love is a harmless attempt at an early comedy, it was difficult')], 'Satellite', 'concession')
+((2, 2), [(2, 'to follow and the film quality was not very good. It does have a couple')], 'Nucleus', 'span')
+((3, 3), [(3, 'of moments')], 'Nucleus', 'span')
+((4, 4), [(4, 'that are funny, but I have seen better by Charlie Chaplin.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'of moments'), (4, 'that are funny, but I have seen better by Charlie Chaplin.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to follow and the film quality was not very good. It does have a couple'), (3, 'of moments'), (4, 'that are funny, but I have seen better by Charlie Chaplin.')], 'Nucleus', 'span')

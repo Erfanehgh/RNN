@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Englar Alheimsins are very good movie. She happen on a mental home in Iceland. Ingvar E. Sigurdsson is in a leading role')], 'Nucleus', 'list')
+((2, 2), [(2, 'and is good. Other good actors in this movie are Baltasar Korm\xc3\xa1kur and Bjorn Jorundur.')], 'Nucleus', 'list')
+((3, 3), [(3, 'I like this movie she is very good. I voice')], 'Satellite', 'attribution')
+((4, 4), [(4, 'with this movie.')], 'Nucleus', 'span')
+((3, 4), [(3, 'I like this movie she is very good. I voice'), (4, 'with this movie.')], 'Nucleus', 'list')
+((2, 4), [(2, 'and is good. Other good actors in this movie are Baltasar Korm\xc3\xa1kur and Bjorn Jorundur.'), (3, 'I like this movie she is very good. I voice'), (4, 'with this movie.')], 'Nucleus', 'list')

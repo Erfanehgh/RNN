@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is one of the most god-awful movies ever. Shaq better just stick')], 'Nucleus', 'span')
+((2, 2), [(2, 'to basketball. This movie took away apart of my life I will never have back. I will make fun')], 'Nucleus', 'span')
+((3, 3), [(3, 'of this movie')], 'Nucleus', 'span')
+((4, 4), [(4, 'until I die,')], 'Nucleus', 'list')
+((5, 5), [(5, 'and then some. It is so horrible it is not even funny. MST3000 would have a blast with this one.')], 'Nucleus', 'list')
+((4, 5), [(4, 'until I die,'), (5, 'and then some. It is so horrible it is not even funny. MST3000 would have a blast with this one.')], 'Satellite', 'circumstance')
+((3, 5), [(3, 'of this movie'), (4, 'until I die,'), (5, 'and then some. It is so horrible it is not even funny. MST3000 would have a blast with this one.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to basketball. This movie took away apart of my life I will never have back. I will make fun'), (3, 'of this movie'), (4, 'until I die,'), (5, 'and then some. It is so horrible it is not even funny. MST3000 would have a blast with this one.')], 'Satellite', 'purpose')

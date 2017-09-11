@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I have seen the short movie a few')], 'Satellite', 'attribution')
+((2, 2), [(2, 'years ago. After that I watch all sequels. The first one is really not the best -')], 'Satellite', 'concession')
+((3, 3), [(3, "but it's the most popular one. I've already watch the making of Guinea Pig 1. It's really great what these guys did. Also the sequels are excellent in the special effects. Take your chance")], 'Nucleus', 'span')
+((4, 4), [(4, 'to watch it!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "but it's the most popular one. I've already watch the making of Guinea Pig 1. It's really great what these guys did. Also the sequels are excellent in the special effects. Take your chance"), (4, 'to watch it!')], 'Nucleus', 'span')
+((2, 4), [(2, 'years ago. After that I watch all sequels. The first one is really not the best -'), (3, "but it's the most popular one. I've already watch the making of Guinea Pig 1. It's really great what these guys did. Also the sequels are excellent in the special effects. Take your chance"), (4, 'to watch it!')], 'Nucleus', 'span')

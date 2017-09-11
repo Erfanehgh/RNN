@@ -1,0 +1,4 @@
+((1, 1), [(1, 'One of the great classic comedies. Not a slapstick comedy, not a heavy drama. A fun, satirical film, a buyers beware guide to a new home.<br /><br')], 'Nucleus', 'span')
+((2, 2), [(2, '/>Filled with great characters all of whom, Cary Grant is convinced, are out')], 'Nucleus', 'span')
+((3, 3), [(3, "to fleece him in the building of a dream home.<br /><br />A great look at life in the late 40's.<br /><br />")], 'Satellite', 'purpose')
+((2, 3), [(2, '/>Filled with great characters all of whom, Cary Grant is convinced, are out'), (3, "to fleece him in the building of a dream home.<br /><br />A great look at life in the late 40's.<br /><br />")], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This low budget digital video film has strengths in the right places--writing and acting.')], 'Nucleus', 'span')
+((2, 2), [(2, 'In addition the digital photography is the best of the lot so far. In low light conditions the characteristic video umber tone prevails but, surprising, it rivals film stock for brightness, clarity, and, saturation in brightly lit situations. This is grass roots film')], 'Nucleus', 'span')
+((3, 3), [(3, 'making at its best with snappy dialogue carrying a "Midnight Cowboy" kind of story about grifters doing whatever it takes')], 'Nucleus', 'span')
+((4, 4), [(4, 'to survive in urban San Francisco.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'making at its best with snappy dialogue carrying a "Midnight Cowboy" kind of story about grifters doing whatever it takes'), (4, 'to survive in urban San Francisco.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'In addition the digital photography is the best of the lot so far. In low light conditions the characteristic video umber tone prevails but, surprising, it rivals film stock for brightness, clarity, and, saturation in brightly lit situations. This is grass roots film'), (3, 'making at its best with snappy dialogue carrying a "Midnight Cowboy" kind of story about grifters doing whatever it takes'), (4, 'to survive in urban San Francisco.')], 'Satellite', 'elaboration')

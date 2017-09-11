@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie has it all. Great actors, good dialog, drama, comedy, and excellent writing and directing by Paul Thomas Anderson.')], 'Nucleus', 'span')
+((2, 2), [(2, "I have seen this film several times and enjoy it more each time. It doesn't get old, it is consistently entertaining and stimulating. Easily Burt Reynolds best role,")], 'Nucleus', 'list')
+((3, 3), [(3, 'and he does a great job. John C. Reilly and Don Cheadle also give excellent comedic performances.')], 'Nucleus', 'span')
+((4, 4), [(4, 'There is not a weak element in this film.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'and he does a great job. John C. Reilly and Don Cheadle also give excellent comedic performances.'), (4, 'There is not a weak element in this film.')], 'Nucleus', 'list')
+((2, 4), [(2, "I have seen this film several times and enjoy it more each time. It doesn't get old, it is consistently entertaining and stimulating. Easily Burt Reynolds best role,"), (3, 'and he does a great job. John C. Reilly and Don Cheadle also give excellent comedic performances.'), (4, 'There is not a weak element in this film.')], 'Satellite', 'elaboration')

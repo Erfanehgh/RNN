@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The best movie about friendship! Especially between an AIDs infected person and a " normal " person. This is a great movie for everyone')], 'Nucleus', 'span')
+((2, 2), [(2, 'to see')], 'Nucleus', 'span')
+((3, 3), [(3, 'even though there is strong language')], 'Nucleus', 'span')
+((4, 4), [(4, 'used.')], 'Nucleus', 'span')
+((5, 5), [(5, 'I have seen it 25 times.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'used.'), (5, 'I have seen it 25 times.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'even though there is strong language'), (4, 'used.'), (5, 'I have seen it 25 times.')], 'Satellite', 'concession')
+((2, 5), [(2, 'to see'), (3, 'even though there is strong language'), (4, 'used.'), (5, 'I have seen it 25 times.')], 'Satellite', 'elaboration')

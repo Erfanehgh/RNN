@@ -1,0 +1,6 @@
+((1, 1), [(1, 'It was an interesting and entertaining movie well worth watching.')], 'Nucleus', 'span')
+((2, 2), [(2, 'The acting was decent but it may be out of date for some people.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I was glad')], 'Nucleus', 'span')
+((4, 4), [(4, 'to see cast members of such highly acclaimed movies as "Raging Bull" and "Goodfellas" in this movie A great and dramatic ending and pretty good writing.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'I was glad'), (4, 'to see cast members of such highly acclaimed movies as "Raging Bull" and "Goodfellas" in this movie A great and dramatic ending and pretty good writing.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'The acting was decent but it may be out of date for some people.'), (3, 'I was glad'), (4, 'to see cast members of such highly acclaimed movies as "Raging Bull" and "Goodfellas" in this movie A great and dramatic ending and pretty good writing.')], 'Satellite', 'elaboration')

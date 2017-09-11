@@ -1,0 +1,8 @@
+((1, 1), [(1, "I haven't")], 'Satellite', 'attribution')
+((2, 2), [(2, "seen all Cage's works by any means but his acting in this one was truly awful. The other characters run the gamut of ability")], 'Nucleus', 'span')
+((3, 3), [(3, "but, having most of the emotional scenes, Cage's scenes are just embarrassing")], 'Nucleus', 'span')
+((4, 4), [(4, "to watch. He's certainly come a long ways")], 'Nucleus', 'span')
+((5, 5), [(5, 'in 12 years.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "to watch. He's certainly come a long ways"), (5, 'in 12 years.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "but, having most of the emotional scenes, Cage's scenes are just embarrassing"), (4, "to watch. He's certainly come a long ways"), (5, 'in 12 years.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "seen all Cage's works by any means but his acting in this one was truly awful. The other characters run the gamut of ability"), (3, "but, having most of the emotional scenes, Cage's scenes are just embarrassing"), (4, "to watch. He's certainly come a long ways"), (5, 'in 12 years.')], 'Nucleus', 'span')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Cannot believe a movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'that can be made that good in 1987 and is virtually unknown in the west. Not to repeat other reviews here. The score is very good and moving. Literally it means "Dawn please never comes"')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Cannot believe a movie'), (2, 'that can be made that good in 1987 and is virtually unknown in the west. Not to repeat other reviews here. The score is very good and moving. Literally it means "Dawn please never comes"')], 'Nucleus', 'same_unit')
+((3, 3), [(3, '-')], 'Nucleus', 'span')
+((4, 4), [(4, 'when it comes, the beautiful ghost and the lover will be apart forever. After 24 years, Joel and Leslie still look great. I enjoyed Joel in God of Gamblers and many movies by Leslie')], 'Nucleus', 'span')
+((5, 5), [(5, 'including Better Tomorrow.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'when it comes, the beautiful ghost and the lover will be apart forever. After 24 years, Joel and Leslie still look great. I enjoyed Joel in God of Gamblers and many movies by Leslie'), (5, 'including Better Tomorrow.')], 'Satellite', 'circumstance')
+((3, 5), [(3, '-'), (4, 'when it comes, the beautiful ghost and the lover will be apart forever. After 24 years, Joel and Leslie still look great. I enjoyed Joel in God of Gamblers and many movies by Leslie'), (5, 'including Better Tomorrow.')], 'Nucleus', 'same_unit')

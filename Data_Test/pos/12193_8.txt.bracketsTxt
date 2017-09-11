@@ -1,0 +1,8 @@
+((1, 1), [(1, "It has very little to do with the books: half of the characters have been eliminated, the plot has been greatly altered, people's parents are changed for different characters .")], 'Nucleus', 'span')
+((2, 2), [(2, '.')], 'Satellite', 'elaboration')
+((1, 2), [(1, "It has very little to do with the books: half of the characters have been eliminated, the plot has been greatly altered, people's parents are changed for different characters ."), (2, '.')], 'Nucleus', 'span')
+((3, 3), [(3, '.<br /><br')], 'Nucleus', 'span')
+((4, 4), [(4, '/>However,')], 'Nucleus', 'span')
+((5, 5), [(5, 'if you watch it as an independent piece (try and forget you ever read the books) the movie is very well put together, everyone is very good looking, and there is even a sweet ending...')], 'Satellite', 'condition')
+((4, 5), [(4, '/>However,'), (5, 'if you watch it as an independent piece (try and forget you ever read the books) the movie is very well put together, everyone is very good looking, and there is even a sweet ending...')], 'Satellite', 'elaboration')
+((3, 5), [(3, '.<br /><br'), (4, '/>However,'), (5, 'if you watch it as an independent piece (try and forget you ever read the books) the movie is very well put together, everyone is very good looking, and there is even a sweet ending...')], 'Satellite', 'elaboration')

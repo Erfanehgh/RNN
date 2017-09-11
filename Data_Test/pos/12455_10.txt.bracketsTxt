@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Watch it with an open mind,')], 'Nucleus', 'span')
+((2, 2), [(2, "it is very different, nothing's cutesy about this. Very well done realistic tale of Tarzan. The animatronics chimpazees are well done for '84, Christopher Lambert was brilliant imitating chimpazee language")], 'Nucleus', 'list')
+((3, 3), [(3, 'and behavior.')], 'Nucleus', 'span')
+((4, 4), [(4, "I wouldn't be surprised")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'and behavior.'), (4, "I wouldn't be surprised")], 'Nucleus', 'span')
+((5, 5), [(5, 'if he took lessons from Jane Goodall.')], 'Satellite', 'condition')
+((3, 5), [(3, 'and behavior.'), (4, "I wouldn't be surprised"), (5, 'if he took lessons from Jane Goodall.')], 'Nucleus', 'list')
+((2, 5), [(2, "it is very different, nothing's cutesy about this. Very well done realistic tale of Tarzan. The animatronics chimpazees are well done for '84, Christopher Lambert was brilliant imitating chimpazee language"), (3, 'and behavior.'), (4, "I wouldn't be surprised"), (5, 'if he took lessons from Jane Goodall.')], 'Satellite', 'elaboration')

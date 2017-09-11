@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Liked Stanley & Iris very much. Acting was very good. Story had a unique and interesting arrangement.')], 'Nucleus', 'span')
+((2, 2), [(2, 'The absence of violence and sex was refreshing. Characters were very convincing and felt')], 'Nucleus', 'span')
+((3, 3), [(3, 'like you could understand their feelings. Very enjoyable movie.')], 'Satellite', 'consequence')
+((2, 3), [(2, 'The absence of violence and sex was refreshing. Characters were very convincing and felt'), (3, 'like you could understand their feelings. Very enjoyable movie.')], 'Satellite', 'elaboration')

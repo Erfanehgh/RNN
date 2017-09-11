@@ -1,0 +1,6 @@
+((1, 1), [(1, 'A strange role for Eddie Murphy')], 'Nucleus', 'span')
+((2, 2), [(2, 'to take at the height of his career.')], 'Nucleus', 'list')
+((3, 3), [(3, 'While there is a lot of the "Eddie Murphy character,"')], 'Nucleus', 'span')
+((4, 4), [(4, "he plays a truly decent person. The rest of the cast is good, particularly the lovely Charlotte Lewis. Her character's beauty and serenity held the tone of the film from getting to be too much Murphy.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'While there is a lot of the "Eddie Murphy character,"'), (4, "he plays a truly decent person. The rest of the cast is good, particularly the lovely Charlotte Lewis. Her character's beauty and serenity held the tone of the film from getting to be too much Murphy.")], 'Nucleus', 'list')
+((2, 4), [(2, 'to take at the height of his career.'), (3, 'While there is a lot of the "Eddie Murphy character,"'), (4, "he plays a truly decent person. The rest of the cast is good, particularly the lovely Charlotte Lewis. Her character's beauty and serenity held the tone of the film from getting to be too much Murphy.")], 'Satellite', 'purpose')

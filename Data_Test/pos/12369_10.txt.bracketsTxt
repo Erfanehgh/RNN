@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Sj\xc3\xb6str\xc3\xb6ms masterpiece and a movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'that captures the swedish soul .')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Sj\xc3\xb6str\xc3\xb6ms masterpiece and a movie'), (2, 'that captures the swedish soul .')], 'Nucleus', 'span')
+((3, 3), [(3, "It also served as a great inspiration for Bergman; the similarites between K\xc3\xb6rkarlen and Smultronst\xc3\xa4llet (with Sj\xc3\xb6str\xc3\xb6m in the leading role as Isak Borg) from 1957 is not a coincidence. Don't miss it for the world!")], 'Satellite', 'elaboration')

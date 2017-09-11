@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Its a feel-good movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'that made me feel good. Some in this genre can be sickly sweet,')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Its a feel-good movie'), (2, 'that made me feel good. Some in this genre can be sickly sweet,')], 'Nucleus', 'contrast')
+((3, 3), [(3, 'but this script is restrained. The movie is funny and fun. The acting is great.<br /><br />If this were a musical,')], 'Nucleus', 'span')
+((4, 4), [(4, 'I would have left the theater')], 'Nucleus', 'span')
+((5, 5), [(5, 'humming the tunes.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'I would have left the theater'), (5, 'humming the tunes.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'but this script is restrained. The movie is funny and fun. The acting is great.<br /><br />If this were a musical,'), (4, 'I would have left the theater'), (5, 'humming the tunes.')], 'Nucleus', 'contrast')

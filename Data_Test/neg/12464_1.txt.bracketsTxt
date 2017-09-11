@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Just once in a while you see a movie so mind-numbingly awful')], 'Satellite', 'attribution')
+((2, 2), [(2, 'that you have')], 'Nucleus', 'span')
+((3, 3), [(3, "to comment on it. This was that movie. Poorly scripted, acted and totally unbelievable. It's movies like these")], 'Nucleus', 'span')
+((4, 4), [(4, 'that show you')], 'Nucleus', 'span')
+((5, 5), [(5, 'how good the banal Hollywood trash usually is!')], 'Satellite', 'attribution')
+((4, 5), [(4, 'that show you'), (5, 'how good the banal Hollywood trash usually is!')], 'Satellite', 'elaboration')
+((3, 5), [(3, "to comment on it. This was that movie. Poorly scripted, acted and totally unbelievable. It's movies like these"), (4, 'that show you'), (5, 'how good the banal Hollywood trash usually is!')], 'Satellite', 'purpose')
+((2, 5), [(2, 'that you have'), (3, "to comment on it. This was that movie. Poorly scripted, acted and totally unbelievable. It's movies like these"), (4, 'that show you'), (5, 'how good the banal Hollywood trash usually is!')], 'Nucleus', 'span')

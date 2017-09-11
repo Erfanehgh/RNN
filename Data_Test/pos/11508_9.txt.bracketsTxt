@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Having a close experience with one such patient is probably the best reason')], 'Nucleus', 'span')
+((2, 2), [(2, "why I had my heart rushing throughout the entire film. Intense, sensible, moral and revealing, and don't forget")], 'Nucleus', 'span')
+((3, 3), [(3, 'to check out the marvellous sound track. Really good.')], 'Satellite', 'purpose')
+((2, 3), [(2, "why I had my heart rushing throughout the entire film. Intense, sensible, moral and revealing, and don't forget"), (3, 'to check out the marvellous sound track. Really good.')], 'Satellite', 'elaboration')

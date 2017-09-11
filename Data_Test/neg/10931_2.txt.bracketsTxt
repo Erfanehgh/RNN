@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Totally forgettable and almost unwatchable. If you enjoy bad acting, thin plots and predictably weak outcomes, pull up a chair.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Of passing interest')], 'Nucleus', 'span')
+((3, 3), [(3, 'to see Bridget Fonda look-a-like Suzy Amis.')], 'Satellite', 'purpose')
+((2, 3), [(2, 'Of passing interest'), (3, 'to see Bridget Fonda look-a-like Suzy Amis.')], 'Satellite', 'elaboration')

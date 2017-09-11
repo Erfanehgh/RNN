@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I think')], 'Satellite', 'attribution')
+((2, 2), [(2, 'the film makes a subtile reference to rouge of Kieslowski,')], 'Nucleus', 'span')
+((3, 3), [(3, 'as the whole atmosphere gives me a feeling of red. It seems to be that a lot of the backgrounds contain red, think')], 'Nucleus', 'span')
+((4, 4), [(4, 'of the tea-room f.e. I also think')], 'Satellite', 'attribution')
+((5, 5), [(5, 'this is one of the greatest movies of the last years.')], 'Nucleus', 'span')
+((4, 5), [(4, 'of the tea-room f.e. I also think'), (5, 'this is one of the greatest movies of the last years.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'as the whole atmosphere gives me a feeling of red. It seems to be that a lot of the backgrounds contain red, think'), (4, 'of the tea-room f.e. I also think'), (5, 'this is one of the greatest movies of the last years.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'the film makes a subtile reference to rouge of Kieslowski,'), (3, 'as the whole atmosphere gives me a feeling of red. It seems to be that a lot of the backgrounds contain red, think'), (4, 'of the tea-room f.e. I also think'), (5, 'this is one of the greatest movies of the last years.')], 'Nucleus', 'span')

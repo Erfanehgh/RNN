@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This is an absolute great show. Jessica Alba,')], 'Nucleus', 'span')
+((2, 2), [(2, 'besides being the most beautiful women in the world, is a great actress. She does a great job')], 'Nucleus', 'span')
+((3, 3), [(3, 'of portraying Max,')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'besides being the most beautiful women in the world, is a great actress. She does a great job'), (3, 'of portraying Max,')], 'Nucleus', 'list')
+((4, 4), [(4, 'and I could never see anyone else doing that role. She is definitely one of a kind and absolutely gorgeous.')], 'Nucleus', 'list')
+((2, 4), [(2, 'besides being the most beautiful women in the world, is a great actress. She does a great job'), (3, 'of portraying Max,'), (4, 'and I could never see anyone else doing that role. She is definitely one of a kind and absolutely gorgeous.')], 'Satellite', 'elaboration')

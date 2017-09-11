@@ -1,0 +1,8 @@
+((1, 1), [(1, "as with many of Wong's films, a lot of people find them")], 'Nucleus', 'span')
+((2, 2), [(2, 'to be boring and confusing. Well i like them and i like this film too. I went out and rented it on dvd and i watched it 3 times. It is a very subtle movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'that provides an intoxicating experience. for those')], 'Nucleus', 'span')
+((4, 4), [(4, 'who did not enjoy it...... you just wasted')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'that provides an intoxicating experience. for those'), (4, 'who did not enjoy it...... you just wasted')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to be boring and confusing. Well i like them and i like this film too. I went out and rented it on dvd and i watched it 3 times. It is a very subtle movie'), (3, 'that provides an intoxicating experience. for those'), (4, 'who did not enjoy it...... you just wasted')], 'Nucleus', 'span')
+((5, 5), [(5, '2 hours of your life.... too bad...muhahahahaha.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to be boring and confusing. Well i like them and i like this film too. I went out and rented it on dvd and i watched it 3 times. It is a very subtle movie'), (3, 'that provides an intoxicating experience. for those'), (4, 'who did not enjoy it...... you just wasted'), (5, '2 hours of your life.... too bad...muhahahahaha.')], 'Satellite', 'elaboration')

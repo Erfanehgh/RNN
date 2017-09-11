@@ -1,0 +1,6 @@
+((1, 1), [(1, "This reminded me of Spinal Tap, on a more serious level. It's the story of a band doing a reunion tour,")], 'Nucleus', 'span')
+((2, 2), [(2, "but things are not harmonious between them. I was especially impressed with the performance of Bill Nighy as Ray. You felt sorry for him, yet he had a certain creepiness about him. It's a great movie")], 'Nucleus', 'span')
+((3, 3), [(3, 'to watch')], 'Nucleus', 'span')
+((4, 4), [(4, 'if you have ever seen your favorite band get wrinkly,old and pathetic.Bittersweet, highly recommended..')], 'Satellite', 'condition')
+((3, 4), [(3, 'to watch'), (4, 'if you have ever seen your favorite band get wrinkly,old and pathetic.Bittersweet, highly recommended..')], 'Satellite', 'elaboration')
+((2, 4), [(2, "but things are not harmonious between them. I was especially impressed with the performance of Bill Nighy as Ray. You felt sorry for him, yet he had a certain creepiness about him. It's a great movie"), (3, 'to watch'), (4, 'if you have ever seen your favorite band get wrinkly,old and pathetic.Bittersweet, highly recommended..')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, "Maybe it's")], 'Nucleus', 'span')
+((2, 2), [(2, 'because I saw the movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'before reading the book,')], 'Satellite', 'antithesis')
+((4, 4), [(4, "but I really love this movie. I've seen it many many times and will be watching it many times more. It's a compelling story, that's interesting from the beginning to the end. It has everything: action, romance etc.")], 'Nucleus', 'span')
+((3, 4), [(3, 'before reading the book,'), (4, "but I really love this movie. I've seen it many many times and will be watching it many times more. It's a compelling story, that's interesting from the beginning to the end. It has everything: action, romance etc.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'because I saw the movie'), (3, 'before reading the book,'), (4, "but I really love this movie. I've seen it many many times and will be watching it many times more. It's a compelling story, that's interesting from the beginning to the end. It has everything: action, romance etc.")], 'Satellite', 'reason')

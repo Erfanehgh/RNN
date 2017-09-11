@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I enjoyed every moment of this movie,')], 'Nucleus', 'span')
+((2, 2), [(2, 'even though I knew')], 'Satellite', 'attribution')
+((3, 3), [(3, "they could never really be together. With the life expectancy of a Bomber pilot being only six weeks, It made me feel for all of those women and men back in the 1940's")], 'Nucleus', 'span')
+((4, 4), [(4, 'who must have lived this story.')], 'Satellite', 'elaboration')
+((3, 4), [(3, "they could never really be together. With the life expectancy of a Bomber pilot being only six weeks, It made me feel for all of those women and men back in the 1940's"), (4, 'who must have lived this story.')], 'Nucleus', 'span')
+((2, 4), [(2, 'even though I knew'), (3, "they could never really be together. With the life expectancy of a Bomber pilot being only six weeks, It made me feel for all of those women and men back in the 1940's"), (4, 'who must have lived this story.')], 'Satellite', 'concession')

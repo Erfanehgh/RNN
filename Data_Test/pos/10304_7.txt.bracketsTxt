@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Not an easy film')], 'Nucleus', 'span')
+((2, 2), [(2, "to like at first with both the lead characters quite unlikeable but luckily the heart and soul of the film is Paula Sage's touching performance")], 'Nucleus', 'span')
+((3, 3), [(3, 'which drives the film into uncharted waters and transcends the rather awkward storyline.')], 'Nucleus', 'span')
+((4, 4), [(4, 'This gives the film a feeling of real truth and makes you think')], 'Satellite', 'attribution')
+((5, 5), [(5, "you've seen something special.(7/10)")], 'Nucleus', 'span')
+((4, 5), [(4, 'This gives the film a feeling of real truth and makes you think'), (5, "you've seen something special.(7/10)")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'which drives the film into uncharted waters and transcends the rather awkward storyline.'), (4, 'This gives the film a feeling of real truth and makes you think'), (5, "you've seen something special.(7/10)")], 'Satellite', 'elaboration')
+((2, 5), [(2, "to like at first with both the lead characters quite unlikeable but luckily the heart and soul of the film is Paula Sage's touching performance"), (3, 'which drives the film into uncharted waters and transcends the rather awkward storyline.'), (4, 'This gives the film a feeling of real truth and makes you think'), (5, "you've seen something special.(7/10)")], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, "I'm not a big musical fan, but this is one of the few I really love.")], 'Nucleus', 'span')
+((2, 2), [(2, 'Unlike many other musicals, such as "The Sound of Music," none of the songs are about gratuitous stuff. Each song is social commentary, acumen on war, sexuality, recalcitrance, spirituality, and freedom. Especially amazing songs are "Easy')], 'Nucleus', 'span')
+((3, 3), [(3, 'To Be Hard," "Age of Aquarius," "Hair," "Flesh Failures/3-5-0-0," "Walking In Space," and "Hare Krishna." Totally revolutionary and wonderful.')], 'Nucleus', 'span')
+((4, 4), [(4, "I can't wait")], 'Nucleus', 'span')
+((5, 5), [(5, 'to someday see it live!')], 'Satellite', 'purpose')
+((4, 5), [(4, "I can't wait"), (5, 'to someday see it live!')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'To Be Hard," "Age of Aquarius," "Hair," "Flesh Failures/3-5-0-0," "Walking In Space," and "Hare Krishna." Totally revolutionary and wonderful.'), (4, "I can't wait"), (5, 'to someday see it live!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'Unlike many other musicals, such as "The Sound of Music," none of the songs are about gratuitous stuff. Each song is social commentary, acumen on war, sexuality, recalcitrance, spirituality, and freedom. Especially amazing songs are "Easy'), (3, 'To Be Hard," "Age of Aquarius," "Hair," "Flesh Failures/3-5-0-0," "Walking In Space," and "Hare Krishna." Totally revolutionary and wonderful.'), (4, "I can't wait"), (5, 'to someday see it live!')], 'Satellite', 'explanation')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I sat (uncomfortably)')], 'Nucleus', 'span')
+((2, 2), [(2, 'through this film becoming more and more staggered at just how it got made at all. The script itself makes')], 'Nucleus', 'span')
+((3, 3), [(3, 'the acting look embarrassing, and it fundamentally becomes a waste of time for everybody concerned.')], 'Nucleus', 'span')
+((4, 4), [(4, 'If you avoid seeing one film this year, make it this one.')], 'Satellite', 'condition')
+((3, 4), [(3, 'the acting look embarrassing, and it fundamentally becomes a waste of time for everybody concerned.'), (4, 'If you avoid seeing one film this year, make it this one.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'through this film becoming more and more staggered at just how it got made at all. The script itself makes'), (3, 'the acting look embarrassing, and it fundamentally becomes a waste of time for everybody concerned.'), (4, 'If you avoid seeing one film this year, make it this one.')], 'Satellite', 'elaboration')

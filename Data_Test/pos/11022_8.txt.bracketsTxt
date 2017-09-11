@@ -1,0 +1,4 @@
+((1, 1), [(1, "Not only is this a very interesting exploration of Tourette's")], 'Nucleus', 'list')
+((2, 2), [(2, "and how we react to people in our lives, it has some of the most well-filmed views of a bleak northern winter landscape. There's nothing pretty about this film,")], 'Nucleus', 'span')
+((3, 3), [(3, 'but it stays with the viewer.')], 'Satellite', 'elaboration')
+((2, 3), [(2, "and how we react to people in our lives, it has some of the most well-filmed views of a bleak northern winter landscape. There's nothing pretty about this film,"), (3, 'but it stays with the viewer.')], 'Nucleus', 'list')

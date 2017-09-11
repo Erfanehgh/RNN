@@ -1,0 +1,4 @@
+((1, 1), [(1, "Very smart, sometimes shocking, I just love it. It shoved one more side of David's brilliant talent.")], 'Nucleus', 'span')
+((2, 2), [(2, 'He impressed me greatly! David is the best.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'The movie captivates your attention for every second.')], 'Nucleus', 'span')
+((2, 3), [(2, 'He impressed me greatly! David is the best.'), (3, 'The movie captivates your attention for every second.')], 'Satellite', 'elaboration')

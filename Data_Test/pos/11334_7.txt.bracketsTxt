@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Sensitive, extremely quiet paced love story between a married journalist and his young and atractive neighbor, she too also married. They lived their love for a time but the obstacles and the fear')], 'Nucleus', 'span')
+((2, 2), [(2, 'of hurting their families and children invites to a separation. A reflexive look on delicate question like love, friendship, honor and loneliness, always present in human')], 'Nucleus', 'span')
+((3, 3), [(3, 'lives,')], 'Nucleus', 'span')
+((4, 4), [(4, 'whether you are an American or a Chinese.')], 'Nucleus', 'span')
+((5, 5), [(5, 'I give this a 7 (seven)')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'whether you are an American or a Chinese.'), (5, 'I give this a 7 (seven)')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'lives,'), (4, 'whether you are an American or a Chinese.'), (5, 'I give this a 7 (seven)')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'of hurting their families and children invites to a separation. A reflexive look on delicate question like love, friendship, honor and loneliness, always present in human'), (3, 'lives,'), (4, 'whether you are an American or a Chinese.'), (5, 'I give this a 7 (seven)')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'One of the best ever. Direction, fotography, a thrilling and dramatic history, wonderful soundtrack and, most of all, the incredible credibility of Susan Sarandon and Sean Penn, the best and most underestimated "under-40 generation" actor.')], 'Nucleus', 'span')
+((2, 2), [(2, 'After seeing this movie i guess')], 'Nucleus', 'span')
+((3, 3), [(3, "if there's anyone")], 'Nucleus', 'span')
+((4, 4), [(4, "who couldn't have any doubt")], 'Satellite', 'elaboration')
+((3, 4), [(3, "if there's anyone"), (4, "who couldn't have any doubt")], 'Satellite', 'condition')
+((5, 5), [(5, 'about giving death to another man, in spite of the ugly things he could have done?')], 'Nucleus', 'span')
+((3, 5), [(3, "if there's anyone"), (4, "who couldn't have any doubt"), (5, 'about giving death to another man, in spite of the ugly things he could have done?')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'After seeing this movie i guess'), (3, "if there's anyone"), (4, "who couldn't have any doubt"), (5, 'about giving death to another man, in spite of the ugly things he could have done?')], 'Satellite', 'temporal')

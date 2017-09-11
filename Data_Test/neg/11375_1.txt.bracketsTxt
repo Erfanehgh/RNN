@@ -1,0 +1,8 @@
+((1, 1), [(1, 'some funny lines are all')], 'Nucleus', 'span')
+((2, 2), [(2, 'what makes this movie bearable. the camera tv-movie-like,')], 'Nucleus', 'span')
+((3, 3), [(3, 'the acting poor (julie davis is more than disapointing) and the directing amateurish and / or loveless. but i can understand')], 'Satellite', 'attribution')
+((4, 4), [(4, 'that no one had fun')], 'Nucleus', 'span')
+((5, 5), [(5, 'to realise the overconstructed and trivial script.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that no one had fun'), (5, 'to realise the overconstructed and trivial script.')], 'Nucleus', 'span')
+((3, 5), [(3, 'the acting poor (julie davis is more than disapointing) and the directing amateurish and / or loveless. but i can understand'), (4, 'that no one had fun'), (5, 'to realise the overconstructed and trivial script.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'what makes this movie bearable. the camera tv-movie-like,'), (3, 'the acting poor (julie davis is more than disapointing) and the directing amateurish and / or loveless. but i can understand'), (4, 'that no one had fun'), (5, 'to realise the overconstructed and trivial script.')], 'Satellite', 'example')

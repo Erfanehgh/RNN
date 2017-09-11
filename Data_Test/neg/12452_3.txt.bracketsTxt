@@ -1,0 +1,6 @@
+((1, 1), [(1, 'The first Shiloh film was enjoyable by adults as well as children.')], 'Nucleus', 'span')
+((2, 2), [(2, 'This one starts with about an hour of filler')], 'Nucleus', 'span')
+((3, 3), [(3, 'where not much happens, with stilted dialogue; only in the last act is there any significant action')], 'Nucleus', 'span')
+((4, 4), [(4, 'that really moves the plot along. The dog is still cute, though, and young kids may enjoy it.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'where not much happens, with stilted dialogue; only in the last act is there any significant action'), (4, 'that really moves the plot along. The dog is still cute, though, and young kids may enjoy it.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'This one starts with about an hour of filler'), (3, 'where not much happens, with stilted dialogue; only in the last act is there any significant action'), (4, 'that really moves the plot along. The dog is still cute, though, and young kids may enjoy it.')], 'Satellite', 'elaboration')

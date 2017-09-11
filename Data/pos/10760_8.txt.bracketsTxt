@@ -1,0 +1,4 @@
+((1, 1), [(1, '"9/11,"')], 'Nucleus', 'span')
+((2, 2), [(2, 'hosted by Robert DeNiro, presents footage from outside and inside the Twin Towers in New York, on September 11, 2001.<br /><br />Never too grisly and gory, yet powerful and moving. "9/11" is a real treat. Anyone not moved by this television show is immune')], 'Nucleus', 'span')
+((3, 3), [(3, 'to anything.<br /><br />5/5 stars --<br /><br />')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'hosted by Robert DeNiro, presents footage from outside and inside the Twin Towers in New York, on September 11, 2001.<br /><br />Never too grisly and gory, yet powerful and moving. "9/11" is a real treat. Anyone not moved by this television show is immune'), (3, 'to anything.<br /><br />5/5 stars --<br /><br />')], 'Satellite', 'elaboration')

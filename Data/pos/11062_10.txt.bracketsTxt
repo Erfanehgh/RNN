@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Real cool, smart movie.')], 'Nucleus', 'span')
+((2, 2), [(2, "I loved Sheedy's colors, especially the purple car. Alice Drummond is Wise And Wonderful as Stella.")], 'Nucleus', 'span')
+((3, 3), [(3, "I liked Sheedy's reference")], 'Nucleus', 'span')
+((4, 4), [(4, 'to how her face had gotten fatter. The roadside dance scene is brilliant. Really liked this one.')], 'Satellite', 'elaboration')
+((3, 4), [(3, "I liked Sheedy's reference"), (4, 'to how her face had gotten fatter. The roadside dance scene is brilliant. Really liked this one.')], 'Satellite', 'elaboration')
+((2, 4), [(2, "I loved Sheedy's colors, especially the purple car. Alice Drummond is Wise And Wonderful as Stella."), (3, "I liked Sheedy's reference"), (4, 'to how her face had gotten fatter. The roadside dance scene is brilliant. Really liked this one.')], 'Satellite', 'elaboration')

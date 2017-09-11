@@ -1,0 +1,8 @@
+((1, 1), [(1, '<br /><br />A friend of mine enjoys watching the worst films he can possibly find, and I have a good laugh')], 'Nucleus', 'span')
+((2, 2), [(2, 'watching them with him.<br /><br />I have told him')], 'Satellite', 'attribution')
+((3, 3), [(3, 'if he puts this one on again')], 'Satellite', 'condition')
+((4, 4), [(4, 'I will be forced to give him a good kicking.<br /><br />He')], 'Nucleus', 'span')
+((5, 5), [(5, 'knows I am serious!<br /><br />')], 'Satellite', 'attribution')
+((4, 5), [(4, 'I will be forced to give him a good kicking.<br /><br />He'), (5, 'knows I am serious!<br /><br />')], 'Nucleus', 'span')
+((3, 5), [(3, 'if he puts this one on again'), (4, 'I will be forced to give him a good kicking.<br /><br />He'), (5, 'knows I am serious!<br /><br />')], 'Nucleus', 'span')
+((2, 5), [(2, 'watching them with him.<br /><br />I have told him'), (3, 'if he puts this one on again'), (4, 'I will be forced to give him a good kicking.<br /><br />He'), (5, 'knows I am serious!<br /><br />')], 'Satellite', 'elaboration')

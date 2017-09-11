@@ -1,0 +1,4 @@
+((1, 1), [(1, "Found this film in a DVD discount rack for $10. It wasn't worth it. Some of the camera work and dialog look and sound")], 'Nucleus', 'span')
+((2, 2), [(2, "as if it were done by a film student. Sandra's performance was somewhat credible, but the film was predictable and the action was spotty and dragged.<br /><br />One thing")], 'Nucleus', 'span')
+((3, 3), [(3, 'that I will give them, however. Unlike most action films, people in this film actually ran out of ammo and scavanged dead bodies for new weapons and ammunition.')], 'Satellite', 'elaboration')
+((2, 3), [(2, "as if it were done by a film student. Sandra's performance was somewhat credible, but the film was predictable and the action was spotty and dragged.<br /><br />One thing"), (3, 'that I will give them, however. Unlike most action films, people in this film actually ran out of ammo and scavanged dead bodies for new weapons and ammunition.')], 'Satellite', 'circumstance')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie can be described in those 2 words "just unbelievable". This is the best movie ever made, I just cant')], 'Nucleus', 'span')
+((2, 2), [(2, "see why this movie isnt in the top 250. I also can't")], 'Satellite', 'attribution')
+((3, 3), [(3, 'see why anybody would not love Scarface. Anyways,')], 'Nucleus', 'span')
+((4, 4), [(4, 'if you havnt seen')], 'Satellite', 'condition')
+((5, 5), [(5, 'it, it is a must buy.')], 'Nucleus', 'span')
+((4, 5), [(4, 'if you havnt seen'), (5, 'it, it is a must buy.')], 'Satellite', 'condition')
+((3, 5), [(3, 'see why anybody would not love Scarface. Anyways,'), (4, 'if you havnt seen'), (5, 'it, it is a must buy.')], 'Nucleus', 'span')
+((2, 5), [(2, "see why this movie isnt in the top 250. I also can't"), (3, 'see why anybody would not love Scarface. Anyways,'), (4, 'if you havnt seen'), (5, 'it, it is a must buy.')], 'Satellite', 'attribution')

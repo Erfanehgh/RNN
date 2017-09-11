@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Jean-Hugh Anglade is excellent as the teenaged boy')], 'Nucleus', 'span')
+((2, 2), [(2, 'who wants to be a whore')], 'Nucleus', 'span')
+((3, 3), [(3, 'to please the man')], 'Nucleus', 'span')
+((4, 4), [(4, "he loves, but the rest of this film is so bad--acting, writing, cinematography, and everything else--that Anglade's performance is wasted. Sad")], 'Nucleus', 'span')
+((5, 5), [(5, 'to see so fine an actor in such a garbage flick.')], 'Satellite', 'purpose')
+((4, 5), [(4, "he loves, but the rest of this film is so bad--acting, writing, cinematography, and everything else--that Anglade's performance is wasted. Sad"), (5, 'to see so fine an actor in such a garbage flick.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'to please the man'), (4, "he loves, but the rest of this film is so bad--acting, writing, cinematography, and everything else--that Anglade's performance is wasted. Sad"), (5, 'to see so fine an actor in such a garbage flick.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'who wants to be a whore'), (3, 'to please the man'), (4, "he loves, but the rest of this film is so bad--acting, writing, cinematography, and everything else--that Anglade's performance is wasted. Sad"), (5, 'to see so fine an actor in such a garbage flick.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, '<br /><br />Her Excellency Madam Shabana Azmi has worked in countless movies over life time.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I think')], 'Satellite', 'attribution')
+((3, 3), [(3, 'best is yet to come.<br /><br />Fire is ok.<br /><br />But still good days are yet to come.<br /><br />Hopefully, in Water')], 'Nucleus', 'span')
+((4, 4), [(4, "I will be able see her better.<br /><br />Thanks and Regards.<br /><br />PS: India doesn't have a director")], 'Nucleus', 'span')
+((5, 5), [(5, 'to make best use of her.')], 'Satellite', 'purpose')
+((4, 5), [(4, "I will be able see her better.<br /><br />Thanks and Regards.<br /><br />PS: India doesn't have a director"), (5, 'to make best use of her.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'best is yet to come.<br /><br />Fire is ok.<br /><br />But still good days are yet to come.<br /><br />Hopefully, in Water'), (4, "I will be able see her better.<br /><br />Thanks and Regards.<br /><br />PS: India doesn't have a director"), (5, 'to make best use of her.')], 'Nucleus', 'span')
+((2, 5), [(2, 'I think'), (3, 'best is yet to come.<br /><br />Fire is ok.<br /><br />But still good days are yet to come.<br /><br />Hopefully, in Water'), (4, "I will be able see her better.<br /><br />Thanks and Regards.<br /><br />PS: India doesn't have a director"), (5, 'to make best use of her.')], 'Satellite', 'elaboration')

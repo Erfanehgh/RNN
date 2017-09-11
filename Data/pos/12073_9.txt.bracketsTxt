@@ -1,0 +1,8 @@
+((1, 1), [(1, 'A lovely little B picture with all the usual Joe Lewis touches.... people ripping up pillows and auras of lurking fear. Also, alas, an ending')], 'Nucleus', 'span')
+((2, 2), [(2, 'that comes')], 'Nucleus', 'span')
+((3, 3), [(3, 'out of nowhere, because, apparently, the auteur has lost interest in the movie, or perhaps because as a B picture')], 'Nucleus', 'span')
+((4, 4), [(4, 'it has')], 'Nucleus', 'span')
+((5, 5), [(5, 'to fit into a slot.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'it has'), (5, 'to fit into a slot.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'out of nowhere, because, apparently, the auteur has lost interest in the movie, or perhaps because as a B picture'), (4, 'it has'), (5, 'to fit into a slot.')], 'Satellite', 'explanation')
+((2, 5), [(2, 'that comes'), (3, 'out of nowhere, because, apparently, the auteur has lost interest in the movie, or perhaps because as a B picture'), (4, 'it has'), (5, 'to fit into a slot.')], 'Satellite', 'elaboration')

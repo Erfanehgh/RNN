@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This was truly a heart')], 'Nucleus', 'span')
+((2, 2), [(2, 'warming movie. It is filled with so many messages. Loyalty, friendship, sickness, death, and the paranoia society has concerning anything')], 'Nucleus', 'span')
+((3, 3), [(3, "they don't understand.")], 'Nucleus', 'list')
+((4, 4), [(4, 'I have shed a few tears during certain movies,')], 'Nucleus', 'contrast')
+((5, 5), [(5, 'but this movie kept the tears flowing.')], 'Nucleus', 'contrast')
+((4, 5), [(4, 'I have shed a few tears during certain movies,'), (5, 'but this movie kept the tears flowing.')], 'Nucleus', 'list')
+((3, 5), [(3, "they don't understand."), (4, 'I have shed a few tears during certain movies,'), (5, 'but this movie kept the tears flowing.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'warming movie. It is filled with so many messages. Loyalty, friendship, sickness, death, and the paranoia society has concerning anything'), (3, "they don't understand."), (4, 'I have shed a few tears during certain movies,'), (5, 'but this movie kept the tears flowing.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, "This movie is just great. It's entertaining from beginning to the end, you're always gonna be at the edge of your seat throughout the entire movie. In my opinion this movie is highly underrated by the critics.<br /><br />Sly suits perfectly into the role of the well trained mountain-rescue guy Gabe Walker. Together with him Michael Rooker makes a great appearance")], 'Nucleus', 'span')
+((2, 2), [(2, "as Hal Tucker. And then, John Lithgow, one of the best performances I've")], 'Nucleus', 'span')
+((3, 3), [(3, 'seen of him as a villain.<br /><br />And the fact')], 'Nucleus', 'span')
+((4, 4), [(4, 'that 75% of the movie takes place at a mountain with a whole lot of bad guys on it makes way')], 'Nucleus', 'span')
+((5, 5), [(5, 'for a lot of action! <br /><br />Brilliant movie!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that 75% of the movie takes place at a mountain with a whole lot of bad guys on it makes way'), (5, 'for a lot of action! <br /><br />Brilliant movie!')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'seen of him as a villain.<br /><br />And the fact'), (4, 'that 75% of the movie takes place at a mountain with a whole lot of bad guys on it makes way'), (5, 'for a lot of action! <br /><br />Brilliant movie!')], 'Satellite', 'elaboration')
+((2, 5), [(2, "as Hal Tucker. And then, John Lithgow, one of the best performances I've"), (3, 'seen of him as a villain.<br /><br />And the fact'), (4, 'that 75% of the movie takes place at a mountain with a whole lot of bad guys on it makes way'), (5, 'for a lot of action! <br /><br />Brilliant movie!')], 'Satellite', 'elaboration')

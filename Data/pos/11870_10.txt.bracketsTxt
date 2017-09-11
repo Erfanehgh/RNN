@@ -1,0 +1,8 @@
+((1, 1), [(1, "This is one of my favorite films of all time. Al Pacino acting is at its best and the story is excellent. Too bad it didn't")], 'Nucleus', 'span')
+((2, 2), [(2, "do to well in the 80's")], 'Nucleus', 'span')
+((3, 3), [(3, 'when it was first released')], 'Nucleus', 'span')
+((4, 4), [(4, "because people didn't get a chance")], 'Nucleus', 'span')
+((5, 5), [(5, 'to experience this classic.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "because people didn't get a chance"), (5, 'to experience this classic.')], 'Satellite', 'reason')
+((3, 5), [(3, 'when it was first released'), (4, "because people didn't get a chance"), (5, 'to experience this classic.')], 'Satellite', 'circumstance')
+((2, 5), [(2, "do to well in the 80's"), (3, 'when it was first released'), (4, "because people didn't get a chance"), (5, 'to experience this classic.')], 'Satellite', 'elaboration')

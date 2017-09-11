@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I find this movie the best movie I have ever seen,')], 'Nucleus', 'span')
+((2, 2), [(2, 'because it reflects the inner strength of a young girl during the second world war.')], 'Nucleus', 'span')
+((3, 3), [(3, 'The movie is impressive, not least')], 'Nucleus', 'span')
+((4, 4), [(4, 'because it actually happened. It reminds me of the story of Anne Frank.<br /><br />')], 'Satellite', 'reason')
+((3, 4), [(3, 'The movie is impressive, not least'), (4, 'because it actually happened. It reminds me of the story of Anne Frank.<br /><br />')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'because it reflects the inner strength of a young girl during the second world war.'), (3, 'The movie is impressive, not least'), (4, 'because it actually happened. It reminds me of the story of Anne Frank.<br /><br />')], 'Satellite', 'reason')

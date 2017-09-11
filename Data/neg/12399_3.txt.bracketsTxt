@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The supernatural, vengeful police officer is back for a third installment, this time')], 'Nucleus', 'span')
+((2, 2), [(2, 'acting as guardian angel for a wrongfully accused female cop. Standard stalk and slash picture, yet well acted and directed,')], 'Nucleus', 'span')
+((3, 3), [(3, "thus making it oddly interesting and watchable, though the violence isn't for the squeamish (especially the director's")], 'Nucleus', 'span')
+((4, 4), [(4, 'cut')], 'Nucleus', 'span')
+((5, 5), [(5, 'which was originally given an "NC-17" rating).<br /><br />*1/2 out of ****')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'cut'), (5, 'which was originally given an "NC-17" rating).<br /><br />*1/2 out of ****')], 'Satellite', 'elaboration')
+((3, 5), [(3, "thus making it oddly interesting and watchable, though the violence isn't for the squeamish (especially the director's"), (4, 'cut'), (5, 'which was originally given an "NC-17" rating).<br /><br />*1/2 out of ****')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'acting as guardian angel for a wrongfully accused female cop. Standard stalk and slash picture, yet well acted and directed,'), (3, "thus making it oddly interesting and watchable, though the violence isn't for the squeamish (especially the director's"), (4, 'cut'), (5, 'which was originally given an "NC-17" rating).<br /><br />*1/2 out of ****')], 'Satellite', 'elaboration')

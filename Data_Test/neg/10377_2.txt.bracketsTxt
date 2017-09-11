@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I have')], 'Nucleus', 'span')
+((2, 2), [(2, 'to differ from the other comments posted. Amid sporadic funny moments, there are a lot of actors trying too hard')], 'Nucleus', 'span')
+((3, 3), [(3, 'to be funny. The strain shows.')], 'Nucleus', 'span')
+((4, 4), [(4, "I watched this with two friends on another friend's recommendation- none of us were thrilled.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'to be funny. The strain shows.'), (4, "I watched this with two friends on another friend's recommendation- none of us were thrilled.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to differ from the other comments posted. Amid sporadic funny moments, there are a lot of actors trying too hard'), (3, 'to be funny. The strain shows.'), (4, "I watched this with two friends on another friend's recommendation- none of us were thrilled.")], 'Satellite', 'purpose')

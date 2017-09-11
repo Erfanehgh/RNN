@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is exactly the sort of Saturday matinee serial')], 'Nucleus', 'span')
+((2, 2), [(2, "I loved during World War II. I was under ten years of age. And that's the audience this serial is designed for.")], 'Nucleus', 'span')
+((3, 3), [(3, 'Looking at it now, one must roar at its ineptitude and stupidity. The budget must have been next to nothing,')], 'Nucleus', 'span')
+((4, 4), [(4, 'given the shortcuts and repeats. The acting? Well, this is Republic pictures, 1944. They read the lines....and no doubt had one take')], 'Nucleus', 'span')
+((5, 5), [(5, 'to make them convincing.<br /><br />One and half stars.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'given the shortcuts and repeats. The acting? Well, this is Republic pictures, 1944. They read the lines....and no doubt had one take'), (5, 'to make them convincing.<br /><br />One and half stars.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'Looking at it now, one must roar at its ineptitude and stupidity. The budget must have been next to nothing,'), (4, 'given the shortcuts and repeats. The acting? Well, this is Republic pictures, 1944. They read the lines....and no doubt had one take'), (5, 'to make them convincing.<br /><br />One and half stars.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "I loved during World War II. I was under ten years of age. And that's the audience this serial is designed for."), (3, 'Looking at it now, one must roar at its ineptitude and stupidity. The budget must have been next to nothing,'), (4, 'given the shortcuts and repeats. The acting? Well, this is Republic pictures, 1944. They read the lines....and no doubt had one take'), (5, 'to make them convincing.<br /><br />One and half stars.')], 'Satellite', 'elaboration')

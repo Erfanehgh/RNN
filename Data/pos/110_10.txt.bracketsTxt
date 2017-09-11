@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This is the definite Lars von Trier Movie, my favorite,')], 'Nucleus', 'span')
+((2, 2), [(2, 'I rank it higher')], 'Nucleus', 'span')
+((3, 3), [(3, 'than "Breaking the waves" or the latest "Dancer in the Dark"... I simply love the beauty of the picture...the framing is so original; acting is wonderful, A MUST SEE.')], 'Satellite', 'comparison')
+((2, 3), [(2, 'I rank it higher'), (3, 'than "Breaking the waves" or the latest "Dancer in the Dark"... I simply love the beauty of the picture...the framing is so original; acting is wonderful, A MUST SEE.')], 'Satellite', 'elaboration')

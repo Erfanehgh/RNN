@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I think')], 'Satellite', 'attribution')
+((2, 2), [(2, "it's one of the greatest")], 'Nucleus', 'span')
+((3, 3), [(3, 'movies')], 'Nucleus', 'span')
+((4, 4), [(4, "which are ever made, and I've seen many...")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'movies'), (4, "which are ever made, and I've seen many...")], 'Nucleus', 'span')
+((5, 5), [(5, "The book is better, but it's still a very good movie!")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'movies'), (4, "which are ever made, and I've seen many..."), (5, "The book is better, but it's still a very good movie!")], 'Satellite', 'elaboration')
+((2, 5), [(2, "it's one of the greatest"), (3, 'movies'), (4, "which are ever made, and I've seen many..."), (5, "The book is better, but it's still a very good movie!")], 'Nucleus', 'span')

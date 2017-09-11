@@ -1,0 +1,2 @@
+((1, 1), [(1, 'This movie is very good. The screenplay is enchanting. But Meryl Streep is most impressive. Her performance is excellent. She brings me')], 'Nucleus', 'span')
+((2, 2), [(2, 'to go into the heart of her role.')], 'Satellite', 'elaboration')

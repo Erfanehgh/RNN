@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This stalk and slash turkey manages')], 'Nucleus', 'span')
+((2, 2), [(2, 'to bring nothing new to an increasingly stale genre. A masked killer stalks young, pert girls')], 'Nucleus', 'list')
+((3, 3), [(3, 'and slaughters them in a variety of gruesome ways, none')], 'Nucleus', 'span')
+((4, 4), [(4, "of which are particularly inventive.<br /><br />It's not scary, it's not clever, and it's not funny.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'and slaughters them in a variety of gruesome ways, none'), (4, "of which are particularly inventive.<br /><br />It's not scary, it's not clever, and it's not funny.")], 'Nucleus', 'same_unit')
+((5, 5), [(5, 'So what was the point of it?')], 'Nucleus', 'same_unit')
+((3, 5), [(3, 'and slaughters them in a variety of gruesome ways, none'), (4, "of which are particularly inventive.<br /><br />It's not scary, it's not clever, and it's not funny."), (5, 'So what was the point of it?')], 'Nucleus', 'list')
+((2, 5), [(2, 'to bring nothing new to an increasingly stale genre. A masked killer stalks young, pert girls'), (3, 'and slaughters them in a variety of gruesome ways, none'), (4, "of which are particularly inventive.<br /><br />It's not scary, it's not clever, and it's not funny."), (5, 'So what was the point of it?')], 'Satellite', 'purpose')

@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This movie is wonderful. The writing, directing,')], 'Nucleus', 'span')
+((2, 2), [(2, 'acting all are fantastic. Very witty and clever script. Quality performances by actors, Ally Sheedy is strong and dynamic and delightfully quirky. Really original and heart-warmingly unpredicatable. The scenes are alive with fresh energy')], 'Nucleus', 'list')
+((3, 3), [(3, 'and really talented production.')], 'Nucleus', 'list')
+((2, 3), [(2, 'acting all are fantastic. Very witty and clever script. Quality performances by actors, Ally Sheedy is strong and dynamic and delightfully quirky. Really original and heart-warmingly unpredicatable. The scenes are alive with fresh energy'), (3, 'and really talented production.')], 'Satellite', 'elaboration')

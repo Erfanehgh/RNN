@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This is a wonderful thriller')], 'Nucleus', 'span')
+((2, 2), [(2, "I watched many times and never can get enough of.It's all about the obsessive love 5 people")], 'Satellite', 'elaboration')
+((1, 2), [(1, 'This is a wonderful thriller'), (2, "I watched many times and never can get enough of.It's all about the obsessive love 5 people")], 'Nucleus', 'same_unit')
+((3, 3), [(3, 'have for eachother in Paris, (un)lucky coincidences, false identities.The music makes it really gripping.There are hardly any flaws in the characters,just the end is not very credible,but a definite "must-see" still.')], 'Nucleus', 'same_unit')

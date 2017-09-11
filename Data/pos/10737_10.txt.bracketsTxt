@@ -1,0 +1,8 @@
+((1, 1), [(1, "If I didn't know any better,")], 'Nucleus', 'span')
+((2, 2), [(2, "it almost seems like it was staged, but it wasn't. It was set up perfectly,")], 'Nucleus', 'span')
+((3, 3), [(3, 'and how they got all of that footage is amazing! The unfortunate events of September 11, 2001 are put together well in this documentary and the classic footage')], 'Nucleus', 'span')
+((4, 4), [(4, 'that they got made this an unfortunate classic. Just the history in the footage alone should make it a MUST see for any american or person')], 'Nucleus', 'span')
+((5, 5), [(5, 'touched by the tragedy of September 11.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that they got made this an unfortunate classic. Just the history in the footage alone should make it a MUST see for any american or person'), (5, 'touched by the tragedy of September 11.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'and how they got all of that footage is amazing! The unfortunate events of September 11, 2001 are put together well in this documentary and the classic footage'), (4, 'that they got made this an unfortunate classic. Just the history in the footage alone should make it a MUST see for any american or person'), (5, 'touched by the tragedy of September 11.')], 'Satellite', 'elaboration')
+((2, 5), [(2, "it almost seems like it was staged, but it wasn't. It was set up perfectly,"), (3, 'and how they got all of that footage is amazing! The unfortunate events of September 11, 2001 are put together well in this documentary and the classic footage'), (4, 'that they got made this an unfortunate classic. Just the history in the footage alone should make it a MUST see for any american or person'), (5, 'touched by the tragedy of September 11.')], 'Satellite', 'elaboration')

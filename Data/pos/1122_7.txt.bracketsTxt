@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Four teenage girlfriends drive to Fort Laurdale for spring break.Unfortunately they get a flat tire in Medley,Georgia and one of the girls witnesses a brutal murder deep in the woods.The local sheriff is behind the crime and the nightmare begins..."Shallow Grave" is a pleasant low-budget surprise.The cast is likable enough,the direction is steady and the violence is particularly nasty and misogynistic.Especially the second murder is pretty grim.The murderous sheriff isn\'t one-dimensional character-in a couple of scenes it seems')], 'Nucleus', 'span')
+((2, 2), [(2, 'that he feels remorse')], 'Nucleus', 'span')
+((3, 3), [(3, "for what he's done.The subplot")], 'Nucleus', 'span')
+((4, 4), [(4, 'involving the two boys')], 'Nucleus', 'span')
+((5, 5), [(5, 'they meet in the diner goes nowhere,but the stalking scenes in the woods are tense and exciting.7 out of 10.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'involving the two boys'), (5, 'they meet in the diner goes nowhere,but the stalking scenes in the woods are tense and exciting.7 out of 10.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "for what he's done.The subplot"), (4, 'involving the two boys'), (5, 'they meet in the diner goes nowhere,but the stalking scenes in the woods are tense and exciting.7 out of 10.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'that he feels remorse'), (3, "for what he's done.The subplot"), (4, 'involving the two boys'), (5, 'they meet in the diner goes nowhere,but the stalking scenes in the woods are tense and exciting.7 out of 10.')], 'Satellite', 'elaboration')

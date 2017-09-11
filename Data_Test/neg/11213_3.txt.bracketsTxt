@@ -1,0 +1,8 @@
+((1, 1), [(1, "I couldn't stop laughing,")], 'Nucleus', 'span')
+((2, 2), [(2, 'I caught this again on late night TV. "I suppose')], 'Satellite', 'attribution')
+((3, 3), [(3, 'you think')], 'Satellite', 'attribution')
+((4, 4), [(4, "you're some kind of hero")], 'Nucleus', 'span')
+((5, 5), [(5, 'for bringing my daughter back alive" "No" "Good"<br /><br />haha.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "you're some kind of hero"), (5, 'for bringing my daughter back alive" "No" "Good"<br /><br />haha.')], 'Nucleus', 'span')
+((3, 5), [(3, 'you think'), (4, "you're some kind of hero"), (5, 'for bringing my daughter back alive" "No" "Good"<br /><br />haha.')], 'Nucleus', 'span')
+((2, 5), [(2, 'I caught this again on late night TV. "I suppose'), (3, 'you think'), (4, "you're some kind of hero"), (5, 'for bringing my daughter back alive" "No" "Good"<br /><br />haha.')], 'Satellite', 'elaboration')

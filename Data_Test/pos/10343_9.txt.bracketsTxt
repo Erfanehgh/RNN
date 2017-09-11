@@ -1,0 +1,8 @@
+((1, 1), [(1, "Great movie. Good acting ,a wonderful script. It's exciting")], 'Nucleus', 'span')
+((2, 2), [(2, 'to find out what the people are thinking')], 'Nucleus', 'list')
+((3, 3), [(3, "and how they react on the situation they are in. A pity about the ending; a 'page' of text")], 'Nucleus', 'span')
+((4, 4), [(4, "of how Nynke's life went on, instead of moving images was a poor choice.")], 'Nucleus', 'span')
+((5, 5), [(5, "I hope this movie attracts a lot of people; it's worth it!")], 'Satellite', 'elaboration')
+((4, 5), [(4, "of how Nynke's life went on, instead of moving images was a poor choice."), (5, "I hope this movie attracts a lot of people; it's worth it!")], 'Satellite', 'elaboration')
+((3, 5), [(3, "and how they react on the situation they are in. A pity about the ending; a 'page' of text"), (4, "of how Nynke's life went on, instead of moving images was a poor choice."), (5, "I hope this movie attracts a lot of people; it's worth it!")], 'Nucleus', 'list')
+((2, 5), [(2, 'to find out what the people are thinking'), (3, "and how they react on the situation they are in. A pity about the ending; a 'page' of text"), (4, "of how Nynke's life went on, instead of moving images was a poor choice."), (5, "I hope this movie attracts a lot of people; it's worth it!")], 'Satellite', 'purpose')

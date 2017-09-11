@@ -1,0 +1,8 @@
+((1, 1), [(1, "In this Dream-Come-True, I found myself loving what was going on. It's a good movie, and should not be passed off")], 'Nucleus', 'span')
+((2, 2), [(2, "as a corny fantasy movie. It's too smart for that. It's definitely a feel good movie,")], 'Nucleus', 'span')
+((3, 3), [(3, 'but with a nice message')], 'Nucleus', 'span')
+((4, 4), [(4, 'to leave')], 'Satellite', 'attribution')
+((5, 5), [(5, 'you with. 7/10, B, **1/2 out of ****')], 'Nucleus', 'span')
+((4, 5), [(4, 'to leave'), (5, 'you with. 7/10, B, **1/2 out of ****')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'but with a nice message'), (4, 'to leave'), (5, 'you with. 7/10, B, **1/2 out of ****')], 'Satellite', 'elaboration')
+((2, 5), [(2, "as a corny fantasy movie. It's too smart for that. It's definitely a feel good movie,"), (3, 'but with a nice message'), (4, 'to leave'), (5, 'you with. 7/10, B, **1/2 out of ****')], 'Satellite', 'result')

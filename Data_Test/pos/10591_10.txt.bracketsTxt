@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie is simply awesome. It is so hilarious.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Although the skating and other montages are played out, the comedy is awesome. Raab Himself and Brandon Dicamillo are hilarious. There will be moments')], 'Nucleus', 'span')
+((3, 3), [(3, "when you can't breath you're laughing so hard. Plus,")], 'Nucleus', 'span')
+((4, 4), [(4, 'there are scenes')], 'Nucleus', 'span')
+((5, 5), [(5, "that you can watch hundreds of times and still laugh. This is one of the funniest comedies I've ever seen.")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'there are scenes'), (5, "that you can watch hundreds of times and still laugh. This is one of the funniest comedies I've ever seen.")], 'Satellite', 'elaboration')
+((3, 5), [(3, "when you can't breath you're laughing so hard. Plus,"), (4, 'there are scenes'), (5, "that you can watch hundreds of times and still laugh. This is one of the funniest comedies I've ever seen.")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'Although the skating and other montages are played out, the comedy is awesome. Raab Himself and Brandon Dicamillo are hilarious. There will be moments'), (3, "when you can't breath you're laughing so hard. Plus,"), (4, 'there are scenes'), (5, "that you can watch hundreds of times and still laugh. This is one of the funniest comedies I've ever seen.")], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'What does this movie have? Lots of gunfire and expensive effects. Nothing makes sense on any other level.<br /><br />Watching Arnold cry is seeing acting so')], 'Nucleus', 'span')
+((2, 2), [(2, 'bad')], 'Satellite', 'attribution')
+((3, 3), [(3, 'that it is laughable. The plot is ludicrous.<br /><br />If')], 'Nucleus', 'span')
+((4, 4), [(4, 'you think')], 'Satellite', 'attribution')
+((5, 5), [(5, 'the Devil will be impressed by a bad actor with a machine gun, well, this movie is for you!')], 'Nucleus', 'span')
+((4, 5), [(4, 'you think'), (5, 'the Devil will be impressed by a bad actor with a machine gun, well, this movie is for you!')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'that it is laughable. The plot is ludicrous.<br /><br />If'), (4, 'you think'), (5, 'the Devil will be impressed by a bad actor with a machine gun, well, this movie is for you!')], 'Nucleus', 'span')
+((2, 5), [(2, 'bad'), (3, 'that it is laughable. The plot is ludicrous.<br /><br />If'), (4, 'you think'), (5, 'the Devil will be impressed by a bad actor with a machine gun, well, this movie is for you!')], 'Satellite', 'elaboration')

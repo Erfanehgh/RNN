@@ -1,0 +1,8 @@
+((1, 1), [(1, 'There is some spectacular, heart stoppingly beautiful photography here of a range of scenery and animals, from arctic to tropical and everything in between. The camera techniques are varied and spot on from close ups to aerial work. Editing is tremendous and the commentary is spot on too, with just the right tone and some dramatic and telling facts about our world. Where the film falls down a bit is in trying')], 'Nucleus', 'span')
+((2, 2), [(2, 'to cover and integrate four themes')], 'Nucleus', 'span')
+((3, 3), [(3, '- seasonal patterns, climate change, individual animal stories and hunter/ hunted interactions across multiple environments. Eventually it all gets a bit bitty and disjointed. Overall, well worth seeing especially')], 'Nucleus', 'span')
+((4, 4), [(4, 'given the issues covered')], 'Nucleus', 'span')
+((5, 5), [(5, "but don't expect Oscar material.")], 'Satellite', 'purpose')
+((4, 5), [(4, 'given the issues covered'), (5, "but don't expect Oscar material.")], 'Satellite', 'elaboration')
+((3, 5), [(3, '- seasonal patterns, climate change, individual animal stories and hunter/ hunted interactions across multiple environments. Eventually it all gets a bit bitty and disjointed. Overall, well worth seeing especially'), (4, 'given the issues covered'), (5, "but don't expect Oscar material.")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to cover and integrate four themes'), (3, '- seasonal patterns, climate change, individual animal stories and hunter/ hunted interactions across multiple environments. Eventually it all gets a bit bitty and disjointed. Overall, well worth seeing especially'), (4, 'given the issues covered'), (5, "but don't expect Oscar material.")], 'Satellite', 'purpose')

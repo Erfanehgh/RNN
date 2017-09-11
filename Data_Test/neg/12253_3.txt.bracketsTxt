@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Well,')], 'Nucleus', 'span')
+((2, 2), [(2, 'I must say, I initially found this short to be quite average,')], 'Satellite', 'concession')
+((3, 3), [(3, 'but having watched it nearly 5 times')], 'Nucleus', 'span')
+((4, 4), [(4, "since (its constantly shown on IFC), I've developed an enjoyment of the simple plot elements and reality of the situations presented. Sofia Coppola contributes a solid addition to the category.")], 'Satellite', 'circumstance')
+((3, 4), [(3, 'but having watched it nearly 5 times'), (4, "since (its constantly shown on IFC), I've developed an enjoyment of the simple plot elements and reality of the situations presented. Sofia Coppola contributes a solid addition to the category.")], 'Nucleus', 'span')
+((2, 4), [(2, 'I must say, I initially found this short to be quite average,'), (3, 'but having watched it nearly 5 times'), (4, "since (its constantly shown on IFC), I've developed an enjoyment of the simple plot elements and reality of the situations presented. Sofia Coppola contributes a solid addition to the category.")], 'Satellite', 'elaboration')

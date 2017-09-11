@@ -1,0 +1,4 @@
+((1, 1), [(1, 'With a well thought out cast, this movie was a great comedic relief. The plot is well-written and the cast was knockout. Every bit as good')], 'Nucleus', 'textualorganization')
+((2, 2), [(2, 'as the reviews suggested (a rarity)')], 'Nucleus', 'list')
+((3, 3), [(3, 'and was highly entertaining. Being a huge John Candy fan myself, this movie was no disappointment.')], 'Nucleus', 'list')
+((2, 3), [(2, 'as the reviews suggested (a rarity)'), (3, 'and was highly entertaining. Being a huge John Candy fan myself, this movie was no disappointment.')], 'Nucleus', 'textualorganization')

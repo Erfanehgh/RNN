@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This show is so full of action, and everything needed')], 'Nucleus', 'span')
+((2, 2), [(2, 'to make an awsome show.. but best of all... it actually has a plot (unlike some of those new reality shows...). It is about a transgenic girl')], 'Nucleus', 'span')
+((3, 3), [(3, 'who escapes from her military holding base.. I totally suggest')], 'Satellite', 'attribution')
+((4, 4), [(4, "bying the DVDs, i've already preordered them... i suggest")], 'Satellite', 'attribution')
+((5, 5), [(5, 'you do to...')], 'Nucleus', 'span')
+((4, 5), [(4, "bying the DVDs, i've already preordered them... i suggest"), (5, 'you do to...')], 'Nucleus', 'span')
+((3, 5), [(3, 'who escapes from her military holding base.. I totally suggest'), (4, "bying the DVDs, i've already preordered them... i suggest"), (5, 'you do to...')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to make an awsome show.. but best of all... it actually has a plot (unlike some of those new reality shows...). It is about a transgenic girl'), (3, 'who escapes from her military holding base.. I totally suggest'), (4, "bying the DVDs, i've already preordered them... i suggest"), (5, 'you do to...')], 'Satellite', 'purpose')

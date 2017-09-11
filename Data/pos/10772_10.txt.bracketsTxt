@@ -1,0 +1,8 @@
+((1, 1), [(1, "John Candy's Performance in Once Upon A Crime is possibly his best ever. It's been My Favourite Movie")], 'Nucleus', 'span')
+((2, 2), [(2, 'since it came out.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I Spent 5 Years')], 'Nucleus', 'span')
+((4, 4), [(4, "searching for it. That's How Good It Is.")], 'Nucleus', 'span')
+((5, 5), [(5, "If You Disagree, well, that's your opinion. Enjoy The Movie.")], 'Satellite', 'condition')
+((4, 5), [(4, "searching for it. That's How Good It Is."), (5, "If You Disagree, well, that's your opinion. Enjoy The Movie.")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'I Spent 5 Years'), (4, "searching for it. That's How Good It Is."), (5, "If You Disagree, well, that's your opinion. Enjoy The Movie.")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'since it came out.'), (3, 'I Spent 5 Years'), (4, "searching for it. That's How Good It Is."), (5, "If You Disagree, well, that's your opinion. Enjoy The Movie.")], 'Satellite', 'temporal')

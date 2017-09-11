@@ -1,0 +1,4 @@
+((1, 1), [(1, 'A fantastic movie, and very overlooked. Gary has never been more handsome, and Ingrid is more beautiful than in ANY other film.')], 'Nucleus', 'span')
+((2, 2), [(2, "If you don't believe, just watch the movie. Every cast member is wonderful; the love scenes between Gary and Ingrid will make your pulse race!")], 'Satellite', 'condition')
+((3, 3), [(3, "The story is great, the script is Oscar caliber. Don't miss this film!!")], 'Nucleus', 'span')
+((2, 3), [(2, "If you don't believe, just watch the movie. Every cast member is wonderful; the love scenes between Gary and Ingrid will make your pulse race!"), (3, "The story is great, the script is Oscar caliber. Don't miss this film!!")], 'Satellite', 'elaboration')

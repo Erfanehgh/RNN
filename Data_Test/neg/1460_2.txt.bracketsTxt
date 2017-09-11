@@ -1,0 +1,6 @@
+((1, 1), [(1, 'My wife and I saw every episode in this series and loved it. However, the series was cut short')], 'Nucleus', 'span')
+((2, 2), [(2, 'without a final episode by the producers of the show.')], 'Nucleus', 'span')
+((3, 3), [(3, "It ended with a typical end-the-season cliff hanger leaving it's fans")], 'Nucleus', 'span')
+((4, 4), [(4, 'feeling cheated. A waste of great writing and acting.')], 'Satellite', 'elaboration')
+((3, 4), [(3, "It ended with a typical end-the-season cliff hanger leaving it's fans"), (4, 'feeling cheated. A waste of great writing and acting.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'without a final episode by the producers of the show.'), (3, "It ended with a typical end-the-season cliff hanger leaving it's fans"), (4, 'feeling cheated. A waste of great writing and acting.')], 'Satellite', 'manner')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Well,')], 'Nucleus', 'span')
+((2, 2), [(2, 'if you are looking for a great mind control movie, this is it. No movie has had so many gorgeous women under mind control, and naked. Marie Forsa,')], 'Satellite', 'condition')
+((3, 3), [(3, 'as the busty Helga, is under just about everytime she falls asleep and a few times')], 'Nucleus', 'span')
+((4, 4), [(4, "when she isn't. One wishes they made more movies like this one.")], 'Satellite', 'circumstance')
+((3, 4), [(3, 'as the busty Helga, is under just about everytime she falls asleep and a few times'), (4, "when she isn't. One wishes they made more movies like this one.")], 'Nucleus', 'span')
+((2, 4), [(2, 'if you are looking for a great mind control movie, this is it. No movie has had so many gorgeous women under mind control, and naked. Marie Forsa,'), (3, 'as the busty Helga, is under just about everytime she falls asleep and a few times'), (4, "when she isn't. One wishes they made more movies like this one.")], 'Satellite', 'condition')

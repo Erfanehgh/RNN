@@ -1,0 +1,6 @@
+((1, 1), [(1, 'In my opinion this is the best Oliver Stone flick')], 'Nucleus', 'span')
+((2, 2), [(2, '-- probably more')], 'Nucleus', 'span')
+((3, 3), [(3, "because of Bogosian's influence than anything else. Riviting stuff")], 'Nucleus', 'span')
+((4, 4), [(4, '-- full of dread from the first moment to its dark ending.')], 'Satellite', 'elaboration')
+((3, 4), [(3, "because of Bogosian's influence than anything else. Riviting stuff"), (4, '-- full of dread from the first moment to its dark ending.')], 'Satellite', 'reason')
+((2, 4), [(2, '-- probably more'), (3, "because of Bogosian's influence than anything else. Riviting stuff"), (4, '-- full of dread from the first moment to its dark ending.')], 'Satellite', 'elaboration')

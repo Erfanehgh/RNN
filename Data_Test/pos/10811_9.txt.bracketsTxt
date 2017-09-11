@@ -1,0 +1,6 @@
+((1, 1), [(1, 'French cinema had always been very strong')], 'Nucleus', 'span')
+((2, 2), [(2, 'when comes the time')], 'Nucleus', 'span')
+((3, 3), [(3, 'to present historical subjects. 95 % of the time, they never make errors. This film is of one of the best of the genre, due to very very strong acting by Depardieu and Pszoniak. Wajda work,')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'when comes the time'), (3, 'to present historical subjects. 95 % of the time, they never make errors. This film is of one of the best of the genre, due to very very strong acting by Depardieu and Pszoniak. Wajda work,')], 'Nucleus', 'span')
+((4, 4), [(4, 'as the director, is truly a wonder. Everyone should see this great film.')], 'Satellite', 'circumstance')
+((2, 4), [(2, 'when comes the time'), (3, 'to present historical subjects. 95 % of the time, they never make errors. This film is of one of the best of the genre, due to very very strong acting by Depardieu and Pszoniak. Wajda work,'), (4, 'as the director, is truly a wonder. Everyone should see this great film.')], 'Satellite', 'circumstance')

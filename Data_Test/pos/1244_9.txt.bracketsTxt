@@ -1,0 +1,6 @@
+((1, 1), [(1, 'At last, a great film')], 'Nucleus', 'span')
+((2, 2), [(2, "that doesn't have to be edited for profanity or sex! It's a fun film")], 'Nucleus', 'span')
+((3, 3), [(3, 'that the whole family can enjoy. Willis is great, as always. "Rusty" was delightful. Just enough action')], 'Nucleus', 'span')
+((4, 4), [(4, 'to keep interest going.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'that the whole family can enjoy. Willis is great, as always. "Rusty" was delightful. Just enough action'), (4, 'to keep interest going.')], 'Satellite', 'elaboration')
+((2, 4), [(2, "that doesn't have to be edited for profanity or sex! It's a fun film"), (3, 'that the whole family can enjoy. Willis is great, as always. "Rusty" was delightful. Just enough action'), (4, 'to keep interest going.')], 'Satellite', 'elaboration')

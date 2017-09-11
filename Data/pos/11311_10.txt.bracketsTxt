@@ -1,0 +1,8 @@
+((1, 1), [(1, 'fascinating look at fascist italy and the people')], 'Nucleus', 'span')
+((2, 2), [(2, 'who carved out a life under mussolini. street scenes and lifestyle glimpses alone are worth watching. combine this with a masterful plot and premier acting and you get a film')], 'Nucleus', 'span')
+((3, 3), [(3, 'that')], 'Nucleus', 'span')
+((4, 4), [(4, 'you will want to watch again .')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'that'), (4, 'you will want to watch again .')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'who carved out a life under mussolini. street scenes and lifestyle glimpses alone are worth watching. combine this with a masterful plot and premier acting and you get a film'), (3, 'that'), (4, 'you will want to watch again .')], 'Satellite', 'elaboration')
+((1, 4), [(1, 'fascinating look at fascist italy and the people'), (2, 'who carved out a life under mussolini. street scenes and lifestyle glimpses alone are worth watching. combine this with a masterful plot and premier acting and you get a film'), (3, 'that'), (4, 'you will want to watch again .')], 'Nucleus', 'span')
+((5, 5), [(5, '.. and maybe again.')], 'Satellite', 'summary')

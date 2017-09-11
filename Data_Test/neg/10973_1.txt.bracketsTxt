@@ -1,0 +1,6 @@
+((1, 1), [(1, "Guy Pearce almost looks like Flynn, and this resemblance is the only one this film can claim. Nowhere in Flynn's autobiography is the Klaus Reicher character mention, the homosexual encounter is speculative fiction, and the movie's claims")], 'Nucleus', 'span')
+((2, 2), [(2, "that Flynn treated native labor badly are groundless. Director Frank Howson hasn't made any memorable films,")], 'Nucleus', 'list')
+((3, 3), [(3, 'and I find it lame for him to groundlessly slander Flynn')], 'Nucleus', 'span')
+((4, 4), [(4, 'to further his unremarkable career.<br /><br />')], 'Satellite', 'purpose')
+((3, 4), [(3, 'and I find it lame for him to groundlessly slander Flynn'), (4, 'to further his unremarkable career.<br /><br />')], 'Nucleus', 'list')
+((2, 4), [(2, "that Flynn treated native labor badly are groundless. Director Frank Howson hasn't made any memorable films,"), (3, 'and I find it lame for him to groundlessly slander Flynn'), (4, 'to further his unremarkable career.<br /><br />')], 'Satellite', 'elaboration')

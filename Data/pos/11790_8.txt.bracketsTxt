@@ -1,0 +1,6 @@
+((1, 1), [(1, 'David Lynch\'s new short is a very "Lynchian" piece, full of darkness, tension, silences, discreet but very textured background music, and features again two beautiful actresses, a blonde and a brunette, a recurrent theme in his work.<br /><br />Both characters create a very intriguing slave-mistress relationship')], 'Nucleus', 'span')
+((2, 2), [(2, 'that could be seen')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'David Lynch\'s new short is a very "Lynchian" piece, full of darkness, tension, silences, discreet but very textured background music, and features again two beautiful actresses, a blonde and a brunette, a recurrent theme in his work.<br /><br />Both characters create a very intriguing slave-mistress relationship'), (2, 'that could be seen')], 'Nucleus', 'span')
+((3, 3), [(3, 'as a direct follow up')], 'Nucleus', 'span')
+((4, 4), [(4, "to the same kind of relationship featured in Mulholland Dr.<br /><br />Beautiful. For Lynch fan's.<br /><br />")], 'Satellite', 'purpose')
+((3, 4), [(3, 'as a direct follow up'), (4, "to the same kind of relationship featured in Mulholland Dr.<br /><br />Beautiful. For Lynch fan's.<br /><br />")], 'Satellite', 'elaboration')

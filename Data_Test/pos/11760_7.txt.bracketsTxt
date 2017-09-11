@@ -1,0 +1,4 @@
+((1, 1), [(1, 'B.B. Thornton proves')], 'Nucleus', 'span')
+((2, 2), [(2, 'to be a great actor in this little seen movie. Thornton really gets into his characters--literally.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I caught this on cable one night and enjoyed it. Too bad it was released nationwide in theaters the same year as "Fear and Loathing" and "Half-Baked."')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'to be a great actor in this little seen movie. Thornton really gets into his characters--literally.'), (3, 'I caught this on cable one night and enjoyed it. Too bad it was released nationwide in theaters the same year as "Fear and Loathing" and "Half-Baked."')], 'Satellite', 'elaboration')

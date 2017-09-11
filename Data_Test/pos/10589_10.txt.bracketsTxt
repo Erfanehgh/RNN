@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie kicks ass, bar none. Bam and his crue have out done themselves with this film.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Since I got the DVD (4 days')], 'Nucleus', 'span')
+((3, 3), [(3, 'ago) I have watched it three times and it gets better every time')], 'Nucleus', 'span')
+((4, 4), [(4, "I watch it. I can't wait for Grind")], 'Nucleus', 'span')
+((5, 5), [(5, 'to come out in theaters. If its anything like Haggard it will be worth the wait.<br /><br />Thanks, JTcellphone')], 'Satellite', 'purpose')
+((4, 5), [(4, "I watch it. I can't wait for Grind"), (5, 'to come out in theaters. If its anything like Haggard it will be worth the wait.<br /><br />Thanks, JTcellphone')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'ago) I have watched it three times and it gets better every time'), (4, "I watch it. I can't wait for Grind"), (5, 'to come out in theaters. If its anything like Haggard it will be worth the wait.<br /><br />Thanks, JTcellphone')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'Since I got the DVD (4 days'), (3, 'ago) I have watched it three times and it gets better every time'), (4, "I watch it. I can't wait for Grind"), (5, 'to come out in theaters. If its anything like Haggard it will be worth the wait.<br /><br />Thanks, JTcellphone')], 'Satellite', 'temporal')

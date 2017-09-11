@@ -1,0 +1,4 @@
+((1, 1), [(1, 'More eeriness and dark secrets')], 'Nucleus', 'span')
+((2, 2), [(2, "released in the final parts of Lars Von Trier's fantastic horror satire The Kingdom... Much more is revealed and the ending just leaves")], 'Satellite', 'attribution')
+((3, 3), [(3, 'you begging for more. Plus a great performance from Udo Kier in a more substantial role...')], 'Nucleus', 'span')
+((2, 3), [(2, "released in the final parts of Lars Von Trier's fantastic horror satire The Kingdom... Much more is revealed and the ending just leaves"), (3, 'you begging for more. Plus a great performance from Udo Kier in a more substantial role...')], 'Satellite', 'elaboration')

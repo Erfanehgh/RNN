@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Russell, my fav, is gorgeous in this film. But more than that, the film covers a tremendous range of human passion and sorrow. Everything from marriage to homosexuality is addressed and respected. The film makes the viewer realize')], 'Nucleus', 'span')
+((2, 2), [(2, 'that tolerance of other humans provides the route to saving humanity. Fabulous love story between Lachlin and Lil. I replay')], 'Nucleus', 'span')
+((3, 3), [(3, 'their scenes over and over again. Anyone')], 'Nucleus', 'span')
+((4, 4), [(4, 'who has ever been in love will empathize with these people. All characters are cast and portrayed excellently.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'their scenes over and over again. Anyone'), (4, 'who has ever been in love will empathize with these people. All characters are cast and portrayed excellently.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'that tolerance of other humans provides the route to saving humanity. Fabulous love story between Lachlin and Lil. I replay'), (3, 'their scenes over and over again. Anyone'), (4, 'who has ever been in love will empathize with these people. All characters are cast and portrayed excellently.')], 'Satellite', 'elaboration')

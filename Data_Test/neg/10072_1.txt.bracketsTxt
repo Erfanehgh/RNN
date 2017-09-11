@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie was perhaps the biggest waste of 2 hours of my life. From the opening 10 minutes, I was ready to leave. The cliches there slapping you in the face, and the plot was not only predictably stupid,')], 'Nucleus', 'span')
+((2, 2), [(2, 'but full of more holes than swiss cheese. I am considering suing for that lost 2 hours,')], 'Nucleus', 'list')
+((3, 3), [(3, 'and $6.25 along with the fact')], 'Nucleus', 'span')
+((4, 4), [(4, "that I am now stupider for watching this waste of film. The T-Rex's must be flipping in their graves,")], 'Nucleus', 'span')
+((5, 5), [(5, 'so to speak.')], 'Satellite', 'purpose')
+((4, 5), [(4, "that I am now stupider for watching this waste of film. The T-Rex's must be flipping in their graves,"), (5, 'so to speak.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'and $6.25 along with the fact'), (4, "that I am now stupider for watching this waste of film. The T-Rex's must be flipping in their graves,"), (5, 'so to speak.')], 'Nucleus', 'list')
+((2, 5), [(2, 'but full of more holes than swiss cheese. I am considering suing for that lost 2 hours,'), (3, 'and $6.25 along with the fact'), (4, "that I am now stupider for watching this waste of film. The T-Rex's must be flipping in their graves,"), (5, 'so to speak.')], 'Satellite', 'elaboration')

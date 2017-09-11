@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie surprised me,')], 'Satellite', 'attribution')
+((2, 2), [(2, 'it had good one-liners and laughs, + a nonstop action-packed storyline with tons of gun action and explosions. This movie surprisingly had a lot of good twists and turns. The plot is solid')], 'Nucleus', 'span')
+((3, 3), [(3, 'despite what others may think, it kept my interest the whole time right up till the very end. In conclusion; this is a great way')], 'Nucleus', 'span')
+((4, 4), [(4, 'for an action movie buff to spend time')], 'Nucleus', 'span')
+((5, 5), [(5, 'on.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'for an action movie buff to spend time'), (5, 'on.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'despite what others may think, it kept my interest the whole time right up till the very end. In conclusion; this is a great way'), (4, 'for an action movie buff to spend time'), (5, 'on.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'it had good one-liners and laughs, + a nonstop action-packed storyline with tons of gun action and explosions. This movie surprisingly had a lot of good twists and turns. The plot is solid'), (3, 'despite what others may think, it kept my interest the whole time right up till the very end. In conclusion; this is a great way'), (4, 'for an action movie buff to spend time'), (5, 'on.')], 'Nucleus', 'span')

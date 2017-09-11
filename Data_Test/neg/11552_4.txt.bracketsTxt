@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I went into this movie expecting a thoughtfull piece about how to be accepted in culture and I wound up')], 'Nucleus', 'span')
+((2, 2), [(2, 'blowing $8.50 on a 10 minute fart joke and a whole bunch of fake accents. Sorry, Jeff,')], 'Nucleus', 'contrast')
+((3, 3), [(3, "but if you're going for the whole cult")], 'Nucleus', 'span')
+((4, 4), [(4, 'thing, you gotta a while')], 'Nucleus', 'span')
+((5, 5), [(5, 'to go.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'thing, you gotta a while'), (5, 'to go.')], 'Satellite', 'reason')
+((3, 5), [(3, "but if you're going for the whole cult"), (4, 'thing, you gotta a while'), (5, 'to go.')], 'Nucleus', 'contrast')
+((2, 5), [(2, 'blowing $8.50 on a 10 minute fart joke and a whole bunch of fake accents. Sorry, Jeff,'), (3, "but if you're going for the whole cult"), (4, 'thing, you gotta a while'), (5, 'to go.')], 'Satellite', 'elaboration')

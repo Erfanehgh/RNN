@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Make sure')], 'Satellite', 'attribution')
+((2, 2), [(2, 'you make this delightful comedy part of your holiday season!')], 'Nucleus', 'span')
+((3, 3), [(3, 'If you admire Dennis Morgan or Barbara Stanwyck, this film is a fun one')], 'Satellite', 'condition')
+((4, 4), [(4, 'to watch. They really work well together')], 'Nucleus', 'span')
+((5, 5), [(5, "as you would see in this movie. The whole cast was very entertaining. Since I'm a Dennis Morgan fan, this film was a real treat! But...everyone can enjoy it! Recommended!")], 'Satellite', 'circumstance')
+((4, 5), [(4, 'to watch. They really work well together'), (5, "as you would see in this movie. The whole cast was very entertaining. Since I'm a Dennis Morgan fan, this film was a real treat! But...everyone can enjoy it! Recommended!")], 'Nucleus', 'span')
+((3, 5), [(3, 'If you admire Dennis Morgan or Barbara Stanwyck, this film is a fun one'), (4, 'to watch. They really work well together'), (5, "as you would see in this movie. The whole cast was very entertaining. Since I'm a Dennis Morgan fan, this film was a real treat! But...everyone can enjoy it! Recommended!")], 'Satellite', 'condition')
+((2, 5), [(2, 'you make this delightful comedy part of your holiday season!'), (3, 'If you admire Dennis Morgan or Barbara Stanwyck, this film is a fun one'), (4, 'to watch. They really work well together'), (5, "as you would see in this movie. The whole cast was very entertaining. Since I'm a Dennis Morgan fan, this film was a real treat! But...everyone can enjoy it! Recommended!")], 'Nucleus', 'span')

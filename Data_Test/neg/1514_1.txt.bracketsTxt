@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This should have been a short film, nothing more. The Length of 1,5 hours is much too long,')], 'Nucleus', 'span')
+((2, 2), [(2, 'because after 10 minutes')], 'Nucleus', 'span')
+((3, 3), [(3, "you have seen almost every joke. It's getting more and more on your nerves untill you finally kick out your brain")], 'Nucleus', 'span')
+((4, 4), [(4, "to endure that movie.<br /><br />To do yourself a favor, don't mention")], 'Nucleus', 'span')
+((5, 5), [(5, 'to see that movie...')], 'Satellite', 'purpose')
+((4, 5), [(4, "to endure that movie.<br /><br />To do yourself a favor, don't mention"), (5, 'to see that movie...')], 'Satellite', 'purpose')
+((3, 5), [(3, "you have seen almost every joke. It's getting more and more on your nerves untill you finally kick out your brain"), (4, "to endure that movie.<br /><br />To do yourself a favor, don't mention"), (5, 'to see that movie...')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'because after 10 minutes'), (3, "you have seen almost every joke. It's getting more and more on your nerves untill you finally kick out your brain"), (4, "to endure that movie.<br /><br />To do yourself a favor, don't mention"), (5, 'to see that movie...')], 'Satellite', 'explanation')

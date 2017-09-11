@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I saw this movie first on the Berlin Film Festival, and I had never seen Hong Kong cinema before.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I felt')], 'Satellite', 'attribution')
+((3, 3), [(3, "like sitting in a roller coaster: the action was so quick, and there wasn't one boring moment throughout the film. It has martial arts, love, special effects and a fantastic plot. My favorite scene is when the Taoist drinks, sings and fights for himself - one of the many")], 'Nucleus', 'span')
+((4, 4), [(4, 'scenes')], 'Nucleus', 'span')
+((5, 5), [(5, 'which stress the extraordinary musical component of the movie. This film is a definite must!!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'scenes'), (5, 'which stress the extraordinary musical component of the movie. This film is a definite must!!')], 'Satellite', 'elaboration')
+((3, 5), [(3, "like sitting in a roller coaster: the action was so quick, and there wasn't one boring moment throughout the film. It has martial arts, love, special effects and a fantastic plot. My favorite scene is when the Taoist drinks, sings and fights for himself - one of the many"), (4, 'scenes'), (5, 'which stress the extraordinary musical component of the movie. This film is a definite must!!')], 'Nucleus', 'span')
+((2, 5), [(2, 'I felt'), (3, "like sitting in a roller coaster: the action was so quick, and there wasn't one boring moment throughout the film. It has martial arts, love, special effects and a fantastic plot. My favorite scene is when the Taoist drinks, sings and fights for himself - one of the many"), (4, 'scenes'), (5, 'which stress the extraordinary musical component of the movie. This film is a definite must!!')], 'Satellite', 'elaboration')

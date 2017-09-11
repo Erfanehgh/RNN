@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This is a lot of silliness about a woman from London')], 'Nucleus', 'span')
+((2, 2), [(2, 'who marries a tea planter from Ceylon')], 'Nucleus', 'span')
+((3, 3), [(3, "whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty.")], 'Satellite', 'elaboration')
+((2, 3), [(2, 'who marries a tea planter from Ceylon'), (3, "whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty.")], 'Nucleus', 'span')
+((4, 4), [(4, 'She looks stunning.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'who marries a tea planter from Ceylon'), (3, "whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty."), (4, 'She looks stunning.')], 'Satellite', 'elaboration')

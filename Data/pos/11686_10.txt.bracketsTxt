@@ -1,0 +1,6 @@
+((1, 1), [(1, 'THis was a hilarious movie and I would see it again')], 'Nucleus', 'list')
+((2, 2), [(2, "and again. It isn't a movie for someone")], 'Nucleus', 'span')
+((3, 3), [(3, "who doesn't have a fun sense of a humor, but for people")], 'Nucleus', 'span')
+((4, 4), [(4, 'who enoy comedy like Chris Rock its a perfect movie in my opinion. It is really funnny')], 'Satellite', 'elaboration')
+((3, 4), [(3, "who doesn't have a fun sense of a humor, but for people"), (4, 'who enoy comedy like Chris Rock its a perfect movie in my opinion. It is really funnny')], 'Satellite', 'elaboration')
+((2, 4), [(2, "and again. It isn't a movie for someone"), (3, "who doesn't have a fun sense of a humor, but for people"), (4, 'who enoy comedy like Chris Rock its a perfect movie in my opinion. It is really funnny')], 'Nucleus', 'list')

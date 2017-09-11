@@ -1,0 +1,4 @@
+((1, 1), [(1, '1st watched 8/31/1996')], 'Nucleus', 'span')
+((2, 2), [(2, '- (Dir-Tim Robbins):')], 'Nucleus', 'span')
+((3, 3), [(3, 'Very thought provoking and very well done movie on the subject of the death penalty. Deserved more recognition and publicity than it received.')], 'Satellite', 'elaboration')
+((2, 3), [(2, '- (Dir-Tim Robbins):'), (3, 'Very thought provoking and very well done movie on the subject of the death penalty. Deserved more recognition and publicity than it received.')], 'Satellite', 'elaboration')

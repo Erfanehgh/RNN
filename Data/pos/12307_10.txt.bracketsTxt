@@ -1,0 +1,6 @@
+((1, 1), [(1, 'If there is a movie')], 'Nucleus', 'span')
+((2, 2), [(2, 'to be called perfect')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'If there is a movie'), (2, 'to be called perfect')], 'Satellite', 'condition')
+((3, 3), [(3, "then this is it. So bad it wasn't")], 'Nucleus', 'span')
+((4, 4), [(4, 'intended to be that way. But superb anyway... Go find it somewhere. Whatever you do... Do not miss it!!!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "then this is it. So bad it wasn't"), (4, 'intended to be that way. But superb anyway... Go find it somewhere. Whatever you do... Do not miss it!!!')], 'Nucleus', 'span')

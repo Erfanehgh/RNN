@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is part one of a short animation')], 'Nucleus', 'span')
+((2, 2), [(2, 'clip showing the history of the Matrix, the war between man and machine')], 'Nucleus', 'span')
+((3, 3), [(3, 'that resulted in the eventual creation of the Matrix. The animation is part Japanese anime, part contemporary american animation,')], 'Nucleus', 'list')
+((4, 4), [(4, 'and is very well made, considering the excellent directors behind the movie. It shows the initial development of AI and the exploitation of the machines by Man,')], 'Nucleus', 'span')
+((5, 5), [(5, 'until the day they rebelled...')], 'Satellite', 'circumstance')
+((4, 5), [(4, 'and is very well made, considering the excellent directors behind the movie. It shows the initial development of AI and the exploitation of the machines by Man,'), (5, 'until the day they rebelled...')], 'Nucleus', 'list')
+((3, 5), [(3, 'that resulted in the eventual creation of the Matrix. The animation is part Japanese anime, part contemporary american animation,'), (4, 'and is very well made, considering the excellent directors behind the movie. It shows the initial development of AI and the exploitation of the machines by Man,'), (5, 'until the day they rebelled...')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'clip showing the history of the Matrix, the war between man and machine'), (3, 'that resulted in the eventual creation of the Matrix. The animation is part Japanese anime, part contemporary american animation,'), (4, 'and is very well made, considering the excellent directors behind the movie. It shows the initial development of AI and the exploitation of the machines by Man,'), (5, 'until the day they rebelled...')], 'Satellite', 'elaboration')

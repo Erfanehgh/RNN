@@ -1,0 +1,6 @@
+((1, 1), [(1, 'What an embarassment...This doesnt do justice to the original with awful acting from everyone in this movie, Hitchcock must be spinning in his grave.')], 'Nucleus', 'span')
+((2, 2), [(2, 'The scence')], 'Nucleus', 'span')
+((3, 3), [(3, 'where Marion gets killed in the shower is just so uneffective and unoriginal. The only good bit is that they used the same music and its so obvious')], 'Nucleus', 'span')
+((4, 4), [(4, 'who kills her in the shower. I rate this movie 3/10')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'where Marion gets killed in the shower is just so uneffective and unoriginal. The only good bit is that they used the same music and its so obvious'), (4, 'who kills her in the shower. I rate this movie 3/10')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'The scence'), (3, 'where Marion gets killed in the shower is just so uneffective and unoriginal. The only good bit is that they used the same music and its so obvious'), (4, 'who kills her in the shower. I rate this movie 3/10')], 'Satellite', 'elaboration')

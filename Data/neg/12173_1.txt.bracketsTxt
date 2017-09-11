@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Me and my friend rented this movie for $2.50.')], 'Nucleus', 'list')
+((2, 2), [(2, 'And we both agree on one thing:<br /><br />THIS IS THE WORST MOVIE EVER MADE!<br /><br />Also me and my friend counted 475 face shots. (Which makes up 95% of the movie).<br /><br />So in other words: DO SEE THIS MOVIE UNLESS YOU LIKE WASTING MONEY!')], 'Nucleus', 'list')
+((3, 3), [(3, 'And')], 'Nucleus', 'span')
+((4, 4), [(4, 'I do!<br /><br />')], 'Satellite', 'attribution')
+((3, 4), [(3, 'And'), (4, 'I do!<br /><br />')], 'Nucleus', 'list')
+((2, 4), [(2, 'And we both agree on one thing:<br /><br />THIS IS THE WORST MOVIE EVER MADE!<br /><br />Also me and my friend counted 475 face shots. (Which makes up 95% of the movie).<br /><br />So in other words: DO SEE THIS MOVIE UNLESS YOU LIKE WASTING MONEY!'), (3, 'And'), (4, 'I do!<br /><br />')], 'Nucleus', 'list')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Did the other reviewers watch the same movie I did?')], 'Satellite', 'attribution')
+((2, 2), [(2, 'This was poorly written, poorly acted, and just overall boring.')], 'Nucleus', 'span')
+((3, 3), [(3, "I made it well past the halfway point in the movie and then just gave up. I can't")], 'Satellite', 'attribution')
+((4, 4), [(4, "possibly imagine an ending that would have made the rest of the movie worthwhile. Don't waste your time with this dog. Seriously.")], 'Nucleus', 'span')
+((3, 4), [(3, "I made it well past the halfway point in the movie and then just gave up. I can't"), (4, "possibly imagine an ending that would have made the rest of the movie worthwhile. Don't waste your time with this dog. Seriously.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'This was poorly written, poorly acted, and just overall boring.'), (3, "I made it well past the halfway point in the movie and then just gave up. I can't"), (4, "possibly imagine an ending that would have made the rest of the movie worthwhile. Don't waste your time with this dog. Seriously.")], 'Nucleus', 'span')

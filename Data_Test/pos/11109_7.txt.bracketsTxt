@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I had always wanted to see this film and the first three-fourths')], 'Nucleus', 'span')
+((2, 2), [(2, "proved I hadn't waited in vain.")], 'Satellite', 'antithesis')
+((3, 3), [(3, 'But what the hell happened in the end?')], 'Nucleus', 'span')
+((4, 4), [(4, "I mean, don't get me wrong, I liked the film. It definitely made me nostalgic of the realistic, unique NYC of the 80s")], 'Satellite', 'attribution')
+((5, 5), [(5, "that we have lost thanks to Giuliani. But it's missing another half hour!")], 'Nucleus', 'span')
+((4, 5), [(4, "I mean, don't get me wrong, I liked the film. It definitely made me nostalgic of the realistic, unique NYC of the 80s"), (5, "that we have lost thanks to Giuliani. But it's missing another half hour!")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'But what the hell happened in the end?'), (4, "I mean, don't get me wrong, I liked the film. It definitely made me nostalgic of the realistic, unique NYC of the 80s"), (5, "that we have lost thanks to Giuliani. But it's missing another half hour!")], 'Nucleus', 'span')
+((2, 5), [(2, "proved I hadn't waited in vain."), (3, 'But what the hell happened in the end?'), (4, "I mean, don't get me wrong, I liked the film. It definitely made me nostalgic of the realistic, unique NYC of the 80s"), (5, "that we have lost thanks to Giuliani. But it's missing another half hour!")], 'Satellite', 'elaboration')

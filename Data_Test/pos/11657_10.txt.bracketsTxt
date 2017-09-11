@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The greatest effort plus the finest cast ever assembled in a movie by The Director Tim Robbins and Susan Sarandon And Sean Penn on the front row. Someone said')], 'Satellite', 'attribution')
+((2, 2), [(2, 'that this movie is good')], 'Nucleus', 'span')
+((3, 3), [(3, 'because directed and written by Tim Robbins but i convince you')], 'Satellite', 'attribution')
+((4, 4), [(4, 'that Sean Penn and Susan Sarandon had give me a truly superb performance')], 'Nucleus', 'span')
+((5, 5), [(5, 'that i cried my heart out. Their acting is so real! No doubt about it that this movie is rated 4 and 3/4 out of 5!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that Sean Penn and Susan Sarandon had give me a truly superb performance'), (5, 'that i cried my heart out. Their acting is so real! No doubt about it that this movie is rated 4 and 3/4 out of 5!')], 'Nucleus', 'span')
+((3, 5), [(3, 'because directed and written by Tim Robbins but i convince you'), (4, 'that Sean Penn and Susan Sarandon had give me a truly superb performance'), (5, 'that i cried my heart out. Their acting is so real! No doubt about it that this movie is rated 4 and 3/4 out of 5!')], 'Satellite', 'reason')
+((2, 5), [(2, 'that this movie is good'), (3, 'because directed and written by Tim Robbins but i convince you'), (4, 'that Sean Penn and Susan Sarandon had give me a truly superb performance'), (5, 'that i cried my heart out. Their acting is so real! No doubt about it that this movie is rated 4 and 3/4 out of 5!')], 'Nucleus', 'span')

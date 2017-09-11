@@ -1,0 +1,6 @@
+((1, 1), [(1, 'A most awaited film of the year 2002. After three and half years of hibernation,Rajini has acted in this movie. The hype for this film was toooooo high..<br /><br />This is not a typical Rajini film, in this film')], 'Nucleus', 'span')
+((2, 2), [(2, 'he gives some spiritual messages also. But it also includes typical Rajini actions,style,songs etc. Its a good entertaining movie and gives good messages also.<br /><br />I will rate this movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'as Good instead of Excellent')], 'Nucleus', 'span')
+((4, 4), [(4, 'because of the screenplay. Its a must watch movie. Dont miss it!')], 'Satellite', 'reason')
+((3, 4), [(3, 'as Good instead of Excellent'), (4, 'because of the screenplay. Its a must watch movie. Dont miss it!')], 'Satellite', 'circumstance')
+((2, 4), [(2, 'he gives some spiritual messages also. But it also includes typical Rajini actions,style,songs etc. Its a good entertaining movie and gives good messages also.<br /><br />I will rate this movie'), (3, 'as Good instead of Excellent'), (4, 'because of the screenplay. Its a must watch movie. Dont miss it!')], 'Satellite', 'elaboration')

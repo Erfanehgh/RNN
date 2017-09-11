@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I once lived in the u.p')], 'Nucleus', 'list')
+((2, 2), [(2, 'and let me tell you what.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'I didn\'t have the foggyest idea what the heck this "bear walk " is.')], 'Nucleus', 'span')
+((4, 4), [(4, 'I never heard of it the whole 10 years')], 'Satellite', 'attribution')
+((5, 5), [(5, 'I was up there. It was really funny in the beginning but went down hill quickly.')], 'Nucleus', 'span')
+((4, 5), [(4, 'I never heard of it the whole 10 years'), (5, 'I was up there. It was really funny in the beginning but went down hill quickly.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'I didn\'t have the foggyest idea what the heck this "bear walk " is.'), (4, 'I never heard of it the whole 10 years'), (5, 'I was up there. It was really funny in the beginning but went down hill quickly.')], 'Nucleus', 'span')
+((2, 5), [(2, 'and let me tell you what.'), (3, 'I didn\'t have the foggyest idea what the heck this "bear walk " is.'), (4, 'I never heard of it the whole 10 years'), (5, 'I was up there. It was really funny in the beginning but went down hill quickly.')], 'Nucleus', 'list')

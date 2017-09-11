@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Sam Firstenberg\'s "Ninja 3:The Domination" mixes martial arts with "The Exorcist" like horror.The horror elements thrown on screen are simply laughable,but the film works')], 'Nucleus', 'span')
+((2, 2), [(2, 'as a mindless action/martial arts flick.The fight scenes are well-choreographed and exciting,and the film is never boring.So forget stupid dialogue,lame')], 'Nucleus', 'span')
+((3, 3), [(3, 'acting and annoying soundtrack-grab some beer')], 'Nucleus', 'list')
+((4, 4), [(4, 'and check this one out!Highly recommended!')], 'Nucleus', 'list')
+((3, 4), [(3, 'acting and annoying soundtrack-grab some beer'), (4, 'and check this one out!Highly recommended!')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'as a mindless action/martial arts flick.The fight scenes are well-choreographed and exciting,and the film is never boring.So forget stupid dialogue,lame'), (3, 'acting and annoying soundtrack-grab some beer'), (4, 'and check this one out!Highly recommended!')], 'Satellite', 'result')

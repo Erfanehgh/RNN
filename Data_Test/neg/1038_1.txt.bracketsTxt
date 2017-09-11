@@ -1,0 +1,4 @@
+((1, 1), [(1, 'The plot seemed')], 'Nucleus', 'span')
+((2, 2), [(2, 'to be interesting,')], 'Nucleus', 'contrast')
+((3, 3), [(3, 'but this film is a great dissapointment. Bad actors, a camera moving like in the hands of an amateur. If there was C-movies, this would be a perfect example. A plus for a nice DVD cover though and a great looking female actor.')], 'Nucleus', 'contrast')
+((2, 3), [(2, 'to be interesting,'), (3, 'but this film is a great dissapointment. Bad actors, a camera moving like in the hands of an amateur. If there was C-movies, this would be a perfect example. A plus for a nice DVD cover though and a great looking female actor.')], 'Satellite', 'elaboration')

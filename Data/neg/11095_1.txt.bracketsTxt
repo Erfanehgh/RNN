@@ -1,0 +1,8 @@
+((1, 1), [(1, "Probably the worst film I've ever seen, the acting and story were terrible")], 'Nucleus', 'list')
+((2, 2), [(2, 'and I almost fell asleep. The only good actor was Colm Meaney.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I had the impression')], 'Nucleus', 'span')
+((4, 4), [(4, 'to see the same scenes again and again')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'I had the impression'), (4, 'to see the same scenes again and again')], 'Nucleus', 'span')
+((5, 5), [(5, 'until the end, no emotion, no charisma...nothing !')], 'Satellite', 'circumstance')
+((3, 5), [(3, 'I had the impression'), (4, 'to see the same scenes again and again'), (5, 'until the end, no emotion, no charisma...nothing !')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'and I almost fell asleep. The only good actor was Colm Meaney.'), (3, 'I had the impression'), (4, 'to see the same scenes again and again'), (5, 'until the end, no emotion, no charisma...nothing !')], 'Nucleus', 'list')

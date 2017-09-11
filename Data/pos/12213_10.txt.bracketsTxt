@@ -1,0 +1,6 @@
+((1, 1), [(1, 'A great and truly independent film')], 'Nucleus', 'span')
+((2, 2), [(2, "that hit most of my emotions and carried me into another world. Isn't this why we go to the movies?")], 'Nucleus', 'span')
+((3, 3), [(3, 'I was especially impressed with the editing and the music, the combination')], 'Nucleus', 'span')
+((4, 4), [(4, 'of which was very transportive.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'I was especially impressed with the editing and the music, the combination'), (4, 'of which was very transportive.')], 'Satellite', 'elaboration')
+((2, 4), [(2, "that hit most of my emotions and carried me into another world. Isn't this why we go to the movies?"), (3, 'I was especially impressed with the editing and the music, the combination'), (4, 'of which was very transportive.')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Beautiful and touching movie. Rich colors, great settings, good acting and one of the most charming movies I have seen in a while.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I never saw such an interesting setting')], 'Nucleus', 'span')
+((3, 3), [(3, 'when I was in China. My wife liked it so much she asked me')], 'Nucleus', 'span')
+((4, 4), [(4, 'to log on and rate it so other would enjoy too.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'when I was in China. My wife liked it so much she asked me'), (4, 'to log on and rate it so other would enjoy too.')], 'Satellite', 'circumstance')
+((2, 4), [(2, 'I never saw such an interesting setting'), (3, 'when I was in China. My wife liked it so much she asked me'), (4, 'to log on and rate it so other would enjoy too.')], 'Satellite', 'elaboration')

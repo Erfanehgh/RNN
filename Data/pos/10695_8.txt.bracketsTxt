@@ -1,0 +1,6 @@
+((1, 1), [(1, "Nicole Kidman is a wonderful actress and here she's great.")], 'Nucleus', 'span')
+((2, 2), [(2, 'I really liked Ben Chaplin in The Thin Red Line and he is very good here too. This is not Great Cinema')], 'Satellite', 'concession')
+((3, 3), [(3, 'but I was most entertained.')], 'Nucleus', 'span')
+((4, 4), [(4, 'Given most films these days this is High Praise indeed.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'but I was most entertained.'), (4, 'Given most films these days this is High Praise indeed.')], 'Nucleus', 'span')
+((2, 4), [(2, 'I really liked Ben Chaplin in The Thin Red Line and he is very good here too. This is not Great Cinema'), (3, 'but I was most entertained.'), (4, 'Given most films these days this is High Praise indeed.')], 'Satellite', 'elaboration')

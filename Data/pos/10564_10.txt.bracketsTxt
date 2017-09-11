@@ -1,0 +1,4 @@
+((1, 1), [(1, 'The wit and pace and three show')], 'Nucleus', 'span')
+((2, 2), [(2, "stopping Busby Berkley numbers put this ahead of the over-rated 42nd Street. This is the definitive 30's musical with a knockout frenetic performance from Jimmy Cagney. One of the last releases")], 'Nucleus', 'span')
+((3, 3), [(3, 'before the Motion Picture Production Code was strictly enforced. A must see.')], 'Satellite', 'temporal')
+((2, 3), [(2, "stopping Busby Berkley numbers put this ahead of the over-rated 42nd Street. This is the definitive 30's musical with a knockout frenetic performance from Jimmy Cagney. One of the last releases"), (3, 'before the Motion Picture Production Code was strictly enforced. A must see.')], 'Satellite', 'elaboration')

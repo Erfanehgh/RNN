@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This movie makes you')], 'Satellite', 'attribution')
+((2, 2), [(2, 'wish imdb')], 'Nucleus', 'same_unit')
+((3, 3), [(3, 'would let')], 'Satellite', 'attribution')
+((4, 4), [(4, "you vote a zero. One of the two movies I've ever walked out of. It's very hard to think of a worse movie with such big name actors. Well...Armageddon almost takes it,")], 'Nucleus', 'span')
+((5, 5), [(5, 'but not quite.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "you vote a zero. One of the two movies I've ever walked out of. It's very hard to think of a worse movie with such big name actors. Well...Armageddon almost takes it,"), (5, 'but not quite.')], 'Nucleus', 'span')
+((3, 5), [(3, 'would let'), (4, "you vote a zero. One of the two movies I've ever walked out of. It's very hard to think of a worse movie with such big name actors. Well...Armageddon almost takes it,"), (5, 'but not quite.')], 'Nucleus', 'same_unit')
+((2, 5), [(2, 'wish imdb'), (3, 'would let'), (4, "you vote a zero. One of the two movies I've ever walked out of. It's very hard to think of a worse movie with such big name actors. Well...Armageddon almost takes it,"), (5, 'but not quite.')], 'Nucleus', 'span')

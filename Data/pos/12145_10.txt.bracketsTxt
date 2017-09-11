@@ -1,0 +1,4 @@
+((1, 1), [(1, 'I saw this movie once on late night t.v. and knew it was the best movie ever.')], 'Nucleus', 'span')
+((2, 2), [(2, 'This is one of the few Kung-Fu movies with a decent plot.')], 'Nucleus', 'span')
+((3, 3), [(3, 'The progression of the main character is seamless. The whole movie is great!')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'This is one of the few Kung-Fu movies with a decent plot.'), (3, 'The progression of the main character is seamless. The whole movie is great!')], 'Satellite', 'elaboration')

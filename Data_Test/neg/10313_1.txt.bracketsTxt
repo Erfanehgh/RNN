@@ -1,0 +1,6 @@
+((1, 1), [(1, 'We also found this movie on the discount rack and made the mistake')], 'Nucleus', 'span')
+((2, 2), [(2, 'of purchasing it')], 'Nucleus', 'span')
+((3, 3), [(3, 'because Sandra Bullock was featured on the cover. The cinematography was terrible and the back of the DVD box told more about the plot than the movie itself. Oh')], 'Nucleus', 'list')
+((4, 4), [(4, 'and I love the Uzi cam....NOT.<br /><br />')], 'Nucleus', 'list')
+((3, 4), [(3, 'because Sandra Bullock was featured on the cover. The cinematography was terrible and the back of the DVD box told more about the plot than the movie itself. Oh'), (4, 'and I love the Uzi cam....NOT.<br /><br />')], 'Satellite', 'reason')
+((2, 4), [(2, 'of purchasing it'), (3, 'because Sandra Bullock was featured on the cover. The cinematography was terrible and the back of the DVD box told more about the plot than the movie itself. Oh'), (4, 'and I love the Uzi cam....NOT.<br /><br />')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is a beautiful movie')], 'Nucleus', 'span')
+((2, 2), [(2, "filled with adventure. The Genii in the bottle is a classic scene. Romantic in it's finish, all things turn out")], 'Satellite', 'elaboration')
+((1, 2), [(1, 'This is a beautiful movie'), (2, "filled with adventure. The Genii in the bottle is a classic scene. Romantic in it's finish, all things turn out")], 'Nucleus', 'same_unit')
+((3, 3), [(3, 'as they should be. I saw this first as a child')], 'Nucleus', 'list')
+((4, 4), [(4, 'and have remembered it as a fantasy')], 'Nucleus', 'span')
+((5, 5), [(5, 'I wished was true.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'and have remembered it as a fantasy'), (5, 'I wished was true.')], 'Nucleus', 'list')
+((3, 5), [(3, 'as they should be. I saw this first as a child'), (4, 'and have remembered it as a fantasy'), (5, 'I wished was true.')], 'Nucleus', 'same_unit')

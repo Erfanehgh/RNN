@@ -1,0 +1,8 @@
+((1, 1), [(1, '"Wired" would have to rate as one of the ten worst films I have ever seen. The writing and direction show a stunning lack of imagination and I\'m sure')], 'Nucleus', 'span')
+((2, 2), [(2, 'that most of the actors still cringe')], 'Satellite', 'attribution')
+((3, 3), [(3, 'whenever anyone mentions this film.<br /><br />It fails')], 'Nucleus', 'span')
+((4, 4), [(4, "to work either as a tribute to Belushi's unique talent, or as an accurate account of his short life. <br /><br />A pointless mess")], 'Nucleus', 'span')
+((5, 5), [(5, 'with no redeeming features.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "to work either as a tribute to Belushi's unique talent, or as an accurate account of his short life. <br /><br />A pointless mess"), (5, 'with no redeeming features.')], 'Satellite', 'purpose')
+((3, 5), [(3, 'whenever anyone mentions this film.<br /><br />It fails'), (4, "to work either as a tribute to Belushi's unique talent, or as an accurate account of his short life. <br /><br />A pointless mess"), (5, 'with no redeeming features.')], 'Nucleus', 'span')
+((2, 5), [(2, 'that most of the actors still cringe'), (3, 'whenever anyone mentions this film.<br /><br />It fails'), (4, "to work either as a tribute to Belushi's unique talent, or as an accurate account of his short life. <br /><br />A pointless mess"), (5, 'with no redeeming features.')], 'Satellite', 'condition')

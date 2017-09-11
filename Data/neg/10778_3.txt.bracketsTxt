@@ -1,0 +1,4 @@
+((1, 1), [(1, "Characters you don't care about, relationships")], 'Nucleus', 'span')
+((2, 2), [(2, "you don't care about and you sit through all that to see the ending you knew")], 'Satellite', 'elaboration')
+((1, 2), [(1, "Characters you don't care about, relationships"), (2, "you don't care about and you sit through all that to see the ending you knew")], 'Nucleus', 'same_unit')
+((3, 3), [(3, 'was coming from the start. Julia Roberts usually leaves no impression on me one way or the other. She was actually somewhat endearing in this role.')], 'Nucleus', 'same_unit')

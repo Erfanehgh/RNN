@@ -1,0 +1,6 @@
+((1, 1), [(1, "As a history of Custer, this insn't even close (Custer dies")], 'Nucleus', 'span')
+((2, 2), [(2, "to help the indians? I am sure the other members of the 7th Cav weren't consulted in THAT decision.) But as a western, this is fun. Flynn looks,")], 'Nucleus', 'list')
+((3, 3), [(3, 'and acts, the part of the dashing cavalier. And the "Garry Owen" is always nice')], 'Nucleus', 'span')
+((4, 4), [(4, 'to hear!')], 'Satellite', 'purpose')
+((3, 4), [(3, 'and acts, the part of the dashing cavalier. And the "Garry Owen" is always nice'), (4, 'to hear!')], 'Nucleus', 'list')
+((2, 4), [(2, "to help the indians? I am sure the other members of the 7th Cav weren't consulted in THAT decision.) But as a western, this is fun. Flynn looks,"), (3, 'and acts, the part of the dashing cavalier. And the "Garry Owen" is always nice'), (4, 'to hear!')], 'Satellite', 'purpose')

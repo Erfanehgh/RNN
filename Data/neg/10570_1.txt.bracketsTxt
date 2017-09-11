@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Dont let the MPAA fool you with their "Rated R for extreme violence" there is definatly no extreme violence')], 'Nucleus', 'span')
+((2, 2), [(2, 'in this boring peice of s*t.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I expected some cheap rambo 3 type action')], 'Nucleus', 'span')
+((4, 4), [(4, 'that the trailer promised, however its just boring boring nonsense with tons of lame slow mo flashbacks')], 'Nucleus', 'span')
+((5, 5), [(5, 'that make no sense. AVOID!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that the trailer promised, however its just boring boring nonsense with tons of lame slow mo flashbacks'), (5, 'that make no sense. AVOID!')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'I expected some cheap rambo 3 type action'), (4, 'that the trailer promised, however its just boring boring nonsense with tons of lame slow mo flashbacks'), (5, 'that make no sense. AVOID!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'in this boring peice of s*t.'), (3, 'I expected some cheap rambo 3 type action'), (4, 'that the trailer promised, however its just boring boring nonsense with tons of lame slow mo flashbacks'), (5, 'that make no sense. AVOID!')], 'Satellite', 'elaboration')
