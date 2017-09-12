@@ -23,18 +23,20 @@ eta = 0.005
 dim = 100
 OutputFile = open(path_Folder + "output.csv", "w")
 OutputFile.write("attScalar, iteration, data, tp, tn, fp, fn, accuracy, precision, recall, F-1 measure\n")
+attOn = "Nucleus"
 
-for attScalar in np.arange(1.0, 0.1, -0.1):
+
+for attScalar in np.arange(1.0, 2.0, 0.1):
 
     W1 = initialize_weight_variable(200, 100)
     W2 = initialize_weight_variable(100, 2)
 
-    for i in range (0,40):
+    for i in range (0,20):
 
-        W1, W2 = train(path_Folder, WV, dim, W1, W2, eta, OutputFile, attScalar)
+        W1, W2 = train(path_Folder, WV, dim, W1, W2, eta, OutputFile, attOn, attScalar)
 
         if i%1 == 0:
-            test(path_Folder, "train", WV, dim, W1, W2, OutputFile, attScalar, i)
-            test(path_Folder_test, "test", WV, dim, W1, W2, OutputFile, attScalar, i)
+            test(path_Folder, "train", WV, dim, W1, W2, OutputFile, attOn, attScalar, i)
+            test(path_Folder_test, "test", WV, dim, W1, W2, OutputFile, attOn, attScalar, i)
 
 OutputFile.close()

@@ -105,8 +105,8 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
-                    # if hierarchy == hierarchyType:
-                    #     vector = np.multiply(attScaler, vector)
+                    if hierarchy == hierarchyType:
+                        vector = np.multiply(attScaler, vector)
                     EDUs_main [arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
                     EDUs[arr[0]] = "hi"
 
@@ -144,8 +144,8 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
 
                     vector = feedforward_act(np.concatenate([childs[2], childs[1]], 0), W1, activationFunc)
 
-                    # if hierarchy == hierarchyType:
-                    #     vector = np.multiply(attScaler, vector)
+                    if hierarchy == hierarchyType:
+                        vector = np.multiply(attScaler, vector)
 
                     EDUs_main[numconcat2]=ClassNode.Node(False, False, leftChild, rightChild, "" , hierarchy, relation, vector, "")
 
@@ -157,8 +157,8 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
             EDUs_main[eduKey[0]].child = "left"
             EDUs_main[eduKey[1]].child = "right"
 
-            # if hierarchy == hierarchyType:
-            #     vector = np.multiply(attScaler, vector)
+            if hierarchy == hierarchyType:
+                vector = np.multiply(attScaler, vector)
             EDUs_main[eduKey[0]+eduKey[1]] = ClassNode.Node(False, True, eduKey[0], eduKey[1],"", "", "", vector, "")
             del EDUs[eduKey[0]]
             del EDUs[eduKey[1]]
@@ -168,7 +168,7 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
     else:
         return EDUs_main
 
-def readTree_att_NSWeight(filePath, W1, WV, dim, hierarchyType, WSat, WN, activationFunc):
+def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
 
     EDUs = {}
     EDUs_main = {}
@@ -189,8 +189,12 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, hierarchyType, WSat, WN, activa
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
-                    if hierarchy == hierarchyType:
-                        vector = np.multiply(attScaler, vector)
+
+                    if hierarchy == "Nucleus":
+                        vector = np.matmul(vector, WNu)
+                    elif hierarchy == "Satellite":
+                        vector = np.matmul(vector, WSat)
+
                     EDUs_main [arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
                     EDUs[arr[0]] = "hi"
 
@@ -225,8 +229,10 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, hierarchyType, WSat, WN, activa
                     EDUs[numconcat2]="hi"
                     vector = feedforward_act(np.concatenate([childs[2], childs[1]], 0), W1, activationFunc)
 
-                    if hierarchy == hierarchyType:
-                        vector = np.multiply(attScaler, vector)
+                    if hierarchy == "Nucleus":
+                        vector = np.matmul(vector, WNu)
+                    elif hierarchy == "Satellite":
+                        vector = np.matmul(vector, WSat)
 
                     EDUs_main[numconcat2]=ClassNode.Node(False, False, leftChild, rightChild, "" , hierarchy, relation, vector, "")
 
@@ -238,8 +244,11 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, hierarchyType, WSat, WN, activa
             EDUs_main[eduKey[0]].child = "left"
             EDUs_main[eduKey[1]].child = "right"
 
-            if hierarchy == hierarchyType:
-                vector = np.multiply(attScaler, vector)
+            if hierarchy == "Nucleus":
+                vector = np.matmul(vector, WNu)
+            elif hierarchy == "Satellite":
+                vector = np.matmul(vector, WSat)
+
             EDUs_main[eduKey[0]+eduKey[1]] = ClassNode.Node(False, True, eduKey[0], eduKey[1],"", "", "", vector, "")
             del EDUs[eduKey[0]]
             del EDUs[eduKey[1]]

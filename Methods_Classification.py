@@ -18,7 +18,7 @@ def train_for_each_Sample (EDUs, y, W1, W2, eta):
 
     return W1, W2
 
-def train (path_Folder, WV, dim,  W1 , W2, eta, OutputFile, attScalar):
+def train (path_Folder, WV, dim,  W1 , W2, eta, OutputFile, attOn,  attScalar):
 
     posFileList = os.listdir(path_Folder + "pos/")
     negFileList = os.listdir(path_Folder + "neg/")
@@ -27,13 +27,13 @@ def train (path_Folder, WV, dim,  W1 , W2, eta, OutputFile, attScalar):
     for j in range(0, numberofSamples):
 
         path_File = path_Folder + "pos/" + posFileList[j]
-        EDUs = readTree_att_Scalar(path_File, W1, WV, dim, "Satellite", attScalar, "tanh")
+        EDUs = readTree_att_Scalar(path_File, W1, WV, dim, attOn, attScalar, "tanh")
         if (len(EDUs) > 0):
             y = [1.0, 0]
             W1, W2 = train_for_each_Sample(EDUs, y, W1, W2, eta)
 
         path_File = path_Folder + "neg/" + negFileList[j]
-        EDUs = readTree_att_Scalar(path_File, W1, WV, dim, "Satellite", attScalar, "tanh")
+        EDUs = readTree_att_Scalar(path_File, W1, WV, dim, attOn, attScalar, "tanh")
 
         if (len(EDUs) > 0):
             y = [0, 1.0]
@@ -42,11 +42,11 @@ def train (path_Folder, WV, dim,  W1 , W2, eta, OutputFile, attScalar):
     return W1, W2
 
 
-def test(path_Folder, mode, WV, dim,  W1 , W2, OutputFile, attScalar, iteration):
+def test(path_Folder, mode, WV, dim,  W1 , W2, OutputFile, attOn, attScalar, iteration):
     posFileList_test = os.listdir(path_Folder + "pos/")
     negFileList_test = os.listdir(path_Folder + "neg/")
     numberofSamples_test = min(len(posFileList_test), len(negFileList_test))
-
+    #numberofSamples_test=100
     tp = 0
     fp = 0
     tn = 0
@@ -54,7 +54,7 @@ def test(path_Folder, mode, WV, dim,  W1 , W2, OutputFile, attScalar, iteration)
 
     for k in range(0, numberofSamples_test):
         path_File_test = path_Folder + "pos/" + posFileList_test[k]
-        EDUs = readTree_att_Scalar(path_File_test, W1, WV, dim, "Satellite", attScalar, "tanh")
+        EDUs = readTree_att_Scalar(path_File_test, W1, WV, dim, attOn, attScalar, "tanh")
         y = [1.0, 0]
         eduKeys = sortEduKey(EDUs.keys(), reverse=True)
         input2 = EDUs[str(eduKeys[0])].vector
@@ -67,13 +67,13 @@ def test(path_Folder, mode, WV, dim,  W1 , W2, OutputFile, attScalar, iteration)
             fn += 1
 
         path_File_test = path_Folder + "neg/" + negFileList_test[k]
-        EDUs = readTree_att_Scalar(path_File_test, W1, WV, dim, "Satellite", attScalar, "tanh")
+        EDUs = readTree_att_Scalar(path_File_test, W1, WV, dim, attOn, attScalar, "tanh")
         eduKeys = sortEduKey(EDUs.keys(), reverse=True)
         input2 = EDUs[str(eduKeys[0])].vector
         y_in = feedforward(input2, W2)
         output = tanh(y_in)
 
-        if output[0] >= output[1]:
+        if output[0] <= output[1]:
             tn += 1
         else:
             fp += 1
