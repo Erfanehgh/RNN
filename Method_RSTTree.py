@@ -4,7 +4,7 @@ import ClassNode
 import numpy as np
 import math
 
-from Method_NeuralNets import feedforward_act
+from Method_NeuralNets import feedforward_act, apply_attention, tanh
 from Methods_Preprocessing import preprocessor1
 from Method_WV import WordAveraging
 
@@ -13,6 +13,7 @@ def sortEduKey(eduKeys, reverse=False):
         eduKeys = [int(x) for x in eduKeys]
         eduKeys = (sorted(eduKeys, reverse=True))
         return eduKeys
+
 
 def readTree(filePath, W1, WV, dim, activationFunc):
     EDUs = {}
@@ -105,6 +106,7 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
+                    #vector = tanh(vector)
                     if hierarchy == hierarchyType:
                         vector = np.multiply(attScaler, vector)
                     EDUs_main [arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
@@ -189,12 +191,7 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
-
-                    if hierarchy == "Nucleus":
-                        vector = np.matmul(vector, WNu)
-                    elif hierarchy == "Satellite":
-                        vector = np.matmul(vector, WSat)
-
+                    #vector = tanh (vector)
                     EDUs_main [arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
                     EDUs[arr[0]] = "hi"
 
@@ -213,6 +210,8 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
                         key = str(key)
                         if numconcat!='' and key in numconcat:
                             childs[i] = EDUs_main[key].vector
+                            childs[i] = apply_attention(childs[i], EDUs_main[key].nodeHierarchy, WNu, WSat)
+
                             if i==1:
                                 rightChild = key
                                 EDUs_main[key].child = "right"
@@ -225,29 +224,27 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
                             numconcat = numconcat.replace(key,"")
                             del EDUs[key]
 
-
                     EDUs[numconcat2]="hi"
                     vector = feedforward_act(np.concatenate([childs[2], childs[1]], 0), W1, activationFunc)
-
-                    if hierarchy == "Nucleus":
-                        vector = np.matmul(vector, WNu)
-                    elif hierarchy == "Satellite":
-                        vector = np.matmul(vector, WSat)
-
                     EDUs_main[numconcat2]=ClassNode.Node(False, False, leftChild, rightChild, "" , hierarchy, relation, vector, "")
 
         eduKey=EDUs.keys()
         eduKey.sort()
         if len(eduKey)>1:
-            vector = feedforward_act(np.concatenate([EDUs_main[eduKey[0]].vector, EDUs_main[eduKey[1]].vector], 0), W1, activationFunc)
+
+            EDU_0 = apply_attention(EDUs_main[eduKey[0]].vector, EDUs_main[eduKey[0]].nodeHierarchy, WNu, WSat)
+            EDU_1 = apply_attention(EDUs_main[eduKey[1]].vector, EDUs_main[eduKey[1]].nodeHierarchy, WNu, WSat)
+
+            vector = feedforward_act(np.concatenate([EDU_0, EDU_1], 0), W1, activationFunc)
             EDUs[eduKey[0]+eduKey[1]] = "hi"
+
             EDUs_main[eduKey[0]].child = "left"
             EDUs_main[eduKey[1]].child = "right"
 
-            if hierarchy == "Nucleus":
-                vector = np.matmul(vector, WNu)
-            elif hierarchy == "Satellite":
-                vector = np.matmul(vector, WSat)
+            # if hierarchy == "Nucleus":
+            #     vector = np.matmul(vector, WNu)
+            # elif hierarchy == "Satellite":
+            #     vector = np.matmul(vector, WSat)
 
             EDUs_main[eduKey[0]+eduKey[1]] = ClassNode.Node(False, True, eduKey[0], eduKey[1],"", "", "", vector, "")
             del EDUs[eduKey[0]]
