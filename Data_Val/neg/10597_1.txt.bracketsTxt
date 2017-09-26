@@ -1,0 +1,4 @@
+((1, 1), [(1, 'There is nothing at all redeeming about this film. It is very bad and not in such a way')], 'Nucleus', 'span')
+((2, 2), [(2, 'that it is even remotely funny. Horrible plot, acting, and writing and incredibly cheap production values')], 'Nucleus', 'span')
+((3, 3), [(3, 'to boot. This film makes "The Jackal" look like a work of art.')], 'Satellite', 'purpose')
+((2, 3), [(2, 'that it is even remotely funny. Horrible plot, acting, and writing and incredibly cheap production values'), (3, 'to boot. This film makes "The Jackal" look like a work of art.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The plot is very basic, but acceptable: A young US soldier,')], 'Nucleus', 'span')
+((2, 2), [(2, "having studied Asian martial arts, puts this to good use in defence of the general's daughter")], 'Nucleus', 'list')
+((3, 3), [(3, "and falls in love with her. Unfortunately, the three main acting parties' (soldier, girl, rebels)")], 'Nucleus', 'span')
+((4, 4), [(4, 'combined IQ amounts to 3: One point for the soldier, one for the girl, a large number of Ninja fighters have')], 'Nucleus', 'span')
+((5, 5), [(5, 'to share the third point among them to be able to lose against the former two.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'combined IQ amounts to 3: One point for the soldier, one for the girl, a large number of Ninja fighters have'), (5, 'to share the third point among them to be able to lose against the former two.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "and falls in love with her. Unfortunately, the three main acting parties' (soldier, girl, rebels)"), (4, 'combined IQ amounts to 3: One point for the soldier, one for the girl, a large number of Ninja fighters have'), (5, 'to share the third point among them to be able to lose against the former two.')], 'Nucleus', 'list')
+((2, 5), [(2, "having studied Asian martial arts, puts this to good use in defence of the general's daughter"), (3, "and falls in love with her. Unfortunately, the three main acting parties' (soldier, girl, rebels)"), (4, 'combined IQ amounts to 3: One point for the soldier, one for the girl, a large number of Ninja fighters have'), (5, 'to share the third point among them to be able to lose against the former two.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, '<br /><br />Well-known comedians meekly admit they wish')], 'Satellite', 'attribution')
+((2, 2), [(2, 'they could do real satire like Bill Hicks. Inbetween these pitiful testimonies, we are treated')], 'Nucleus', 'span')
+((3, 3), [(3, 'to what an exceptionally talented comedian can achieve')], 'Nucleus', 'span')
+((4, 4), [(4, 'when he could otherwise be chasing fame and fortune.')], 'Nucleus', 'span')
+((5, 5), [(5, "He didn't get his own talk show, but at least he was no one's puppet.")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'when he could otherwise be chasing fame and fortune.'), (5, "He didn't get his own talk show, but at least he was no one's puppet.")], 'Satellite', 'circumstance')
+((3, 5), [(3, 'to what an exceptionally talented comedian can achieve'), (4, 'when he could otherwise be chasing fame and fortune.'), (5, "He didn't get his own talk show, but at least he was no one's puppet.")], 'Satellite', 'purpose')
+((2, 5), [(2, 'they could do real satire like Bill Hicks. Inbetween these pitiful testimonies, we are treated'), (3, 'to what an exceptionally talented comedian can achieve'), (4, 'when he could otherwise be chasing fame and fortune.'), (5, "He didn't get his own talk show, but at least he was no one's puppet.")], 'Nucleus', 'span')

@@ -1,0 +1,6 @@
+((1, 1), [(1, "Possibly the finest moment of TV, at least in my memory, as millions could watch Shakespeare's gripping Kings cycle (Richard II")], 'Nucleus', 'span')
+((2, 2), [(2, '- Richard III) play out on prime time TV (I believe')], 'Satellite', 'attribution')
+((3, 3), [(3, 'it was on Friday nights). No word was left out,')], 'Nucleus', 'list')
+((4, 4), [(4, "and the plays awoke in me (who was then in elementary school) a thirst for history and a hunger for Shakespeare and drama.<br /><br />Let's see these reissued on DVD. What a set this would be!")], 'Nucleus', 'list')
+((3, 4), [(3, 'it was on Friday nights). No word was left out,'), (4, "and the plays awoke in me (who was then in elementary school) a thirst for history and a hunger for Shakespeare and drama.<br /><br />Let's see these reissued on DVD. What a set this would be!")], 'Nucleus', 'span')
+((2, 4), [(2, '- Richard III) play out on prime time TV (I believe'), (3, 'it was on Friday nights). No word was left out,'), (4, "and the plays awoke in me (who was then in elementary school) a thirst for history and a hunger for Shakespeare and drama.<br /><br />Let's see these reissued on DVD. What a set this would be!")], 'Satellite', 'elaboration')

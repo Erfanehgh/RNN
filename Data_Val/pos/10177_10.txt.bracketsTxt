@@ -1,0 +1,4 @@
+((1, 1), [(1, 'This movie was so heart warming. A true testament to an actors real life everyday ups and downs.It was truly a wonderful experience')], 'Nucleus', 'span')
+((2, 2), [(2, 'to share the passion of the actor on film and respect for what it must have taken off screen. This film is a reminder to everyone to go')], 'Nucleus', 'span')
+((3, 3), [(3, 'for there dreams!Never give up!Hurray for The Stand -in!!!')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'to share the passion of the actor on film and respect for what it must have taken off screen. This film is a reminder to everyone to go'), (3, 'for there dreams!Never give up!Hurray for The Stand -in!!!')], 'Satellite', 'elaboration')

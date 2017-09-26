@@ -1,0 +1,8 @@
+((1, 1), [(1, "Don't hate Heather Graham")], 'Nucleus', 'span')
+((2, 2), [(2, "because she's beautiful, hate her")], 'Nucleus', 'span')
+((3, 3), [(3, "because she's fun to watch in this movie. Like the hip clothing and funky surroundings, the actors in this flick work well together. Casey Affleck is hysterical and Heather Graham literally lights up the screen. The minor characters")], 'Nucleus', 'span')
+((4, 4), [(4, '- Goran Visnjic {sigh} and Patricia Velazquez are as TALENTED')], 'Nucleus', 'span')
+((5, 5), [(5, 'as they are gorgeous. Congratulations Miramax & Director Lisa Krueger!')], 'Satellite', 'circumstance')
+((4, 5), [(4, '- Goran Visnjic {sigh} and Patricia Velazquez are as TALENTED'), (5, 'as they are gorgeous. Congratulations Miramax & Director Lisa Krueger!')], 'Satellite', 'elaboration')
+((3, 5), [(3, "because she's fun to watch in this movie. Like the hip clothing and funky surroundings, the actors in this flick work well together. Casey Affleck is hysterical and Heather Graham literally lights up the screen. The minor characters"), (4, '- Goran Visnjic {sigh} and Patricia Velazquez are as TALENTED'), (5, 'as they are gorgeous. Congratulations Miramax & Director Lisa Krueger!')], 'Satellite', 'explanation')
+((2, 5), [(2, "because she's beautiful, hate her"), (3, "because she's fun to watch in this movie. Like the hip clothing and funky surroundings, the actors in this flick work well together. Casey Affleck is hysterical and Heather Graham literally lights up the screen. The minor characters"), (4, '- Goran Visnjic {sigh} and Patricia Velazquez are as TALENTED'), (5, 'as they are gorgeous. Congratulations Miramax & Director Lisa Krueger!')], 'Satellite', 'reason')

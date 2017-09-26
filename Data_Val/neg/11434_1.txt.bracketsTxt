@@ -1,0 +1,6 @@
+((1, 1), [(1, "This movie is so bad it's almost good. Bad story, bad acting, bad music,")], 'Nucleus', 'span')
+((2, 2), [(2, 'you name it. O.K.,')], 'Nucleus', 'span')
+((3, 3), [(3, 'who are the jokers')], 'Nucleus', 'span')
+((4, 4), [(4, "that gave this flick a '10'?")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'who are the jokers'), (4, "that gave this flick a '10'?")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'you name it. O.K.,'), (3, 'who are the jokers'), (4, "that gave this flick a '10'?")], 'Satellite', 'elaboration')

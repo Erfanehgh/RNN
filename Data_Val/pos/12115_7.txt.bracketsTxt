@@ -1,0 +1,8 @@
+((1, 1), [(1, "When I saw this movie at age 6, it was in the CHILDRENS' section at Erols Video")], 'Nucleus', 'span')
+((2, 2), [(2, 'because it was animation. We watched')], 'Nucleus', 'span')
+((3, 3), [(3, 'it and it was a whole different ball game! A very violent story and graphic deaths are VERY entertaining and compelling, but not for children. Avoid for family viewing, my mom nearly had a heart attack')], 'Nucleus', 'list')
+((4, 4), [(4, 'and ripped the video')], 'Nucleus', 'span')
+((5, 5), [(5, 'apart!')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'and ripped the video'), (5, 'apart!')], 'Nucleus', 'list')
+((3, 5), [(3, 'it and it was a whole different ball game! A very violent story and graphic deaths are VERY entertaining and compelling, but not for children. Avoid for family viewing, my mom nearly had a heart attack'), (4, 'and ripped the video'), (5, 'apart!')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'because it was animation. We watched'), (3, 'it and it was a whole different ball game! A very violent story and graphic deaths are VERY entertaining and compelling, but not for children. Avoid for family viewing, my mom nearly had a heart attack'), (4, 'and ripped the video'), (5, 'apart!')], 'Satellite', 'reason')

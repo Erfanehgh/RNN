@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Subject Matter: Cosmology, Quantum Physics and Stephen Hawking<br /><br />Soundtrack: Phillip Glass<br /><br />Have')], 'Nucleus', 'span')
+((2, 2), [(2, 'I died')], 'Nucleus', 'list')
+((3, 3), [(3, 'and gone')], 'Nucleus', 'span')
+((4, 4), [(4, 'to Heaven? <br /><br />You will be enraptured.')], 'Satellite', 'purpose')
+((3, 4), [(3, 'and gone'), (4, 'to Heaven? <br /><br />You will be enraptured.')], 'Nucleus', 'list')
+((2, 4), [(2, 'I died'), (3, 'and gone'), (4, 'to Heaven? <br /><br />You will be enraptured.')], 'Satellite', 'elaboration')

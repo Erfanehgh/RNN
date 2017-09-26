@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This film by Fri\xc3\xb0rik \xc3\x9e\xc3\xb3r, director of Children of Nature, is powerful. It has great music by Sigurr\xc3\xb3s and good acting. It shows how sad insanity as a disease can be. There are many good jokes but the humor is dark. If that is not a problem')], 'Nucleus', 'span')
+((2, 2), [(2, 'then')], 'Nucleus', 'span')
+((3, 3), [(3, 'you should see this film. Note')], 'Nucleus', 'span')
+((4, 4), [(4, 'though this is not a comedy but a drama.')], 'Satellite', 'concession')
+((3, 4), [(3, 'you should see this film. Note'), (4, 'though this is not a comedy but a drama.')], 'Satellite', 'attribution')
+((2, 4), [(2, 'then'), (3, 'you should see this film. Note'), (4, 'though this is not a comedy but a drama.')], 'Satellite', 'elaboration')

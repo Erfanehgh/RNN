@@ -1,0 +1,6 @@
+((1, 1), [(1, 'In an industry dominated by men and in lack of products with a female mark on it ;')], 'Satellite', 'circumstance')
+((2, 2), [(2, 'is it always nice to see a film')], 'Nucleus', 'span')
+((3, 3), [(3, "shown from the woman's point of view. I would welcome more films from female writers and directors , and I think")], 'Satellite', 'attribution')
+((4, 4), [(4, 'lots of other women with me.')], 'Nucleus', 'span')
+((3, 4), [(3, "shown from the woman's point of view. I would welcome more films from female writers and directors , and I think"), (4, 'lots of other women with me.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'is it always nice to see a film'), (3, "shown from the woman's point of view. I would welcome more films from female writers and directors , and I think"), (4, 'lots of other women with me.')], 'Nucleus', 'span')

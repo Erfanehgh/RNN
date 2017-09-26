@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Well, this movie actually did have one redeeming quality.')], 'Nucleus', 'span')
+((2, 2), [(2, 'It made up the funniest season one episode of MST3K.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I wish Rhino')], 'Satellite', 'attribution')
+((4, 4), [(4, 'had released this one instead of "The Crawling Hand."')], 'Nucleus', 'span')
+((3, 4), [(3, 'I wish Rhino'), (4, 'had released this one instead of "The Crawling Hand."')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'It made up the funniest season one episode of MST3K.'), (3, 'I wish Rhino'), (4, 'had released this one instead of "The Crawling Hand."')], 'Satellite', 'elaboration')

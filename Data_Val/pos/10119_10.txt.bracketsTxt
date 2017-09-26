@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Cuba Gooding Jr. is back on top! Jesus, he did a great job in this film! I LOVED this movie.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Its one of those feel good movies')], 'Nucleus', 'span')
+((3, 3), [(3, 'that makes you want to run out and volunteer at a mission or something. Anyway, I would recommend seeing this movie in a heartbeat! Well worth the price of admission. And')], 'Nucleus', 'span')
+((4, 4), [(4, 'as for Cuba Gooding Jr., just give him his next Oscar right now!!!!!!!!!!!!!!')], 'Satellite', 'circumstance')
+((3, 4), [(3, 'that makes you want to run out and volunteer at a mission or something. Anyway, I would recommend seeing this movie in a heartbeat! Well worth the price of admission. And'), (4, 'as for Cuba Gooding Jr., just give him his next Oscar right now!!!!!!!!!!!!!!')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'Its one of those feel good movies'), (3, 'that makes you want to run out and volunteer at a mission or something. Anyway, I would recommend seeing this movie in a heartbeat! Well worth the price of admission. And'), (4, 'as for Cuba Gooding Jr., just give him his next Oscar right now!!!!!!!!!!!!!!')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'John Cusack stars')], 'Satellite', 'attribution')
+((2, 2), [(2, 'as Hoops in this silly little movie')], 'Nucleus', 'span')
+((3, 3), [(3, 'that has to be one of the best of the eighties teen comedies.Believe it or not Demi Moore is his co star...If')], 'Nucleus', 'span')
+((4, 4), [(4, 'you love the eighties,grew up around that time,or are an angst ridden teenage artist get ready to laugh.Wait')], 'Nucleus', 'span')
+((5, 5), [(5, 'until you see the cartoons..what a riot....')], 'Satellite', 'circumstance')
+((4, 5), [(4, 'you love the eighties,grew up around that time,or are an angst ridden teenage artist get ready to laugh.Wait'), (5, 'until you see the cartoons..what a riot....')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'that has to be one of the best of the eighties teen comedies.Believe it or not Demi Moore is his co star...If'), (4, 'you love the eighties,grew up around that time,or are an angst ridden teenage artist get ready to laugh.Wait'), (5, 'until you see the cartoons..what a riot....')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'as Hoops in this silly little movie'), (3, 'that has to be one of the best of the eighties teen comedies.Believe it or not Demi Moore is his co star...If'), (4, 'you love the eighties,grew up around that time,or are an angst ridden teenage artist get ready to laugh.Wait'), (5, 'until you see the cartoons..what a riot....')], 'Nucleus', 'span')

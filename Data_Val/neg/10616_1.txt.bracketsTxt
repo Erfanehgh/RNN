@@ -1,0 +1,6 @@
+((1, 1), [(1, "The worst movie i've seen in years (and i've seen a lot of movies). Acting is terrible, there is no plot whatsoever,")], 'Nucleus', 'span')
+((2, 2), [(2, 'there is no point whatsoever,')], 'Nucleus', 'span')
+((3, 3), [(3, 'i felt robbed after i rented this movie.')], 'Satellite', 'attribution')
+((4, 4), [(4, 'they recommended it to me mind you! a disgrace for terrible movies! stay away from this terrible piece of c**p. save your money !')], 'Nucleus', 'span')
+((3, 4), [(3, 'i felt robbed after i rented this movie.'), (4, 'they recommended it to me mind you! a disgrace for terrible movies! stay away from this terrible piece of c**p. save your money !')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'there is no point whatsoever,'), (3, 'i felt robbed after i rented this movie.'), (4, 'they recommended it to me mind you! a disgrace for terrible movies! stay away from this terrible piece of c**p. save your money !')], 'Satellite', 'elaboration')

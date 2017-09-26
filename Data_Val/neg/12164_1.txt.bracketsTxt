@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This is without question the worst screen adaptation of a Stephen King work,')], 'Nucleus', 'span')
+((2, 2), [(2, 'if not the WORST MOVIE OF ALL TIME! This is an unbelievably horrible movie.')], 'Satellite', 'condition')
+((3, 3), [(3, "I fell asleep on this stinker several times and I wasn't tired!")], 'Nucleus', 'span')
+((4, 4), [(4, 'I would rather shoot myself than sit through it again!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "I fell asleep on this stinker several times and I wasn't tired!"), (4, 'I would rather shoot myself than sit through it again!')], 'Nucleus', 'span')
+((2, 4), [(2, 'if not the WORST MOVIE OF ALL TIME! This is an unbelievably horrible movie.'), (3, "I fell asleep on this stinker several times and I wasn't tired!"), (4, 'I would rather shoot myself than sit through it again!')], 'Satellite', 'condition')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Time line of the film: * Laugh * Laugh * Laugh * Smirk * Smirk * Yawn * Look at watch * walk out')], 'Nucleus', 'span')
+((2, 2), [(2, '* remember funny parts at the beginning * smirk<br /><br />Unfortunately, this movie has a good concept')], 'Nucleus', 'span')
+((3, 3), [(3, 'that')], 'Nucleus', 'span')
+((4, 4), [(4, 'it grinds to the ground.')], 'Satellite', 'attribution')
+((3, 4), [(3, 'that'), (4, 'it grinds to the ground.')], 'Satellite', 'elaboration')
+((2, 4), [(2, '* remember funny parts at the beginning * smirk<br /><br />Unfortunately, this movie has a good concept'), (3, 'that'), (4, 'it grinds to the ground.')], 'Satellite', 'elaboration')

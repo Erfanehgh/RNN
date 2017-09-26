@@ -1,0 +1,8 @@
+((1, 1), [(1, 'If your expecting Jackass look somewhere else this an actual movie')], 'Satellite', 'condition')
+((2, 2), [(2, 'and for the budget well done the acting isnt top noth neither is the writing')], 'Nucleus', 'span')
+((3, 3), [(3, 'but the directing was there and so was the story definetly worth the rent and possibly the buy')], 'Nucleus', 'span')
+((4, 4), [(4, 'if you really enjoy it like i did. But for the person')], 'Nucleus', 'span')
+((5, 5), [(5, 'who just likes jackass rent it first.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'if you really enjoy it like i did. But for the person'), (5, 'who just likes jackass rent it first.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'but the directing was there and so was the story definetly worth the rent and possibly the buy'), (4, 'if you really enjoy it like i did. But for the person'), (5, 'who just likes jackass rent it first.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'and for the budget well done the acting isnt top noth neither is the writing'), (3, 'but the directing was there and so was the story definetly worth the rent and possibly the buy'), (4, 'if you really enjoy it like i did. But for the person'), (5, 'who just likes jackass rent it first.')], 'Nucleus', 'span')

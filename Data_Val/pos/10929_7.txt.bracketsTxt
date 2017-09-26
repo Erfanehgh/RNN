@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I just saw "Eagle\xc2\xb4s wing".')], 'Satellite', 'attribution')
+((2, 2), [(2, 'I do not really know why this movie was made.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'What is the message of this story? Nevertheless I liked it.')], 'Nucleus', 'list')
+((4, 4), [(4, 'There are some exciting scenes in it.')], 'Nucleus', 'span')
+((5, 5), [(5, 'I appreciate a strong performance by Martin Sheen. Harvey Keitel is less convincing.')], 'Satellite', 'attribution')
+((4, 5), [(4, 'There are some exciting scenes in it.'), (5, 'I appreciate a strong performance by Martin Sheen. Harvey Keitel is less convincing.')], 'Nucleus', 'list')
+((3, 5), [(3, 'What is the message of this story? Nevertheless I liked it.'), (4, 'There are some exciting scenes in it.'), (5, 'I appreciate a strong performance by Martin Sheen. Harvey Keitel is less convincing.')], 'Nucleus', 'span')
+((2, 5), [(2, 'I do not really know why this movie was made.'), (3, 'What is the message of this story? Nevertheless I liked it.'), (4, 'There are some exciting scenes in it.'), (5, 'I appreciate a strong performance by Martin Sheen. Harvey Keitel is less convincing.')], 'Nucleus', 'span')

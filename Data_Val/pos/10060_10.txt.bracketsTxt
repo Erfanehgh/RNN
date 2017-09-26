@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie is so good! I first seen')], 'Satellite', 'attribution')
+((2, 2), [(2, 'it')], 'Nucleus', 'span')
+((3, 3), [(3, 'when i was six, then i bought it recently and i still love it, im 15 now. Plus, the acting was great, and Madonna is my idol')], 'Nucleus', 'list')
+((4, 4), [(4, 'and she did a phat job! Alot of people didnt like this movie, and i still to this day dont understand why.')], 'Nucleus', 'list')
+((3, 4), [(3, 'when i was six, then i bought it recently and i still love it, im 15 now. Plus, the acting was great, and Madonna is my idol'), (4, 'and she did a phat job! Alot of people didnt like this movie, and i still to this day dont understand why.')], 'Satellite', 'circumstance')
+((2, 4), [(2, 'it'), (3, 'when i was six, then i bought it recently and i still love it, im 15 now. Plus, the acting was great, and Madonna is my idol'), (4, 'and she did a phat job! Alot of people didnt like this movie, and i still to this day dont understand why.')], 'Nucleus', 'span')

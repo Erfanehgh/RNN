@@ -1,0 +1,6 @@
+((1, 1), [(1, 'One of the funniest, most romantic, and most musical movies ever; definitely worth renting/buying especially')], 'Satellite', 'attribution')
+((2, 2), [(2, 'if you have a taste for older style of cinematography.<br /><br />')], 'Satellite', 'condition')
+((3, 3), [(3, 'The animals and the songs alone will make you smile')], 'Nucleus', 'list')
+((4, 4), [(4, 'while watching the movie. A definite must for Madonna fans. :o)')], 'Nucleus', 'list')
+((3, 4), [(3, 'The animals and the songs alone will make you smile'), (4, 'while watching the movie. A definite must for Madonna fans. :o)')], 'Nucleus', 'span')
+((2, 4), [(2, 'if you have a taste for older style of cinematography.<br /><br />'), (3, 'The animals and the songs alone will make you smile'), (4, 'while watching the movie. A definite must for Madonna fans. :o)')], 'Nucleus', 'span')

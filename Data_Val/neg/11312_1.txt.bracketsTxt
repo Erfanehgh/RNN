@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie had terrible acting, terrible plot, and terrible choice of actors. (Leslie Nielsen...COME ON!!!) The one part I considered slightly funny was the battling FBI/CIA agents,')], 'Satellite', 'antithesis')
+((2, 2), [(2, 'but because the audience was mainly kids')], 'Nucleus', 'span')
+((3, 3), [(3, "they didn't understand that")], 'Nucleus', 'span')
+((4, 4), [(4, 'theme.')], 'Satellite', 'circumstance')
+((3, 4), [(3, "they didn't understand that"), (4, 'theme.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'but because the audience was mainly kids'), (3, "they didn't understand that"), (4, 'theme.')], 'Nucleus', 'span')

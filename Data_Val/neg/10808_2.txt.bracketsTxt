@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Okay,')], 'Nucleus', 'span')
+((2, 2), [(2, 'to be fair this movie did have an interesting concept.')], 'Nucleus', 'span')
+((3, 3), [(3, 'Given a few script rewrites, some decent actors and a budget, this might have been a fairly decent cult flick instead of the MST3K fodder it turned out')], 'Nucleus', 'span')
+((4, 4), [(4, 'to be.<br /><br />Still,')], 'Nucleus', 'span')
+((5, 5), [(5, 'it was better than "Armageddon."')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'to be.<br /><br />Still,'), (5, 'it was better than "Armageddon."')], 'Satellite', 'purpose')
+((3, 5), [(3, 'Given a few script rewrites, some decent actors and a budget, this might have been a fairly decent cult flick instead of the MST3K fodder it turned out'), (4, 'to be.<br /><br />Still,'), (5, 'it was better than "Armageddon."')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to be fair this movie did have an interesting concept.'), (3, 'Given a few script rewrites, some decent actors and a budget, this might have been a fairly decent cult flick instead of the MST3K fodder it turned out'), (4, 'to be.<br /><br />Still,'), (5, 'it was better than "Armageddon."')], 'Satellite', 'elaboration')

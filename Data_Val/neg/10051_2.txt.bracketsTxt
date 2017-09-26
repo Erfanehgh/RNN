@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I had')], 'Nucleus', 'span')
+((2, 2), [(2, 'to see this on the British Airways plane. It was terribly bad acting and a dumb story. Not even a kid would enjoy this. Something')], 'Nucleus', 'span')
+((3, 3), [(3, 'to switch off')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'to see this on the British Airways plane. It was terribly bad acting and a dumb story. Not even a kid would enjoy this. Something'), (3, 'to switch off')], 'Nucleus', 'span')
+((4, 4), [(4, 'if possible.')], 'Satellite', 'condition')
+((2, 4), [(2, 'to see this on the British Airways plane. It was terribly bad acting and a dumb story. Not even a kid would enjoy this. Something'), (3, 'to switch off'), (4, 'if possible.')], 'Satellite', 'purpose')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'A delightful story about two evacuees, has been turned into a nice little film, by the BBC. Most children who like a good story will enjoy this. The characters are played really well by a very good cast. Not sure')], 'Nucleus', 'span')
+((2, 2), [(2, 'whether our American friends will appreciate it,')], 'Satellite', 'antithesis')
+((3, 3), [(3, 'but they do get a mention,')], 'Nucleus', 'span')
+((4, 4), [(4, 'as Aunty Lou runs off')], 'Nucleus', 'span')
+((5, 5), [(5, 'with a gorgeous American soldier.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'as Aunty Lou runs off'), (5, 'with a gorgeous American soldier.')], 'Satellite', 'circumstance')
+((3, 5), [(3, 'but they do get a mention,'), (4, 'as Aunty Lou runs off'), (5, 'with a gorgeous American soldier.')], 'Nucleus', 'span')
+((2, 5), [(2, 'whether our American friends will appreciate it,'), (3, 'but they do get a mention,'), (4, 'as Aunty Lou runs off'), (5, 'with a gorgeous American soldier.')], 'Satellite', 'elaboration')

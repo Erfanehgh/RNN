@@ -1,0 +1,8 @@
+((1, 1), [(1, "There are interesting pieces here of and about Bruce Weber's likes and dislikes. Maybe if a professional editor had put it together for Biography,")], 'Nucleus', 'span')
+((2, 2), [(2, 'I would have felt more satisfied. Instead,')], 'Nucleus', 'span')
+((3, 3), [(3, 'I spent $8 at a film festival on it. For an autobiography, almost nothing is revealed about Bruce Weber, other than he likes')], 'Nucleus', 'span')
+((4, 4), [(4, 'to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen')], 'Nucleus', 'span')
+((5, 5), [(5, 'to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen'), (5, 'to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.')], 'Satellite', 'purpose')
+((3, 5), [(3, 'I spent $8 at a film festival on it. For an autobiography, almost nothing is revealed about Bruce Weber, other than he likes'), (4, 'to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen'), (5, 'to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'I would have felt more satisfied. Instead,'), (3, 'I spent $8 at a film festival on it. For an autobiography, almost nothing is revealed about Bruce Weber, other than he likes'), (4, 'to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen'), (5, 'to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.')], 'Satellite', 'elaboration')

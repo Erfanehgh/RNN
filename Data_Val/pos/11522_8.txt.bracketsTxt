@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Well, I AM "the target market" & I loved it. Furthermore my husband, also a Boomer with strong memories of the \'60s, liked it a lot too.')], 'Nucleus', 'span')
+((2, 2), [(2, "I haven't read the book,")], 'Nucleus', 'span')
+((3, 3), [(3, 'so I went into it neutral & I was very pleasantly surprised. It\'s now on our "Highly Recommended" video list.<br /><br />')], 'Satellite', 'elaboration')
+((2, 3), [(2, "I haven't read the book,"), (3, 'so I went into it neutral & I was very pleasantly surprised. It\'s now on our "Highly Recommended" video list.<br /><br />')], 'Satellite', 'elaboration')

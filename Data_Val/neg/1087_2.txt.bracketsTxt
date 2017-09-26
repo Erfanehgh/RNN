@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This hokey movie left me')], 'Nucleus', 'span')
+((2, 2), [(2, 'groaning after just about any exchange of dialogue or plot complication. Patricia Arquette,')], 'Nucleus', 'span')
+((3, 3), [(3, 'though pleasing to look at, gives a below par performance from her usual mediocrity. My friends')], 'Nucleus', 'list')
+((4, 4), [(4, 'and I have coined the phrase "Beyond Rangoon"')], 'Nucleus', 'span')
+((5, 5), [(5, 'to mean anything really bad. A lowpoint for Boorman.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'and I have coined the phrase "Beyond Rangoon"'), (5, 'to mean anything really bad. A lowpoint for Boorman.')], 'Nucleus', 'list')
+((3, 5), [(3, 'though pleasing to look at, gives a below par performance from her usual mediocrity. My friends'), (4, 'and I have coined the phrase "Beyond Rangoon"'), (5, 'to mean anything really bad. A lowpoint for Boorman.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'groaning after just about any exchange of dialogue or plot complication. Patricia Arquette,'), (3, 'though pleasing to look at, gives a below par performance from her usual mediocrity. My friends'), (4, 'and I have coined the phrase "Beyond Rangoon"'), (5, 'to mean anything really bad. A lowpoint for Boorman.')], 'Satellite', 'elaboration')

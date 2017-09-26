@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Anyone')], 'Nucleus', 'span')
+((2, 2), [(2, 'who has ever gone on an audition can certainly relate to this one. Great story of an aspiring actor and the pressures he must deal with both personally and professionally in order')], 'Nucleus', 'span')
+((3, 3), [(3, 'to make it to the big time. Lou Myers,')], 'Nucleus', 'span')
+((4, 4), [(4, 'as Half-Step Wilson, provides many hilarious moments.')], 'Satellite', 'circumstance')
+((3, 4), [(3, 'to make it to the big time. Lou Myers,'), (4, 'as Half-Step Wilson, provides many hilarious moments.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'who has ever gone on an audition can certainly relate to this one. Great story of an aspiring actor and the pressures he must deal with both personally and professionally in order'), (3, 'to make it to the big time. Lou Myers,'), (4, 'as Half-Step Wilson, provides many hilarious moments.')], 'Satellite', 'elaboration')

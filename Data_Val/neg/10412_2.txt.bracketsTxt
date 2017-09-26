@@ -1,0 +1,4 @@
+((1, 1), [(1, "Olivia D'Abo in a wet T-shirt is the only thing this movie has going for it. Other than that, this Canadian production about a man")], 'Nucleus', 'span')
+((2, 2), [(2, "taking out a vicious band of hillbillies is not worth anybody's time.")], 'Satellite', 'attribution')
+((3, 3), [(3, 'The writing is bad, the acting is poor and the direction is sub-standard.')], 'Nucleus', 'span')
+((2, 3), [(2, "taking out a vicious band of hillbillies is not worth anybody's time."), (3, 'The writing is bad, the acting is poor and the direction is sub-standard.')], 'Satellite', 'elaboration')

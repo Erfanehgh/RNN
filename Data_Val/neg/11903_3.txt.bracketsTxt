@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Some famous stories are prone')], 'Nucleus', 'span')
+((2, 2), [(2, "to being moved to another epoch and, as such, becoming an embarrassing TV-movie. Oscar Wilde's Canterville Ghost is one of them. This TV movie for kids is utterly cheap,")], 'Nucleus', 'span')
+((3, 3), [(3, 'concerning acting, character work, credibility, directing and even concerning the modest special effects. As often, the question')], 'Nucleus', 'span')
+((4, 4), [(4, 'arises: what was this made for?')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'concerning acting, character work, credibility, directing and even concerning the modest special effects. As often, the question'), (4, 'arises: what was this made for?')], 'Satellite', 'elaboration')
+((2, 4), [(2, "to being moved to another epoch and, as such, becoming an embarrassing TV-movie. Oscar Wilde's Canterville Ghost is one of them. This TV movie for kids is utterly cheap,"), (3, 'concerning acting, character work, credibility, directing and even concerning the modest special effects. As often, the question'), (4, 'arises: what was this made for?')], 'Satellite', 'purpose')

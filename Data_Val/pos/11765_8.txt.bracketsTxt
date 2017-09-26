@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Anyone')], 'Nucleus', 'span')
+((2, 2), [(2, 'who gives this movie less than 8 needs')], 'Nucleus', 'span')
+((3, 3), [(3, 'to step outside & puff a couple. Great story.<br /><br />Reality is for people')], 'Nucleus', 'span')
+((4, 4), [(4, "who can't handle drugs.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'to step outside & puff a couple. Great story.<br /><br />Reality is for people'), (4, "who can't handle drugs.")], 'Satellite', 'purpose')
+((2, 4), [(2, 'who gives this movie less than 8 needs'), (3, 'to step outside & puff a couple. Great story.<br /><br />Reality is for people'), (4, "who can't handle drugs.")], 'Satellite', 'elaboration')

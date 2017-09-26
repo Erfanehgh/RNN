@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Sure it is a new take on vampires.')], 'Nucleus', 'span')
+((2, 2), [(2, 'Who cares. I would rather the old take')], 'Nucleus', 'span')
+((3, 3), [(3, 'if it is entertaining. This was not entertaining. It was a dull story,')], 'Nucleus', 'span')
+((4, 4), [(4, "poorly acted, with annoying cinematography. Save your money, don't even watch it on video.")], 'Satellite', 'elaboration')
+((3, 4), [(3, 'if it is entertaining. This was not entertaining. It was a dull story,'), (4, "poorly acted, with annoying cinematography. Save your money, don't even watch it on video.")], 'Satellite', 'condition')
+((2, 4), [(2, 'Who cares. I would rather the old take'), (3, 'if it is entertaining. This was not entertaining. It was a dull story,'), (4, "poorly acted, with annoying cinematography. Save your money, don't even watch it on video.")], 'Satellite', 'elaboration')

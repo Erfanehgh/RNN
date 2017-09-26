@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Another brilliant portrayal by Kiefer Sutherland')], 'Nucleus', 'span')
+((2, 2), [(2, "who plays Mickey Hayden, a cop dealing with psychic visions of murdered victims. I absolutely love movies dealing with the psychic realm, and I wasn't")], 'Satellite', 'attribution')
+((3, 3), [(3, 'disappointed')], 'Nucleus', 'span')
+((4, 4), [(4, 'with "Eye of the Killer" (AKA After Alice). I only wish the movie had been released theatrical first.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'disappointed'), (4, 'with "Eye of the Killer" (AKA After Alice). I only wish the movie had been released theatrical first.')], 'Nucleus', 'span')
+((2, 4), [(2, "who plays Mickey Hayden, a cop dealing with psychic visions of murdered victims. I absolutely love movies dealing with the psychic realm, and I wasn't"), (3, 'disappointed'), (4, 'with "Eye of the Killer" (AKA After Alice). I only wish the movie had been released theatrical first.')], 'Satellite', 'elaboration')

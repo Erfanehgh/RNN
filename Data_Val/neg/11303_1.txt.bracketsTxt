@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Leslie Nielson is a very talented actor,')], 'Nucleus', 'span')
+((2, 2), [(2, 'who made a huge mistake')], 'Nucleus', 'span')
+((3, 3), [(3, "by doing this film. It doesn't even come close")], 'Nucleus', 'span')
+((4, 4), [(4, 'to being funny. The best word')], 'Nucleus', 'span')
+((5, 5), [(5, 'to describe it is STUPID!')], 'Satellite', 'purpose')
+((4, 5), [(4, 'to being funny. The best word'), (5, 'to describe it is STUPID!')], 'Satellite', 'purpose')
+((3, 5), [(3, "by doing this film. It doesn't even come close"), (4, 'to being funny. The best word'), (5, 'to describe it is STUPID!')], 'Satellite', 'means')
+((2, 5), [(2, 'who made a huge mistake'), (3, "by doing this film. It doesn't even come close"), (4, 'to being funny. The best word'), (5, 'to describe it is STUPID!')], 'Satellite', 'elaboration')

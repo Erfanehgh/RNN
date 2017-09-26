@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I was really excited')], 'Satellite', 'attribution')
+((2, 2), [(2, 'when I read "The Canterville Ghost" would be shown on TV. However, I was deeply disappointed. I loved the original story')], 'Nucleus', 'span')
+((3, 3), [(3, 'written by Oscar Wilde and sadly nothing of that')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'when I read "The Canterville Ghost" would be shown on TV. However, I was deeply disappointed. I loved the original story'), (3, 'written by Oscar Wilde and sadly nothing of that')], 'Nucleus', 'span')
+((4, 4), [(4, 'was transferred by the movie.')], 'Satellite', 'condition')
+((2, 4), [(2, 'when I read "The Canterville Ghost" would be shown on TV. However, I was deeply disappointed. I loved the original story'), (3, 'written by Oscar Wilde and sadly nothing of that'), (4, 'was transferred by the movie.')], 'Nucleus', 'span')

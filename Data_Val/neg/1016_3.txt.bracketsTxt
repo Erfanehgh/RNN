@@ -1,0 +1,8 @@
+((1, 1), [(1, 'The movie is a happy lullaby,')], 'Nucleus', 'same_unit')
+((2, 2), [(2, 'was made')], 'Nucleus', 'span')
+((3, 3), [(3, 'to make us sleep.')], 'Satellite', 'purpose')
+((2, 3), [(2, 'was made'), (3, 'to make us sleep.')], 'Nucleus', 'list')
+((4, 4), [(4, 'And that\xc2\xb4s what we do,')], 'Nucleus', 'span')
+((5, 5), [(5, 'as we dream about the top beautiful Natasha Henstridge. No screenplay, no deep characters, nothing special. So, let\xc2\xb4s sleep.')], 'Satellite', 'circumstance')
+((4, 5), [(4, 'And that\xc2\xb4s what we do,'), (5, 'as we dream about the top beautiful Natasha Henstridge. No screenplay, no deep characters, nothing special. So, let\xc2\xb4s sleep.')], 'Nucleus', 'list')
+((2, 5), [(2, 'was made'), (3, 'to make us sleep.'), (4, 'And that\xc2\xb4s what we do,'), (5, 'as we dream about the top beautiful Natasha Henstridge. No screenplay, no deep characters, nothing special. So, let\xc2\xb4s sleep.')], 'Nucleus', 'same_unit')

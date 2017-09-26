@@ -1,0 +1,8 @@
+((1, 1), [(1, 'While he was great in Boogie Nights,')], 'Nucleus', 'span')
+((2, 2), [(2, 'I think')], 'Satellite', 'attribution')
+((3, 3), [(3, "that this was Burt Reynolds' best performance. He's also a great director")], 'Nucleus', 'list')
+((4, 4), [(4, 'and has made a tough, violent movie')], 'Nucleus', 'span')
+((5, 5), [(5, "that doesn't hold back (a hooker's death by 12 gauge) and is an excellent detective story with some great actors (Brian Keith, Bernie Casey, etc.) and an outstanding jazz soundtrack. 10 out of 10")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'and has made a tough, violent movie'), (5, "that doesn't hold back (a hooker's death by 12 gauge) and is an excellent detective story with some great actors (Brian Keith, Bernie Casey, etc.) and an outstanding jazz soundtrack. 10 out of 10")], 'Nucleus', 'list')
+((3, 5), [(3, "that this was Burt Reynolds' best performance. He's also a great director"), (4, 'and has made a tough, violent movie'), (5, "that doesn't hold back (a hooker's death by 12 gauge) and is an excellent detective story with some great actors (Brian Keith, Bernie Casey, etc.) and an outstanding jazz soundtrack. 10 out of 10")], 'Nucleus', 'span')
+((2, 5), [(2, 'I think'), (3, "that this was Burt Reynolds' best performance. He's also a great director"), (4, 'and has made a tough, violent movie'), (5, "that doesn't hold back (a hooker's death by 12 gauge) and is an excellent detective story with some great actors (Brian Keith, Bernie Casey, etc.) and an outstanding jazz soundtrack. 10 out of 10")], 'Satellite', 'elaboration')

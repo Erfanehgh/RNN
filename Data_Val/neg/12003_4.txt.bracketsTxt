@@ -1,0 +1,6 @@
+((1, 1), [(1, "All the actors in this film seem bored. They are not really interested in their roles and the dialogue is all delivered in monotone. It's a problem")], 'Nucleus', 'span')
+((2, 2), [(2, 'because I think')], 'Satellite', 'attribution')
+((3, 3), [(3, "the basic idea for the film is really very sound. I suppose it's just bad direction")], 'Nucleus', 'span')
+((4, 4), [(4, 'which leaves the actors drifting.')], 'Satellite', 'elaboration')
+((3, 4), [(3, "the basic idea for the film is really very sound. I suppose it's just bad direction"), (4, 'which leaves the actors drifting.')], 'Nucleus', 'span')
+((2, 4), [(2, 'because I think'), (3, "the basic idea for the film is really very sound. I suppose it's just bad direction"), (4, 'which leaves the actors drifting.')], 'Satellite', 'reason')

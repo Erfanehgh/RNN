@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Aya! If you are looking for special effects')], 'Nucleus', 'span')
+((2, 2), [(2, 'that are 10-20 years')], 'Satellite', 'elaboration')
+((1, 2), [(1, 'Aya! If you are looking for special effects'), (2, 'that are 10-20 years')], 'Nucleus', 'span')
+((3, 3), [(3, "before its time, this is it. The glowing lightning bolts, fireballs, etc. look like they came from a cheesy 70's sci-fi flick. And yes, Hercules really grows; he's")], 'Nucleus', 'span')
+((4, 4), [(4, 'not being pushed on a cart closer to the camera!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "before its time, this is it. The glowing lightning bolts, fireballs, etc. look like they came from a cheesy 70's sci-fi flick. And yes, Hercules really grows; he's"), (4, 'not being pushed on a cart closer to the camera!')], 'Satellite', 'temporal')

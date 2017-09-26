@@ -1,0 +1,8 @@
+((1, 1), [(1, "Fantastic, Madonna at her finest, the film is funny and her acting is brilliant. It may have been made in the 80's")], 'Satellite', 'concession')
+((2, 2), [(2, 'but it has all the qualities of a modern Hollywood Block-buster. I love this film and i think')], 'Satellite', 'attribution')
+((3, 3), [(3, 'its totally unique')], 'Nucleus', 'list')
+((4, 4), [(4, 'and will cheer up any droopy person')], 'Nucleus', 'list')
+((3, 4), [(3, 'its totally unique'), (4, 'and will cheer up any droopy person')], 'Nucleus', 'same_unit')
+((5, 5), [(5, 'within a matter of minutes. Fantastic.')], 'Nucleus', 'same_unit')
+((3, 5), [(3, 'its totally unique'), (4, 'and will cheer up any droopy person'), (5, 'within a matter of minutes. Fantastic.')], 'Nucleus', 'span')
+((2, 5), [(2, 'but it has all the qualities of a modern Hollywood Block-buster. I love this film and i think'), (3, 'its totally unique'), (4, 'and will cheer up any droopy person'), (5, 'within a matter of minutes. Fantastic.')], 'Nucleus', 'span')

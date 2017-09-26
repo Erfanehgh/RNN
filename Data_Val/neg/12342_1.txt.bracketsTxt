@@ -1,0 +1,6 @@
+((1, 1), [(1, "This is the worst movie I have ever seen in my entire life. Unless you're into masochism, never see it. It was an insufferably long, pointless, eye-harming, depressing movie and will forever top my list of bad movies.")], 'Nucleus', 'span')
+((2, 2), [(2, 'Whoever wrote this movie is a sadist.')], 'Nucleus', 'span')
+((3, 3), [(3, "I almost cried at the end, that's how bad it was. I'd like to give it zero stars,")], 'Nucleus', 'contrast')
+((4, 4), [(4, "but since that's not an option, I give it one.")], 'Nucleus', 'contrast')
+((3, 4), [(3, "I almost cried at the end, that's how bad it was. I'd like to give it zero stars,"), (4, "but since that's not an option, I give it one.")], 'Satellite', 'elaboration')
+((2, 4), [(2, 'Whoever wrote this movie is a sadist.'), (3, "I almost cried at the end, that's how bad it was. I'd like to give it zero stars,"), (4, "but since that's not an option, I give it one.")], 'Satellite', 'elaboration')

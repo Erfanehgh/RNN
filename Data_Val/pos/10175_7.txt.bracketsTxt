@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Fun story of a regular guy with big dreams, this low budget film really hits home')], 'Nucleus', 'span')
+((2, 2), [(2, "showing what it is like trying to become an acting success. Great performances by Lou Myers and Brian's neighbor, Alex.")], 'Nucleus', 'span')
+((3, 3), [(3, 'I giggled alot')], 'Nucleus', 'list')
+((4, 4), [(4, 'and even cried a little.<br /><br />')], 'Nucleus', 'list')
+((3, 4), [(3, 'I giggled alot'), (4, 'and even cried a little.<br /><br />')], 'Satellite', 'elaboration')
+((2, 4), [(2, "showing what it is like trying to become an acting success. Great performances by Lou Myers and Brian's neighbor, Alex."), (3, 'I giggled alot'), (4, 'and even cried a little.<br /><br />')], 'Satellite', 'elaboration')

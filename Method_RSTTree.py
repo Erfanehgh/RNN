@@ -3,8 +3,9 @@ import re
 import ClassNode
 import numpy as np
 import math
+from Method_NeuralNets import tanh
 
-from Method_NeuralNets import feedforward_act, apply_attention, tanh
+from Method_NeuralNets import feedforward_act, apply_attention
 from Methods_Preprocessing import preprocessor1
 from Method_WV import WordAveraging
 
@@ -34,6 +35,7 @@ def readTree(filePath, W1, WV, dim, activationFunc):
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
+                    #vector = tanh (vector)
                     EDUs_main[arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
                     EDUs[arr[0]] = "hi"
                 else:
@@ -171,7 +173,7 @@ def readTree_att_Scalar(filePath, W1, WV, dim, hierarchyType, attScaler, activat
         return EDUs_main
 
 def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
-
+    #print filePath
     EDUs = {}
     EDUs_main = {}
     if os.path.exists(filePath):
@@ -191,6 +193,13 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
                     if int(arr[0]) / 10 != 0:
                         arr[0] = "9" + arr[0]
                     vector = WordAveraging(preprocessor1(re.sub(r"[\n,.:'(\[\])]", "", arr2[1])), WV, dim)
+                    #print vector
+                    if np.absolute(max(vector))>2:
+                        print "vayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+                    if np.sum(np.absolute(vector))/dim >=0.8:
+                        for item in EDUs_main.keys():
+                            print item, " ", EDUs_main[item].vector
+                        print "khodaaaaaaaaaaaaaaaaaa"
                     #vector = tanh (vector)
                     EDUs_main [arr[0]] = ClassNode.Node(True, False, 0, 0, "", hierarchy, relation, vector, "")
                     EDUs[arr[0]] = "hi"
@@ -210,7 +219,13 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
                         key = str(key)
                         if numconcat!='' and key in numconcat:
                             childs[i] = EDUs_main[key].vector
-                            childs[i] = apply_attention(childs[i], EDUs_main[key].nodeHierarchy, WNu, WSat)
+                            #print key, " ", childs[i]
+                            childs[i] = apply_attention(childs[i], EDUs_main[key].nodeHierarchy, WNu, WSat, activationFunc)
+                            if np.sum(np.absolute(childs[i])) / dim >= 0.8:
+                                for item in EDUs_main.keys():
+                                    print item, " ", EDUs_main[item].vector
+                                print key, " ", childs[i]
+                                print "khodaaaaaaaaaaaaaaaaaa"
 
                             if i==1:
                                 rightChild = key
@@ -232,8 +247,8 @@ def readTree_att_NSWeight(filePath, W1, WV, dim, WSat, WNu, activationFunc):
         eduKey.sort()
         if len(eduKey)>1:
 
-            EDU_0 = apply_attention(EDUs_main[eduKey[0]].vector, EDUs_main[eduKey[0]].nodeHierarchy, WNu, WSat)
-            EDU_1 = apply_attention(EDUs_main[eduKey[1]].vector, EDUs_main[eduKey[1]].nodeHierarchy, WNu, WSat)
+            EDU_0 = apply_attention(EDUs_main[eduKey[0]].vector, EDUs_main[eduKey[0]].nodeHierarchy, WNu, WSat, activationFunc)
+            EDU_1 = apply_attention(EDUs_main[eduKey[1]].vector, EDUs_main[eduKey[1]].nodeHierarchy, WNu, WSat, activationFunc)
 
             vector = feedforward_act(np.concatenate([EDU_0, EDU_1], 0), W1, activationFunc)
             EDUs[eduKey[0]+eduKey[1]] = "hi"

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Technically abominable (with audible "pops" between scenes)and awesomely amateurish, "Flesh" requires a lot of patience')], 'Nucleus', 'span')
+((2, 2), [(2, 'to sit through and will probably turn off most viewers; but the dialogue rings amazingly true and Joe Dallesandro,')], 'Nucleus', 'span')
+((3, 3), [(3, 'who exposes his body in almost every scene, also gives an utterly convincing performance. A curio,')], 'Satellite', 'elaboration')
+((2, 3), [(2, 'to sit through and will probably turn off most viewers; but the dialogue rings amazingly true and Joe Dallesandro,'), (3, 'who exposes his body in almost every scene, also gives an utterly convincing performance. A curio,')], 'Nucleus', 'span')
+((4, 4), [(4, 'to be sure, but the more polished "Trash", made two years later, is a definite step forward. I suggest')], 'Satellite', 'attribution')
+((5, 5), [(5, 'you watch that instead. (*1/2)')], 'Nucleus', 'span')
+((4, 5), [(4, 'to be sure, but the more polished "Trash", made two years later, is a definite step forward. I suggest'), (5, 'you watch that instead. (*1/2)')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'to sit through and will probably turn off most viewers; but the dialogue rings amazingly true and Joe Dallesandro,'), (3, 'who exposes his body in almost every scene, also gives an utterly convincing performance. A curio,'), (4, 'to be sure, but the more polished "Trash", made two years later, is a definite step forward. I suggest'), (5, 'you watch that instead. (*1/2)')], 'Satellite', 'elaboration')

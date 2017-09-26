@@ -1,0 +1,6 @@
+((1, 1), [(1, 'My wife and I struggle')], 'Nucleus', 'span')
+((2, 2), [(2, 'to find movies like this')], 'Nucleus', 'span')
+((3, 3), [(3, "that are clean and yet enjoyable for adults. If you can't find a cinema")], 'Nucleus', 'span')
+((4, 4), [(4, 'that is playing it, call your cinema and request it. Bravo, Five Sisters Productions for courage, tenacity and creative endeavor!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "that are clean and yet enjoyable for adults. If you can't find a cinema"), (4, 'that is playing it, call your cinema and request it. Bravo, Five Sisters Productions for courage, tenacity and creative endeavor!')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to find movies like this'), (3, "that are clean and yet enjoyable for adults. If you can't find a cinema"), (4, 'that is playing it, call your cinema and request it. Bravo, Five Sisters Productions for courage, tenacity and creative endeavor!')], 'Satellite', 'purpose')

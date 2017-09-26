@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Dire beyond belief. Obviously set on the Isle of Man')], 'Nucleus', 'span')
+((2, 2), [(2, 'masquerading as the US - very badly - and full of cut-rate British actors')], 'Nucleus', 'span')
+((3, 3), [(3, "who can't do American accents.")], 'Satellite', 'elaboration')
+((2, 3), [(2, 'masquerading as the US - very badly - and full of cut-rate British actors'), (3, "who can't do American accents.")], 'Nucleus', 'span')
+((4, 4), [(4, 'A monster')], 'Nucleus', 'span')
+((5, 5), [(5, "that looks like an unarticulated promotional cut-out for Alien from a movie store, with the most inflexible feet ever seen. Girls in the shower, undressing, catfighting, blah, blah, blah. You get the idea. Don't watch it, run away, hide, AVOID.")], 'Satellite', 'elaboration')
+((4, 5), [(4, 'A monster'), (5, "that looks like an unarticulated promotional cut-out for Alien from a movie store, with the most inflexible feet ever seen. Girls in the shower, undressing, catfighting, blah, blah, blah. You get the idea. Don't watch it, run away, hide, AVOID.")], 'Satellite', 'elaboration')
+((2, 5), [(2, 'masquerading as the US - very badly - and full of cut-rate British actors'), (3, "who can't do American accents."), (4, 'A monster'), (5, "that looks like an unarticulated promotional cut-out for Alien from a movie store, with the most inflexible feet ever seen. Girls in the shower, undressing, catfighting, blah, blah, blah. You get the idea. Don't watch it, run away, hide, AVOID.")], 'Satellite', 'elaboration')

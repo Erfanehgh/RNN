@@ -1,0 +1,8 @@
+((1, 1), [(1, "This is definitely Nolan's most intimite,and thought-provoking piece. Not to say that Memento or Insomnia are bad,but")], 'Nucleus', 'span')
+((2, 2), [(2, 'they were definitely up to more Hollywood standards...while')], 'Nucleus', 'span')
+((3, 3), [(3, 'Following is more of an indie flick.')], 'Nucleus', 'span')
+((4, 4), [(4, 'The story is very brilliant,and very well developed. Overall...watch this')], 'Nucleus', 'span')
+((5, 5), [(5, "if your a fan of any of Nolan's work,I'm sure you'll be able to appreciate it more.")], 'Satellite', 'condition')
+((4, 5), [(4, 'The story is very brilliant,and very well developed. Overall...watch this'), (5, "if your a fan of any of Nolan's work,I'm sure you'll be able to appreciate it more.")], 'Satellite', 'elaboration')
+((3, 5), [(3, 'Following is more of an indie flick.'), (4, 'The story is very brilliant,and very well developed. Overall...watch this'), (5, "if your a fan of any of Nolan's work,I'm sure you'll be able to appreciate it more.")], 'Satellite', 'circumstance')
+((2, 5), [(2, 'they were definitely up to more Hollywood standards...while'), (3, 'Following is more of an indie flick.'), (4, 'The story is very brilliant,and very well developed. Overall...watch this'), (5, "if your a fan of any of Nolan's work,I'm sure you'll be able to appreciate it more.")], 'Satellite', 'elaboration')

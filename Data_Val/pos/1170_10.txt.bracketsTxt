@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This film is well cast, often silly and always funny. Lemmon and Matthau work their tag team magic to perfection. Brent Spiner is just a riot as the egotistical tyrant of a cruise director. From the first "hare krishna" to the last "you ought pay him fifty bucks')], 'Nucleus', 'span')
+((2, 2), [(2, 'for calling you two studs",')], 'Nucleus', 'span')
+((3, 3), [(3, 'I thought')], 'Satellite', 'attribution')
+((4, 4), [(4, 'this was a totally entertaining fun comedy')], 'Nucleus', 'span')
+((3, 4), [(3, 'I thought'), (4, 'this was a totally entertaining fun comedy')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'for calling you two studs",'), (3, 'I thought'), (4, 'this was a totally entertaining fun comedy')], 'Satellite', 'elaboration')

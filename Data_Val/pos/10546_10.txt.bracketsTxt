@@ -1,0 +1,8 @@
+((1, 1), [(1, "It's one of my favorite movies as much")], 'Nucleus', 'span')
+((2, 2), [(2, 'because of the location and music')], 'Nucleus', 'span')
+((3, 3), [(3, "as the story line. Don't matter how many times I watch it, it doesn't")], 'Nucleus', 'span')
+((4, 4), [(4, 'seem to ever get old. I can almost say')], 'Satellite', 'attribution')
+((5, 5), [(5, 'all the lines along with the characters now. The movie is supper funny and really sweet.')], 'Nucleus', 'span')
+((4, 5), [(4, 'seem to ever get old. I can almost say'), (5, 'all the lines along with the characters now. The movie is supper funny and really sweet.')], 'Satellite', 'elaboration')
+((3, 5), [(3, "as the story line. Don't matter how many times I watch it, it doesn't"), (4, 'seem to ever get old. I can almost say'), (5, 'all the lines along with the characters now. The movie is supper funny and really sweet.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'because of the location and music'), (3, "as the story line. Don't matter how many times I watch it, it doesn't"), (4, 'seem to ever get old. I can almost say'), (5, 'all the lines along with the characters now. The movie is supper funny and really sweet.')], 'Satellite', 'reason')

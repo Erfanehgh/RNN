@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This is really good. Original ideas')], 'Nucleus', 'span')
+((2, 2), [(2, 'in the film and a great terrorist action film. Only second to die hard')], 'Nucleus', 'list')
+((3, 3), [(3, 'and die hard with a vengeance, this film has suspense and a good plot.')], 'Nucleus', 'span')
+((4, 4), [(4, 'I would recommend it to anyone with a taste in films like mine; Action, terrorism and gangster/mafia.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'and die hard with a vengeance, this film has suspense and a good plot.'), (4, 'I would recommend it to anyone with a taste in films like mine; Action, terrorism and gangster/mafia.')], 'Nucleus', 'list')
+((2, 4), [(2, 'in the film and a great terrorist action film. Only second to die hard'), (3, 'and die hard with a vengeance, this film has suspense and a good plot.'), (4, 'I would recommend it to anyone with a taste in films like mine; Action, terrorism and gangster/mafia.')], 'Satellite', 'elaboration')

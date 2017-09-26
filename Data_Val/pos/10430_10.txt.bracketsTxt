@@ -1,0 +1,8 @@
+((1, 1), [(1, "A very well directed version of Eric Bogosian's stage play. Well")], 'Nucleus', 'same_unit')
+((2, 2), [(2, "worth checking out for Bogosian's great characters")], 'Nucleus', 'list')
+((3, 3), [(3, 'and for anyone')], 'Nucleus', 'span')
+((4, 4), [(4, 'who wants to see')], 'Satellite', 'attribution')
+((5, 5), [(5, 'how to bring a play to the movies correctly.')], 'Nucleus', 'span')
+((4, 5), [(4, 'who wants to see'), (5, 'how to bring a play to the movies correctly.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'and for anyone'), (4, 'who wants to see'), (5, 'how to bring a play to the movies correctly.')], 'Nucleus', 'list')
+((2, 5), [(2, "worth checking out for Bogosian's great characters"), (3, 'and for anyone'), (4, 'who wants to see'), (5, 'how to bring a play to the movies correctly.')], 'Nucleus', 'same_unit')

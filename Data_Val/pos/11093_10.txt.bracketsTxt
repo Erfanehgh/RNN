@@ -1,0 +1,6 @@
+((1, 1), [(1, '"The Falcon & the Snowman" offers some of the best acting from its two leads. Hutton, in a brilliantly understated role, calmly portrays the confusion and angst of a man')], 'Nucleus', 'span')
+((2, 2), [(2, 'who seemingly turns traitor')], 'Nucleus', 'list')
+((3, 3), [(3, 'for no other reason')], 'Nucleus', 'span')
+((4, 4), [(4, 'than as rebellion against his father. Penn, as the co-conspirator basically just along for the ride and drug-money, explosively turns in one of the strongest performances of his multi-talented career.')], 'Satellite', 'comparison')
+((3, 4), [(3, 'for no other reason'), (4, 'than as rebellion against his father. Penn, as the co-conspirator basically just along for the ride and drug-money, explosively turns in one of the strongest performances of his multi-talented career.')], 'Nucleus', 'list')
+((2, 4), [(2, 'who seemingly turns traitor'), (3, 'for no other reason'), (4, 'than as rebellion against his father. Penn, as the co-conspirator basically just along for the ride and drug-money, explosively turns in one of the strongest performances of his multi-talented career.')], 'Satellite', 'elaboration')

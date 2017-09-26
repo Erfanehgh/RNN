@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is, in simple terms, one of the worst films ever made. The story goes way')], 'Nucleus', 'span')
+((2, 2), [(2, 'beyond being tasteless')], 'Nucleus', 'list')
+((3, 3), [(3, 'and judging by the actors performance, they know it. There')], 'Satellite', 'attribution')
+((4, 4), [(4, 'just in not one single redemming quality of this film. Patrick Swayze will have to overcome some major obstacles in his career,')], 'Nucleus', 'span')
+((5, 5), [(5, 'before people forget about this turkey.')], 'Satellite', 'temporal')
+((4, 5), [(4, 'just in not one single redemming quality of this film. Patrick Swayze will have to overcome some major obstacles in his career,'), (5, 'before people forget about this turkey.')], 'Nucleus', 'span')
+((3, 5), [(3, 'and judging by the actors performance, they know it. There'), (4, 'just in not one single redemming quality of this film. Patrick Swayze will have to overcome some major obstacles in his career,'), (5, 'before people forget about this turkey.')], 'Nucleus', 'list')
+((2, 5), [(2, 'beyond being tasteless'), (3, 'and judging by the actors performance, they know it. There'), (4, 'just in not one single redemming quality of this film. Patrick Swayze will have to overcome some major obstacles in his career,'), (5, 'before people forget about this turkey.')], 'Satellite', 'elaboration')

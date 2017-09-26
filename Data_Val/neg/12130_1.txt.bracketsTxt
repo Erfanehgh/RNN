@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie was pure genius. John Waters is brilliant. It is hilarious and I am not sick of it even after seeing it about 20 times')], 'Nucleus', 'span')
+((2, 2), [(2, 'since I bought it a few months ago. The acting is great,')], 'Satellite', 'concession')
+((3, 3), [(3, "although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movies, this is probably my favorite.")], 'Nucleus', 'span')
+((4, 4), [(4, 'I give it 9.5/10. Rent it today!')], 'Satellite', 'elaboration')
+((3, 4), [(3, "although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movies, this is probably my favorite."), (4, 'I give it 9.5/10. Rent it today!')], 'Nucleus', 'span')
+((2, 4), [(2, 'since I bought it a few months ago. The acting is great,'), (3, "although Ricki Lake could have been better. And Johnny Depp is magnificent. He is such a beautiful man and a very talented actor. And seeing most of Johnny's movies, this is probably my favorite."), (4, 'I give it 9.5/10. Rent it today!')], 'Satellite', 'elaboration')

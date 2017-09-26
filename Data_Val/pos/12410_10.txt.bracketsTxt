@@ -1,0 +1,4 @@
+((1, 1), [(1, "My wife and I loved this film. Smart dialogue, great characters, clever plot construction. The pacing in this film is non-stop. Couldn't")], 'Nucleus', 'span')
+((2, 2), [(2, 'even get to the kitchen for some munchies. We have never seen Corey Feldman this funny. Taylor Nichols plays a good Fed...my wife loves him on that "Married Man" HBO show.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'The ensemble cast were all strong. The twist at the end had us cheering. That is why we give this film a "Standing O."')], 'Nucleus', 'span')
+((2, 3), [(2, 'even get to the kitchen for some munchies. We have never seen Corey Feldman this funny. Taylor Nichols plays a good Fed...my wife loves him on that "Married Man" HBO show.'), (3, 'The ensemble cast were all strong. The twist at the end had us cheering. That is why we give this film a "Standing O."')], 'Satellite', 'elaboration')

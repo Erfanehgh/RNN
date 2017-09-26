@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Out to Sea was a great movie.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I expected comedy')], 'Nucleus', 'list')
+((3, 3), [(3, 'and from about 10 minutes into the film to the end, there was comedy, and laughing points. Jack')], 'Nucleus', 'list')
+((4, 4), [(4, 'and Walter are great together, and the addition of Rue McClanahan made it a wonderful movie,')], 'Nucleus', 'span')
+((5, 5), [(5, 'that should be seen over and over again.')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'and Walter are great together, and the addition of Rue McClanahan made it a wonderful movie,'), (5, 'that should be seen over and over again.')], 'Nucleus', 'list')
+((3, 5), [(3, 'and from about 10 minutes into the film to the end, there was comedy, and laughing points. Jack'), (4, 'and Walter are great together, and the addition of Rue McClanahan made it a wonderful movie,'), (5, 'that should be seen over and over again.')], 'Nucleus', 'list')
+((2, 5), [(2, 'I expected comedy'), (3, 'and from about 10 minutes into the film to the end, there was comedy, and laughing points. Jack'), (4, 'and Walter are great together, and the addition of Rue McClanahan made it a wonderful movie,'), (5, 'that should be seen over and over again.')], 'Satellite', 'elaboration')

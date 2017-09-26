@@ -1,0 +1,6 @@
+((1, 1), [(1, 'This movie is a real thriller! It was exciting from shortly after the start till the very end! If you are a real suspense nut, this is the movie for you!')], 'Nucleus', 'span')
+((2, 2), [(2, 'The characters were very well developed and the scenery was beautiful. The story was very well written, similar to some others')], 'Nucleus', 'span')
+((3, 3), [(3, 'I have seen,')], 'Nucleus', 'contrast')
+((4, 4), [(4, 'but quite different in several ways. A must see!')], 'Nucleus', 'contrast')
+((3, 4), [(3, 'I have seen,'), (4, 'but quite different in several ways. A must see!')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'The characters were very well developed and the scenery was beautiful. The story was very well written, similar to some others'), (3, 'I have seen,'), (4, 'but quite different in several ways. A must see!')], 'Satellite', 'elaboration')

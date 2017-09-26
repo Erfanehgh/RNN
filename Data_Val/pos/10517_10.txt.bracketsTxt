@@ -1,0 +1,8 @@
+((1, 1), [(1, 'excellent drama. very dark. i have never seen')], 'Satellite', 'attribution')
+((2, 2), [(2, 'california photographed in such a way. bridget fonda')], 'Nucleus', 'span')
+((3, 3), [(3, 'as the deaf wife beaten by her husband is superb. the film gripped me from start to finish. very understated performance')], 'Nucleus', 'span')
+((4, 4), [(4, 'by sutherland. the direction was very european. amazing')], 'Nucleus', 'span')
+((5, 5), [(5, 'to get such a performance from fonda.')], 'Satellite', 'purpose')
+((4, 5), [(4, 'by sutherland. the direction was very european. amazing'), (5, 'to get such a performance from fonda.')], 'Satellite', 'means')
+((3, 5), [(3, 'as the deaf wife beaten by her husband is superb. the film gripped me from start to finish. very understated performance'), (4, 'by sutherland. the direction was very european. amazing'), (5, 'to get such a performance from fonda.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'california photographed in such a way. bridget fonda'), (3, 'as the deaf wife beaten by her husband is superb. the film gripped me from start to finish. very understated performance'), (4, 'by sutherland. the direction was very european. amazing'), (5, 'to get such a performance from fonda.')], 'Nucleus', 'span')

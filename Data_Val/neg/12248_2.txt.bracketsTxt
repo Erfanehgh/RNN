@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This is the worst hindi film')], 'Nucleus', 'span')
+((2, 2), [(2, 'I have ever seen. It conforms')], 'Nucleus', 'span')
+((3, 3), [(3, 'to all the stereotypes of bad Hindi films. The plot is ridiculous, the acting over the top, and Shah Rukh manages')], 'Nucleus', 'span')
+((4, 4), [(4, 'to fit in a couple of song sequences')], 'Nucleus', 'span')
+((5, 5), [(5, 'even though he is playing the character of a dumb man.')], 'Satellite', 'concession')
+((4, 5), [(4, 'to fit in a couple of song sequences'), (5, 'even though he is playing the character of a dumb man.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'to all the stereotypes of bad Hindi films. The plot is ridiculous, the acting over the top, and Shah Rukh manages'), (4, 'to fit in a couple of song sequences'), (5, 'even though he is playing the character of a dumb man.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'I have ever seen. It conforms'), (3, 'to all the stereotypes of bad Hindi films. The plot is ridiculous, the acting over the top, and Shah Rukh manages'), (4, 'to fit in a couple of song sequences'), (5, 'even though he is playing the character of a dumb man.')], 'Satellite', 'elaboration')

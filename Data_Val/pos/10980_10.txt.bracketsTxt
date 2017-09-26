@@ -1,0 +1,4 @@
+((1, 1), [(1, 'Inspired casting, charming and witty throughout. Much like the currency in the opening moments of the film, the story floats along magically')], 'Nucleus', 'span')
+((2, 2), [(2, 'until you are emotionally "invested" in its outcome.')], 'Satellite', 'condition')
+((3, 3), [(3, 'The city of Buffalo has never looked better! Kudos to the Burton Sisters and the entire cast for a job well done.')], 'Nucleus', 'span')
+((2, 3), [(2, 'until you are emotionally "invested" in its outcome.'), (3, 'The city of Buffalo has never looked better! Kudos to the Burton Sisters and the entire cast for a job well done.')], 'Satellite', 'circumstance')

@@ -29,6 +29,9 @@ def readWV(path, stop):
 
         if key not in stop:
             del wordV[0]
-            WV[key] = (np.asarray(wordV,dtype=float))
+            WV[key] = np.asarray(wordV,dtype=float)
+            #print WV[key]
+            WV[key] = np.tanh(WV[key])
+            #print WV[key]
 
     return WV

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'This film is superb, it has the same low-budget first film feel')], 'Nucleus', 'span')
+((2, 2), [(2, "of 'Pi' and 'Clerks',")], 'Satellite', 'elaboration')
+((1, 2), [(1, 'This film is superb, it has the same low-budget first film feel'), (2, "of 'Pi' and 'Clerks',")], 'Nucleus', 'span')
+((3, 3), [(3, "but has the style of 'Memento' (also by Writer/Director Christopher Nolan). The score, sound effects, photography and editing are almost 'Memento' prototypes, and the story shows")], 'Satellite', 'attribution')
+((4, 4), [(4, 'that Christopher Nolan is best')], 'Nucleus', 'span')
+((5, 5), [(5, "when Writing and Directing. Don't be put off by the low-budget look and acting, or even the short length of the film, and just watch it!")], 'Satellite', 'circumstance')
+((4, 5), [(4, 'that Christopher Nolan is best'), (5, "when Writing and Directing. Don't be put off by the low-budget look and acting, or even the short length of the film, and just watch it!")], 'Nucleus', 'span')
+((3, 5), [(3, "but has the style of 'Memento' (also by Writer/Director Christopher Nolan). The score, sound effects, photography and editing are almost 'Memento' prototypes, and the story shows"), (4, 'that Christopher Nolan is best'), (5, "when Writing and Directing. Don't be put off by the low-budget look and acting, or even the short length of the film, and just watch it!")], 'Satellite', 'elaboration')

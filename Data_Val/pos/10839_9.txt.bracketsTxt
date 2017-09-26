@@ -1,0 +1,6 @@
+((1, 1), [(1, "This is a superb TV series, it's sympathetic and for once realistic! portrayal of lesbian women is delicately handled and well done. On top of that the directing is wonderful and the settings sumptuous and rich, a real treat.")], 'Nucleus', 'span')
+((2, 2), [(2, 'If you missed the first one')], 'Satellite', 'condition')
+((3, 3), [(3, 'I advise')], 'Satellite', 'attribution')
+((4, 4), [(4, 'you watch next weeks, 9PM, BBC 2')], 'Nucleus', 'span')
+((3, 4), [(3, 'I advise'), (4, 'you watch next weeks, 9PM, BBC 2')], 'Nucleus', 'span')
+((2, 4), [(2, 'If you missed the first one'), (3, 'I advise'), (4, 'you watch next weeks, 9PM, BBC 2')], 'Satellite', 'elaboration')

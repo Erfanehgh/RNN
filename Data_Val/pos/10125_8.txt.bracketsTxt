@@ -1,0 +1,8 @@
+((1, 1), [(1, 'Cuba Gooding Jr. and Ed Harris')], 'Nucleus', 'same_unit')
+((2, 2), [(2, 'are touching. This movie is really surprising.')], 'Satellite', 'attribution')
+((3, 3), [(3, 'It was enjoyable from start')], 'Nucleus', 'span')
+((4, 4), [(4, 'to finish.<br /><br />The story is about mentally challenged man')], 'Nucleus', 'span')
+((5, 5), [(5, 'who helps out with a football team.<br /><br />')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'to finish.<br /><br />The story is about mentally challenged man'), (5, 'who helps out with a football team.<br /><br />')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'It was enjoyable from start'), (4, 'to finish.<br /><br />The story is about mentally challenged man'), (5, 'who helps out with a football team.<br /><br />')], 'Nucleus', 'span')
+((2, 5), [(2, 'are touching. This movie is really surprising.'), (3, 'It was enjoyable from start'), (4, 'to finish.<br /><br />The story is about mentally challenged man'), (5, 'who helps out with a football team.<br /><br />')], 'Nucleus', 'same_unit')

@@ -1,0 +1,4 @@
+((1, 1), [(1, 'It is one of the best of Stephen Chow.')], 'Nucleus', 'span')
+((2, 2), [(2, 'I give it a nine out of ten.<br /><br />I was surprised')], 'Nucleus', 'span')
+((3, 3), [(3, "to see that Shaolin Soccer was rated on top of all singsing's movies. Unbelievable.")], 'Satellite', 'purpose')
+((2, 3), [(2, 'I give it a nine out of ten.<br /><br />I was surprised'), (3, "to see that Shaolin Soccer was rated on top of all singsing's movies. Unbelievable.")], 'Satellite', 'elaboration')

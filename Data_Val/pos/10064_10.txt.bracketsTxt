@@ -1,0 +1,8 @@
+((1, 1), [(1, 'I had seen this movie before, but I could not remember it was this fantastic:')], 'Nucleus', 'span')
+((2, 2), [(2, 'it has a fun plot,')], 'Nucleus', 'span')
+((3, 3), [(3, 'Madonna fumbles around the city with pumas etc. causing a commotion. And the music is just perfect! And the happy ending! Who\xc2\xb4s')], 'Nucleus', 'span')
+((4, 4), [(4, 'that girl is a great choice for a romanticist like me.')], 'Nucleus', 'span')
+((5, 5), [(5, 'In my opinion this could be even the best Madonna movie I have ever seen! 10/10')], 'Satellite', 'elaboration')
+((4, 5), [(4, 'that girl is a great choice for a romanticist like me.'), (5, 'In my opinion this could be even the best Madonna movie I have ever seen! 10/10')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'Madonna fumbles around the city with pumas etc. causing a commotion. And the music is just perfect! And the happy ending! Who\xc2\xb4s'), (4, 'that girl is a great choice for a romanticist like me.'), (5, 'In my opinion this could be even the best Madonna movie I have ever seen! 10/10')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'it has a fun plot,'), (3, 'Madonna fumbles around the city with pumas etc. causing a commotion. And the music is just perfect! And the happy ending! Who\xc2\xb4s'), (4, 'that girl is a great choice for a romanticist like me.'), (5, 'In my opinion this could be even the best Madonna movie I have ever seen! 10/10')], 'Satellite', 'elaboration')

@@ -1,0 +1,6 @@
+((1, 1), [(1, 'Worst pile of drivel')], 'Nucleus', 'span')
+((2, 2), [(2, 'to date! Everyone')], 'Nucleus', 'span')
+((3, 3), [(3, 'involved with this production should be ashamed of themselves. Not one single element of the movie was anything slightly like an original idea. A first grader')], 'Nucleus', 'span')
+((4, 4), [(4, 'telling you a story about nap time is more entertaining.')], 'Satellite', 'elaboration')
+((3, 4), [(3, 'involved with this production should be ashamed of themselves. Not one single element of the movie was anything slightly like an original idea. A first grader'), (4, 'telling you a story about nap time is more entertaining.')], 'Satellite', 'elaboration')
+((2, 4), [(2, 'to date! Everyone'), (3, 'involved with this production should be ashamed of themselves. Not one single element of the movie was anything slightly like an original idea. A first grader'), (4, 'telling you a story about nap time is more entertaining.')], 'Satellite', 'elaboration')

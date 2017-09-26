@@ -1,0 +1,8 @@
+((1, 1), [(1, 'In all this dogma fuzz, please note')], 'Nucleus', 'span')
+((2, 2), [(2, 'that this is the Danish masterpiece of the 20th century. The humour, the fate, the sorrow is so clean')], 'Nucleus', 'span')
+((3, 3), [(3, '- so simple')], 'Nucleus', 'span')
+((4, 4), [(4, "- so touching.<br /><br />This movie is a masterpiece. Go see it. There's nothing more")], 'Nucleus', 'span')
+((5, 5), [(5, 'to say.')], 'Satellite', 'purpose')
+((4, 5), [(4, "- so touching.<br /><br />This movie is a masterpiece. Go see it. There's nothing more"), (5, 'to say.')], 'Satellite', 'elaboration')
+((3, 5), [(3, '- so simple'), (4, "- so touching.<br /><br />This movie is a masterpiece. Go see it. There's nothing more"), (5, 'to say.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'that this is the Danish masterpiece of the 20th century. The humour, the fate, the sorrow is so clean'), (3, '- so simple'), (4, "- so touching.<br /><br />This movie is a masterpiece. Go see it. There's nothing more"), (5, 'to say.')], 'Satellite', 'elaboration')

@@ -1,0 +1,8 @@
+((1, 1), [(1, 'ANOTHER great performance by Kiefer Sutherland. I love his movies,')], 'Nucleus', 'span')
+((2, 2), [(2, 'because he always plays his role very well. For a low budget film, this was done very good, and kept me on the edge the whole time.')], 'Nucleus', 'span')
+((3, 3), [(3, 'I love these type of movies, and I was glad')], 'Nucleus', 'span')
+((4, 4), [(4, "I caught it on. I'll")], 'Nucleus', 'span')
+((5, 5), [(5, 'be buying the dvd or tape for sure.<br /><br />9/10.')], 'Satellite', 'elaboration')
+((4, 5), [(4, "I caught it on. I'll"), (5, 'be buying the dvd or tape for sure.<br /><br />9/10.')], 'Satellite', 'elaboration')
+((3, 5), [(3, 'I love these type of movies, and I was glad'), (4, "I caught it on. I'll"), (5, 'be buying the dvd or tape for sure.<br /><br />9/10.')], 'Satellite', 'elaboration')
+((2, 5), [(2, 'because he always plays his role very well. For a low budget film, this was done very good, and kept me on the edge the whole time.'), (3, 'I love these type of movies, and I was glad'), (4, "I caught it on. I'll"), (5, 'be buying the dvd or tape for sure.<br /><br />9/10.')], 'Satellite', 'elaboration')

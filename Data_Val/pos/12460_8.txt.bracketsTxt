@@ -1,0 +1,6 @@
+((1, 1), [(1, 'I must confess')], 'Satellite', 'attribution')
+((2, 2), [(2, "that I don't remember this film very well. But, certainly")], 'Satellite', 'attribution')
+((3, 3), [(3, 'I liked it. I think')], 'Satellite', 'attribution')
+((4, 4), [(4, "it was the best adaptation from Burroughs novel, really. And of course it's one of the best movie from Christopher Lambert.<br /><br />A good movie about Tarzan, as cult as the ones with Weissmuller.")], 'Nucleus', 'span')
+((3, 4), [(3, 'I liked it. I think'), (4, "it was the best adaptation from Burroughs novel, really. And of course it's one of the best movie from Christopher Lambert.<br /><br />A good movie about Tarzan, as cult as the ones with Weissmuller.")], 'Nucleus', 'span')
+((2, 4), [(2, "that I don't remember this film very well. But, certainly"), (3, 'I liked it. I think'), (4, "it was the best adaptation from Burroughs novel, really. And of course it's one of the best movie from Christopher Lambert.<br /><br />A good movie about Tarzan, as cult as the ones with Weissmuller.")], 'Nucleus', 'span')
